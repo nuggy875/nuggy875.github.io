@@ -1,0 +1,61 @@
+body{
+  background-color: #303030;
+  font-family: 'Bree Serif', serif;
+}
+footer{
+  font-family: 'Bree Serif', serif;
+}
+div{
+  display: block;
+}
+a{
+  color: #ffffff;
+  text-align: center;
+}
+p{
+  font-size: 2em;
+}
+.header{
+  text-align: center;
+  font-family: 'Baloo Tammudu', cursive;
+}
+.row{
+  padding-top: 0px;
+}
+.img_icon{
+  display:inline-block;
+  height: 70px;
+  weight: 70px;
+}
+.content{
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: .3rem;
+  padding: 50px 20px 50px 50px;
+  margin: 50px 50px 150px 50px;
+}
+.img_main{
+  position:relative;
+  width: 400px;
+  height: 400px;
+  margin-bottom: 200px;
+}
+.img_logo{
+  height:50px;
+  weight:50px;
+  margin:10px;
+}
+.footer-wrap{
+  display: flex;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  background-color:#202020;
+  color: #fff;
+}
+.part-footer{
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+.content_writing{
+  font-size: 20px;
+}
