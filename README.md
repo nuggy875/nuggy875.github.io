@@ -1,46 +1,118 @@
+[![GitHub release](https://img.shields.io/github/release/alxshelepenok/gatsby-starter-lumen.svg)](https://github.com/alxshelepenok/gatsby-starter-lumen) [![Code Climate](https://img.shields.io/codeclimate/maintainability/alxshelepenok/gatsby-starter-lumen.svg)](https://codeclimate.com/github/alxshelepenok/gatsby-starter-lumen) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/alxshelepenok/gatsby-starter-lumen/master/LICENSE) [![Twitter](https://img.shields.io/twitter/url/https/github.com/alxshelepenok/gatsby-starter-lumen.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/alxshelepenok/gatsby-starter-lumen)
 
-## 소개
+# Lumen
 
-안녕하세요, 저는 박민입니다. 재밌는 것과 디자인, 개발을 좋아하는 개발자입니다.
+Lumen is a minimal, lightweight and mobile-first starter for creating blogs uses [Gatsby](https://github.com/gatsbyjs/gatsby).
 
-다른 사람들에게 영감과 영향을 주고 싶어서 개발자가 되었습니다. 전세계 사람들의 여행을 바꾼 에어비엔비, 일상을 바꾼 페이스북등을 존경합니다.
+## Features
++ Lost Grid ([peterramsing/lost](https://github.com/peterramsing/lost)).
++ Beautiful typography inspired by [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg).
++ [Mobile-First](https://medium.com/@mrmrs_/mobile-first-css-48bc4cc3f60f) approach in development.
++ Stylesheet built using SASS and [BEM](http://getbem.com/naming/)-Style naming.
++ Syntax highlighting in code blocks.
++ Sidebar menu built using a configuration block.
++ Archive organized by tags and categories.
++ Automatic RSS generation.
++ Automatic Sitemap generation.
++ Offline support.
++ Google Analytics support.
++ Disqus Comments support.
 
-예쁘고 단순한 것을 좋아합니다. React를 주로 사용하며 최근엔 프론트엔드를 위주로 공부하고 있습니다.
+## Folder Structure
 
-사람들을 만나는 걸 좋아하고, 그들과 함께 웃는 것을 좋아합니다. 혼자 어디 박혀서 코딩한다거나 뒹굴거리는 시간도 좋아합니다. 좋아하는게 많은 타입인 것 같아요.
+```
+└── src
+    ├── assets
+    │   ├── fonts
+    │   │   └── fontello-771c82e0
+    │   │       ├── css
+    │   │       └── font
+    │   └── scss
+    │       ├── base
+    │       ├── mixins
+    │       └── pages
+    ├── components
+    │   ├── CategoryTemplateDetails
+    │   ├── Disqus
+    │   ├── Links
+    │   ├── Menu
+    │   ├── PageTemplateDetails
+    │   ├── Post
+    │   ├── PostTemplateDetails
+    │   ├── Sidebar
+    │   └── TagTemplateDetails
+    ├── layouts
+    ├── pages
+    │   ├── articles
+    │   │   ├── 2016-01-09---Perfecting-the-Art-of-Perfection
+    │   │   ├── 2016-01-12---The-Origins-of-Social-Stationery-Lettering
+    │   │   ├── 2016-02-02---A-Brief-History-of-Typography
+    │   │   ├── 2017-18-08---The-Birth-of-Movable-Type
+    │   │   └── 2017-19-08---Humane-Typography-in-the-Digital-Age
+    │   └── pages
+    │       ├── 2015-05-01---about
+    │       └── 2015-05-01---contact
+    └── templates
+```
 
-시스템을 상당히 좋아합니다. 서비스의 체계뿐만 아니라, 조직 체계, 운영 체계등 올바르게 돌아갈 수 있도록 뒷받침해주는 시스템적인 요소를 좋아합니다.
+## Getting Started
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+`gatsby new lumen https://github.com/alxshelepenok/gatsby-starter-lumen`
 
-CTO가 되는게 가장 큰 직업적 목표입니다.
+#### Running in Development
+`gatsby develop`
 
-반갑습니다.
+#### Building
+`gatsby build`
 
-## 약력
+#### Deploy with Netlify
 
-- 위즈돔에서 Spring기반의 굿모닝미리(경기도 좌석예약버스)앱 개발
+Netlify CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
 
-- 위즈돔에서 React로 SK/Kakao 통근 버스 예약 앱 개발
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-- 이해라이프스타일에서 ReactNative로 홈퍼니싱 하이브리드 앱 개발
+After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
 
-- 숭실대학교 IT대학 컴퓨터학부 전공
+## Screenshot
 
-- 숭실대학교 IT대학 학생회장
+![](http://i.imgur.com/422y5GV.png)
 
-- 계남초/계남중/계남고 졸업
+## Ports
+[Statinamic port](https://github.com/thangngoc89/statinamic-theme-lumen) by [Khoa Nguyen](https://github.com/thangngoc89)
 
-- 경기도 부천 출생
+## Contributors
+[<img alt="alxshelepenok" src="https://avatars2.githubusercontent.com/u/8599449?v=4&s=117" width="117">](https://github.com/alxshelepenok) |[<img alt="abisz" src="https://avatars3.githubusercontent.com/u/7287780?v=4&s=117" width="117">](https://github.com/abisz) |[<img alt="mariolopjr" src="https://avatars3.githubusercontent.com/u/2067324?v=4&s=117" width="117">](https://github.com/mariolopjr) |[<img alt="ihororlovskyi" src="https://avatars3.githubusercontent.com/u/7969737?v=4&s=117" width="117">](https://github.com/ihororlovskyi) |[<img alt="marcelabomfim" src="https://avatars0.githubusercontent.com/u/6224547?v=4&s=117" width="117">](https://github.com/marcelabomfim) |[<img alt="vinnymac" src="https://avatars0.githubusercontent.com/u/1832781?v=4&s=117" width="117">](https://github.com/vinnymac) |
+:---: |:---: |:---: |:---: |:---: |:---: |
+[alxshelepenok](https://github.com/alxshelepenok) |[abisz](https://github.com/abisz) |[mariolopjr](https://github.com/mariolopjr) |[ihororlovskyi](https://github.com/ihororlovskyi) |[marcelabomfim](https://github.com/marcelabomfim) |[vinnymac](https://github.com/vinnymac) |
 
-## 사이드프로젝트
+[<img alt="axelclark" src="https://avatars1.githubusercontent.com/u/16856928?v=4&s=117" width="117">](https://github.com/axelclark) |[<img alt="ybbarng" src="https://avatars2.githubusercontent.com/u/1793950?v=4&s=117" width="117">](https://github.com/ybbarng) |[<img alt="marktani" src="https://avatars1.githubusercontent.com/u/1780597?v=4&s=117" width="117">](https://github.com/marktani) |[<img alt="concreted" src="https://avatars2.githubusercontent.com/u/4016897?v=4&s=117" width="117">](https://github.com/concreted) |[<img alt="charandas" src="https://avatars2.githubusercontent.com/u/542168?v=4&s=117" width="117">](https://github.com/charandas) |[<img alt="zollillo" src="https://avatars3.githubusercontent.com/u/8833904?v=4&s=117" width="117">](https://github.com/zollillo) |
+:---: |:---: |:---: |:---: |:---: |:---: |
+[axelclark](https://github.com/axelclark) |[ybbarng](https://github.com/ybbarng) |[marktani](https://github.com/marktani) |[concreted](https://github.com/concreted) |[charandas](https://github.com/charandas) |[zollillo](https://github.com/zollillo) |
 
-- [react-redux-material-meteor](https://github.com/isme2n/react-redux-material-meteor) - 보일러 플레이트
+[<img alt="codejet" src="https://avatars3.githubusercontent.com/u/802203?v=4&s=117" width="117">](https://github.com/codejet) |[<img alt="reed-jones" src="https://avatars0.githubusercontent.com/u/11511864?v=4&s=117" width="117">](https://github.com/reed-jones) |[<img alt="swapnilmishra" src="https://avatars2.githubusercontent.com/u/875450?v=4&s=117" width="117">](https://github.com/swapnilmishra) |[<img alt="vvasiloud" src="https://avatars1.githubusercontent.com/u/5891530?v=4&s=117" width="117">](https://github.com/vvasiloud) |[<img alt="wichopy" src="https://avatars2.githubusercontent.com/u/24414632?v=4&s=117" width="117">](https://github.com/wichopy) |
+:---: |:---: |:---: |:---: |:---: |
+[codejet](https://github.com/codejet) |[reed-jones](https://github.com/reed-jones) |[swapnilmishra](https://github.com/swapnilmishra) |[vvasiloud](https://github.com/vvasiloud) |[wichopy](https://github.com/wichopy) |
 
-- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스
 
-- [secretary](https://chrome.google.com/webstore/detail/secretary/bijcgcgbhmeemlnidoigdcnokggknikb?hl=ko) - 기사요약 크롬 확장서비스
+## License
+The MIT License (MIT)
 
-## 하고싶은 말
+Copyright (c) 2016-2018 Alexander Shelepenok
 
-다양한 사이드 프로젝트 제안, 친구 제안, 번개 제안 등등 해주시면 좋아합니다.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-행복하세요 오늘도.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
