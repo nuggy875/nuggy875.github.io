@@ -2,10 +2,10 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---src-templates-page-template-jsx": require("gatsby-module-loader?name=component---src-templates-page-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx"),
   "component---src-templates-post-template-jsx": require("gatsby-module-loader?name=component---src-templates-post-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx"),
   "component---src-templates-tag-template-jsx": require("gatsby-module-loader?name=component---src-templates-tag-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx"),
   "component---src-templates-category-template-jsx": require("gatsby-module-loader?name=component---src-templates-category-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx"),
-  "component---src-templates-page-template-jsx": require("gatsby-module-loader?name=component---src-templates-page-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx"),
   "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/paeng/dev/web/nuggy875.github.io/.cache/dev-404-page.js"),
   "component---src-pages-404-jsx": require("gatsby-module-loader?name=component---src-pages-404-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx"),
   "component---src-pages-categories-jsx": require("gatsby-module-loader?name=component---src-pages-categories-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx"),
@@ -15,6 +15,12 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/layout-index.json"),
+  "contact.json": require("gatsby-module-loader?name=path---contact!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/contact.json"),
+  "about.json": require("gatsby-module-loader?name=path---about!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/about.json"),
+  "posts-perfecting-the-art-of-perfection.json": require("gatsby-module-loader?name=path---posts-perfecting-the-art-of-perfection!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-perfecting-the-art-of-perfection.json"),
+  "tags-handwriting.json": require("gatsby-module-loader?name=path---tags-handwriting!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-handwriting.json"),
+  "tags-learning-to-write.json": require("gatsby-module-loader?name=path---tags-learning-to-write!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-learning-to-write.json"),
+  "categories-design-inspiration.json": require("gatsby-module-loader?name=path---categories-design-inspiration!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories-design-inspiration.json"),
   "posts-the-origins-of-social-stationery-lettering.json": require("gatsby-module-loader?name=path---posts-the-origins-of-social-stationery-lettering!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-the-origins-of-social-stationery-lettering.json"),
   "tags-typefaces.json": require("gatsby-module-loader?name=path---tags-typefaces!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-typefaces.json"),
   "tags-lettering.json": require("gatsby-module-loader?name=path---tags-lettering!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-lettering.json"),
@@ -25,10 +31,6 @@ exports.json = {
   "tags-monotype.json": require("gatsby-module-loader?name=path---tags-monotype!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-monotype.json"),
   "tags-history-of-typography.json": require("gatsby-module-loader?name=path---tags-history-of-typography!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-history-of-typography.json"),
   "tags-helvetica.json": require("gatsby-module-loader?name=path---tags-helvetica!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-helvetica.json"),
-  "categories-design-inspiration.json": require("gatsby-module-loader?name=path---categories-design-inspiration!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories-design-inspiration.json"),
-  "posts-perfecting-the-art-of-perfection.json": require("gatsby-module-loader?name=path---posts-perfecting-the-art-of-perfection!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-perfecting-the-art-of-perfection.json"),
-  "tags-handwriting.json": require("gatsby-module-loader?name=path---tags-handwriting!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-handwriting.json"),
-  "tags-learning-to-write.json": require("gatsby-module-loader?name=path---tags-learning-to-write!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-learning-to-write.json"),
   "posts-the-birth-of-movable-type.json": require("gatsby-module-loader?name=path---posts-the-birth-of-movable-type!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-the-birth-of-movable-type.json"),
   "tags-open-source.json": require("gatsby-module-loader?name=path---tags-open-source!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-open-source.json"),
   "tags-gatsby.json": require("gatsby-module-loader?name=path---tags-gatsby!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-gatsby.json"),
@@ -37,8 +39,6 @@ exports.json = {
   "posts-humane-typography-in-the-digital-age.json": require("gatsby-module-loader?name=path---posts-humane-typography-in-the-digital-age!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-humane-typography-in-the-digital-age.json"),
   "tags-design.json": require("gatsby-module-loader?name=path---tags-design!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-design.json"),
   "tags-web-development.json": require("gatsby-module-loader?name=path---tags-web-development!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-web-development.json"),
-  "about.json": require("gatsby-module-loader?name=path---about!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/about.json"),
-  "contact.json": require("gatsby-module-loader?name=path---contact!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/contact.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404.json"),
   "categories.json": require("gatsby-module-loader?name=path---categories!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories.json"),
