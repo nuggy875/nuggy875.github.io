@@ -4,7 +4,7 @@ date: "2018-07-04T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/start_blog/"
-category: "etc"
+category: "Etc"
 tags:
   - "etc"
   - "react"

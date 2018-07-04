@@ -2,11 +2,11 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---node-modules-gatsby-plugin-offline-app-shell-js": require("gatsby-module-loader?name=component---node-modules-gatsby-plugin-offline-app-shell-js!/Users/paeng/dev/web/nuggy875.github.io/node_modules/gatsby-plugin-offline/app-shell.js"),
   "component---src-templates-page-template-jsx": require("gatsby-module-loader?name=component---src-templates-page-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx"),
   "component---src-templates-post-template-jsx": require("gatsby-module-loader?name=component---src-templates-post-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx"),
   "component---src-templates-tag-template-jsx": require("gatsby-module-loader?name=component---src-templates-tag-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx"),
   "component---src-templates-category-template-jsx": require("gatsby-module-loader?name=component---src-templates-category-template-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx"),
-  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/paeng/dev/web/nuggy875.github.io/.cache/dev-404-page.js"),
   "component---src-pages-404-jsx": require("gatsby-module-loader?name=component---src-pages-404-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx"),
   "component---src-pages-categories-jsx": require("gatsby-module-loader?name=component---src-pages-categories-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx"),
   "component---src-pages-index-jsx": require("gatsby-module-loader?name=component---src-pages-index-jsx!/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx"),
@@ -15,8 +15,9 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/layout-index.json"),
-  "contact.json": require("gatsby-module-loader?name=path---contact!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/contact.json"),
+  "offline-plugin-app-shell-fallback.json": require("gatsby-module-loader?name=path---offline-plugin-app-shell-fallback!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/offline-plugin-app-shell-fallback.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/about.json"),
+  "contact.json": require("gatsby-module-loader?name=path---contact!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/contact.json"),
   "posts-perfecting-the-art-of-perfection.json": require("gatsby-module-loader?name=path---posts-perfecting-the-art-of-perfection!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-perfecting-the-art-of-perfection.json"),
   "tags-handwriting.json": require("gatsby-module-loader?name=path---tags-handwriting!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-handwriting.json"),
   "tags-learning-to-write.json": require("gatsby-module-loader?name=path---tags-learning-to-write!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-learning-to-write.json"),
@@ -43,7 +44,6 @@ exports.json = {
   "tags-etc.json": require("gatsby-module-loader?name=path---tags-etc!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-etc.json"),
   "tags-react.json": require("gatsby-module-loader?name=path---tags-react!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-react.json"),
   "categories-etc.json": require("gatsby-module-loader?name=path---categories-etc!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories-etc.json"),
-  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404.json"),
   "categories.json": require("gatsby-module-loader?name=path---categories!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/index.json"),
