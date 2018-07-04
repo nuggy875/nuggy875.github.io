@@ -1,12 +1,5 @@
 [
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "offline-plugin-app-shell-fallback.json",
-        "path": "/offline-plugin-app-shell-fallback/"
-    },
-    {
         "componentChunkName": "component---src-templates-page-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
@@ -178,8 +171,8 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-블로그-시작.json",
-        "path": "/posts/블로그 시작/"
+        "jsonName": "posts-start-blog.json",
+        "path": "/posts/start_blog/"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-jsx",
@@ -201,6 +194,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "categories-etc.json",
         "path": "/categories/etc/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-jsx",

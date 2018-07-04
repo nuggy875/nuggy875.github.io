@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "a1b6339d6cb0f8014a70c525772dd6dd",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -1925,14 +1935,16 @@
           "vk": "#"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-04T02:58:54.531Z",
+      "buildTime": "2018-07-04T03:11:05.606Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "79fcf41a442cc7a3ee5ce47bd5ef9cbf",
+        "contentDigest": "c384a2868d6c05128c75dce77783c5d7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1942,7 +1954,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "67c48da79bdbcee69bcd97139c77b383",
+        "contentDigest": "92f665024f66d75e46ee3a8f52f09d44",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1954,7 +1966,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-07-04T02:15:45.625Z",
-      "accessTime": "2018-07-04T02:58:58.879Z",
+      "accessTime": "2018-07-04T03:11:10.358Z",
       "changeTime": "2018-07-04T02:15:45.625Z",
       "birthTime": "2018-07-03T12:49:45.385Z",
       "root": "/",
@@ -1972,11 +1984,11 @@
       "blksize": 4194304,
       "ino": 8602056238,
       "blocks": 0,
-      "atimeMs": 1530673138879.0332,
+      "atimeMs": 1530673870357.9695,
       "mtimeMs": 1530670545624.6475,
       "ctimeMs": 1530670545624.6475,
       "birthtimeMs": 1530622185384.7732,
-      "atime": "2018-07-04T02:58:58.879Z",
+      "atime": "2018-07-04T03:11:10.358Z",
       "mtime": "2018-07-04T02:15:45.625Z",
       "ctime": "2018-07-04T02:15:45.625Z",
       "birthtime": "2018-07-03T12:49:45.385Z"
@@ -1986,7 +1998,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ea537e9d3a6ee56883238dcb14efdf29",
+        "contentDigest": "cec404d17f9e723029d8dfadded7a9d0",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -1998,7 +2010,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2018-07-04T02:46:28.402Z",
-      "accessTime": "2018-07-04T02:58:58.882Z",
+      "accessTime": "2018-07-04T03:11:10.360Z",
       "changeTime": "2018-07-04T02:46:28.402Z",
       "birthTime": "2018-07-03T12:49:45.385Z",
       "root": "/",
@@ -2016,11 +2028,11 @@
       "blksize": 4194304,
       "ino": 8602056240,
       "blocks": 0,
-      "atimeMs": 1530673138881.5452,
+      "atimeMs": 1530673870359.825,
       "mtimeMs": 1530672388401.628,
       "ctimeMs": 1530672388401.628,
       "birthtimeMs": 1530622185385.095,
-      "atime": "2018-07-04T02:58:58.882Z",
+      "atime": "2018-07-04T03:11:10.360Z",
       "mtime": "2018-07-04T02:46:28.402Z",
       "ctime": "2018-07-04T02:46:28.402Z",
       "birthtime": "2018-07-03T12:49:45.385Z"
@@ -2030,7 +2042,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81a05ecb193d4bb8d0a32d610ff1fa70",
+        "contentDigest": "9157310fbda61c757623230e7d83cbde",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2042,7 +2054,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.443Z",
-      "accessTime": "2018-07-04T02:58:58.882Z",
+      "accessTime": "2018-07-04T03:11:10.360Z",
       "changeTime": "2018-07-03T12:49:45.443Z",
       "birthTime": "2018-07-03T12:49:45.428Z",
       "root": "/",
@@ -2060,11 +2072,11 @@
       "blksize": 4194304,
       "ino": 8602056261,
       "blocks": 0,
-      "atimeMs": 1530673138881.5322,
+      "atimeMs": 1530673870359.8025,
       "mtimeMs": 1530622185442.5403,
       "ctimeMs": 1530622185442.5403,
       "birthtimeMs": 1530622185427.9727,
-      "atime": "2018-07-04T02:58:58.882Z",
+      "atime": "2018-07-04T03:11:10.360Z",
       "mtime": "2018-07-03T12:49:45.443Z",
       "ctime": "2018-07-03T12:49:45.443Z",
       "birthtime": "2018-07-03T12:49:45.428Z"
@@ -2074,7 +2086,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2324ae1a914b3e6bc52d7c27665c2dae",
+        "contentDigest": "c777a9a6628256ee806885f380032c4a",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2086,7 +2098,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.442Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.362Z",
       "changeTime": "2018-07-03T12:49:45.442Z",
       "birthTime": "2018-07-03T12:49:45.428Z",
       "root": "/",
@@ -2104,11 +2116,11 @@
       "blksize": 4194304,
       "ino": 8602056262,
       "blocks": 0,
-      "atimeMs": 1530673138884.4414,
+      "atimeMs": 1530673870362.4468,
       "mtimeMs": 1530622185442.2554,
       "ctimeMs": 1530622185442.2554,
       "birthtimeMs": 1530622185428.0996,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.362Z",
       "mtime": "2018-07-03T12:49:45.442Z",
       "ctime": "2018-07-03T12:49:45.442Z",
       "birthtime": "2018-07-03T12:49:45.428Z"
@@ -2118,7 +2130,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "811bd3401834949b47e1a50ca12cfb09",
+        "contentDigest": "7dc532757aff9881f3136b95fe7c76aa",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
         "owner": "gatsby-source-filesystem"
@@ -2130,7 +2142,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.446Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.362Z",
       "changeTime": "2018-07-03T12:49:45.446Z",
       "birthTime": "2018-07-03T12:49:45.443Z",
       "root": "/",
@@ -2148,11 +2160,11 @@
       "blksize": 4194304,
       "ino": 8602056265,
       "blocks": 0,
-      "atimeMs": 1530673138884.4285,
+      "atimeMs": 1530673870362.4688,
       "mtimeMs": 1530622185446.484,
       "ctimeMs": 1530622185446.484,
       "birthtimeMs": 1530622185442.5315,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.362Z",
       "mtime": "2018-07-03T12:49:45.446Z",
       "ctime": "2018-07-03T12:49:45.446Z",
       "birthtime": "2018-07-03T12:49:45.443Z"
@@ -2162,7 +2174,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3d63332a44791441717766a5ee160f73",
+        "contentDigest": "4a2d9b1fc29101d547dc74f232c935a7",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection\"",
         "owner": "gatsby-source-filesystem"
@@ -2174,7 +2186,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.391Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.362Z",
       "changeTime": "2018-07-03T12:49:45.391Z",
       "birthTime": "2018-07-03T12:49:45.385Z",
       "root": "/",
@@ -2192,11 +2204,11 @@
       "blksize": 4194304,
       "ino": 8602056241,
       "blocks": 0,
-      "atimeMs": 1530673138884.4666,
+      "atimeMs": 1530673870362.4875,
       "mtimeMs": 1530622185390.8447,
       "ctimeMs": 1530622185390.8447,
       "birthtimeMs": 1530622185385.156,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.362Z",
       "mtime": "2018-07-03T12:49:45.391Z",
       "ctime": "2018-07-03T12:49:45.391Z",
       "birthtime": "2018-07-03T12:49:45.385Z"
@@ -2206,7 +2218,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0ae9b53972cd428c242aeec9eb715150",
+        "contentDigest": "32f5a19c6ba8bbf9887a652b9eec8fed",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering\"",
         "owner": "gatsby-source-filesystem"
@@ -2218,7 +2230,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.397Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-03T12:49:45.397Z",
       "birthTime": "2018-07-03T12:49:45.391Z",
       "root": "/",
@@ -2236,11 +2248,11 @@
       "blksize": 4194304,
       "ino": 8602056244,
       "blocks": 0,
-      "atimeMs": 1530673138884.4917,
+      "atimeMs": 1530673870362.508,
       "mtimeMs": 1530622185396.531,
       "ctimeMs": 1530622185396.531,
       "birthtimeMs": 1530622185391.1584,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-03T12:49:45.397Z",
       "ctime": "2018-07-03T12:49:45.397Z",
       "birthtime": "2018-07-03T12:49:45.391Z"
@@ -2250,7 +2262,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a655b596ba5727a9b9471d85627a55a8",
+        "contentDigest": "025ce8c0fae4b1aec430522190761924",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-02-02---A-Brief-History-of-Typography\"",
         "owner": "gatsby-source-filesystem"
@@ -2262,7 +2274,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-03T12:49:45.409Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-03T12:49:45.409Z",
       "birthTime": "2018-07-03T12:49:45.397Z",
       "root": "/",
@@ -2280,11 +2292,11 @@
       "blksize": 4194304,
       "ino": 8602056247,
       "blocks": 0,
-      "atimeMs": 1530673138884.4539,
+      "atimeMs": 1530673870362.5276,
       "mtimeMs": 1530622185409.0103,
       "ctimeMs": 1530622185409.0103,
       "birthtimeMs": 1530622185396.8352,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-03T12:49:45.409Z",
       "ctime": "2018-07-03T12:49:45.409Z",
       "birthtime": "2018-07-03T12:49:45.397Z"
@@ -2294,7 +2306,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "29f787b85e51ca3ce96d76be7d5077c9",
+        "contentDigest": "56588a466ad26fdb0084430107c734f1",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-18-08---The-Birth-of-Movable-Type\"",
         "owner": "gatsby-source-filesystem"
@@ -2306,7 +2318,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-07-03T12:49:45.415Z",
-      "accessTime": "2018-07-04T02:58:58.885Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-03T12:49:45.415Z",
       "birthTime": "2018-07-03T12:49:45.409Z",
       "root": "/",
@@ -2324,11 +2336,11 @@
       "blksize": 4194304,
       "ino": 8602056250,
       "blocks": 0,
-      "atimeMs": 1530673138884.504,
+      "atimeMs": 1530673870362.5676,
       "mtimeMs": 1530622185414.96,
       "ctimeMs": 1530622185414.96,
       "birthtimeMs": 1530622185409.2424,
-      "atime": "2018-07-04T02:58:58.885Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-03T12:49:45.415Z",
       "ctime": "2018-07-03T12:49:45.415Z",
       "birthtime": "2018-07-03T12:49:45.409Z"
@@ -2338,7 +2350,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "75145fe7220e3eecf57eb4ddf5143e93",
+        "contentDigest": "fbe7c7b6b4ab2a5b427e03c1b13c9a3d",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age\"",
         "owner": "gatsby-source-filesystem"
@@ -2350,7 +2362,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-07-03T12:49:45.427Z",
-      "accessTime": "2018-07-04T02:58:58.885Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-03T12:49:45.427Z",
       "birthTime": "2018-07-03T12:49:45.421Z",
       "root": "/",
@@ -2368,11 +2380,11 @@
       "blksize": 4194304,
       "ino": 8602056255,
       "blocks": 0,
-      "atimeMs": 1530673138884.537,
+      "atimeMs": 1530673870362.5874,
       "mtimeMs": 1530622185426.5647,
       "ctimeMs": 1530622185426.5647,
       "birthtimeMs": 1530622185420.9114,
-      "atime": "2018-07-04T02:58:58.885Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-03T12:49:45.427Z",
       "ctime": "2018-07-03T12:49:45.427Z",
       "birthtime": "2018-07-03T12:49:45.421Z"
@@ -3975,7 +3987,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2d01c89825268daefab2878492caf3a3",
+        "contentDigest": "7049c7ab061043b652fae29d9aadf7c9",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection\"",
         "owner": "gatsby-source-filesystem"
@@ -3987,7 +3999,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T02:45:44.335Z",
-      "accessTime": "2018-07-04T02:58:58.884Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-04T02:45:44.335Z",
       "birthTime": "2018-07-04T02:45:44.320Z",
       "root": "/",
@@ -4005,11 +4017,11 @@
       "blksize": 4194304,
       "ino": 8602216117,
       "blocks": 0,
-      "atimeMs": 1530673138884.4795,
+      "atimeMs": 1530673870362.5483,
       "mtimeMs": 1530672344334.8354,
       "ctimeMs": 1530672344334.8354,
       "birthtimeMs": 1530672344320.4172,
-      "atime": "2018-07-04T02:58:58.884Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-04T02:45:44.335Z",
       "ctime": "2018-07-04T02:45:44.335Z",
       "birthtime": "2018-07-04T02:45:44.320Z"
@@ -4177,7 +4189,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9c2760c3bdf2c0cb2c1a0ffb2914c94e",
+        "contentDigest": "a912dba030a130ce70e5e7e283616199",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-04-07---블로그 시작\"",
         "owner": "gatsby-source-filesystem"
@@ -4189,7 +4201,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-07-04T02:45:56.830Z",
-      "accessTime": "2018-07-04T02:58:58.885Z",
+      "accessTime": "2018-07-04T03:11:10.363Z",
       "changeTime": "2018-07-04T02:46:28.402Z",
       "birthTime": "2018-07-04T02:45:56.815Z",
       "root": "/",
@@ -4207,11 +4219,11 @@
       "blksize": 4194304,
       "ino": 8602216129,
       "blocks": 0,
-      "atimeMs": 1530673138884.5234,
+      "atimeMs": 1530673870362.6206,
       "mtimeMs": 1530672356829.826,
       "ctimeMs": 1530672388401.628,
       "birthtimeMs": 1530672356815.0269,
-      "atime": "2018-07-04T02:58:58.885Z",
+      "atime": "2018-07-04T03:11:10.363Z",
       "mtime": "2018-07-04T02:45:56.830Z",
       "ctime": "2018-07-04T02:46:28.402Z",
       "birthtime": "2018-07-04T02:45:56.815Z"
@@ -4223,7 +4235,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "da8dd52f47d2479d3025078bc29b0013",
+        "contentDigest": "f0f01ef31f2e80e27598858ee8d21ad1",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/articles/2018-04-07---블로그 시작/index.md\"",
@@ -4236,11 +4248,11 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md",
       "relativePath": "articles/2018-04-07---블로그 시작/index.md",
       "extension": "md",
-      "size": 6373,
+      "size": 6370,
       "prettySize": "6.37 kB",
-      "modifiedTime": "2018-07-04T02:53:50.686Z",
-      "accessTime": "2018-07-04T02:53:50.686Z",
-      "changeTime": "2018-07-04T02:53:50.686Z",
+      "modifiedTime": "2018-07-04T03:05:39.752Z",
+      "accessTime": "2018-07-04T03:05:39.759Z",
+      "changeTime": "2018-07-04T03:05:39.752Z",
       "birthTime": "2018-07-04T02:45:56.829Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작",
@@ -4257,13 +4269,13 @@
       "blksize": 4194304,
       "ino": 8602216131,
       "blocks": 16,
-      "atimeMs": 1530672830685.9995,
-      "mtimeMs": 1530672830686.437,
-      "ctimeMs": 1530672830686.437,
+      "atimeMs": 1530673539758.667,
+      "mtimeMs": 1530673539751.9453,
+      "ctimeMs": 1530673539751.9453,
       "birthtimeMs": 1530672356828.7178,
-      "atime": "2018-07-04T02:53:50.686Z",
-      "mtime": "2018-07-04T02:53:50.686Z",
-      "ctime": "2018-07-04T02:53:50.686Z",
+      "atime": "2018-07-04T03:05:39.759Z",
+      "mtime": "2018-07-04T03:05:39.752Z",
+      "ctime": "2018-07-04T03:05:39.752Z",
       "birthtime": "2018-07-04T02:45:56.829Z",
       "fields": {
         "slug": "/블로그 시작/"
@@ -4400,9 +4412,9 @@
       "children": [],
       "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: 블로그 시작\ndate: \"2018-07-04T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/블로그 시작/\"\ncategory: \"etc\"\ntags:\n  - \"etc\"\n  - \"react\"\n  - \"Web Development\"\ndescription: \"블로그 시작!\"\n---\n\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.\n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*",
+        "content": "---\ntitle: 블로그 시작\ndate: \"2018-07-04T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/start_blog/\"\ncategory: \"etc\"\ntags:\n  - \"etc\"\n  - \"react\"\n  - \"Web Development\"\ndescription: \"블로그 시작!\"\n---\n\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.  \n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
         "type": "MarkdownRemark",
-        "contentDigest": "366dd8d9b20bfd807701448820643276",
+        "contentDigest": "09751f1d0fb039cb12defb0125917e35",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -4415,7 +4427,7 @@
         "date": "2018-07-04T22:40:32.169Z",
         "layout": "post",
         "draft": false,
-        "path": "/posts/블로그 시작/",
+        "path": "/posts/start_blog/",
         "category": "etc",
         "tags": [
           "etc",
@@ -4427,37 +4439,16 @@
         "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.\n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*",
+      "rawMarkdownBody": "\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.  \n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
       "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md",
       "fields": {
-        "slug": "/posts/블로그 시작/",
+        "slug": "/posts/start_blog/",
         "tagSlugs": [
           "/tags/etc/",
           "/tags/react/",
           "/tags/web-development/"
         ],
         "categorySlug": "/categories/etc/"
-      }
-    },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "38c17314d60bd259d8002f224b4c03ca",
-        "description": "Plugin gatsby-plugin-offline",
-        "owner": "internal-data-bridge"
       }
     },
     "SitePage /contact": {
@@ -4478,7 +4469,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "54e567a9349732f01f156a5ca1123f94",
+        "contentDigest": "eeb35afa004fb5e5f6cf6514e183b9c9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4501,7 +4492,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9ad52f610ff1854d1585ffd206e5e23a",
+        "contentDigest": "c4eaf09cfa7619590f4d0fb6e46013e7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4524,7 +4515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c25913842344ef9b0a39065a7bed404",
+        "contentDigest": "523d1741b57d8610ffe2ce44dbe3e192",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4547,7 +4538,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3237e7c09a881c99ceb7c8b4b6ce525f",
+        "contentDigest": "b0aebc847e0a228a81d2493d290d9924",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4570,7 +4561,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8b234959c5aa478ff20e80be06692562",
+        "contentDigest": "7dc66499db93df068ff7d8022f3945e9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4593,7 +4584,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9923d1343e4939c3c96082fa08c57e80",
+        "contentDigest": "264090a49ca8a3e0404764409b4fc6c7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4616,7 +4607,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d3602c377f51e3a944f2600c5f1a80b",
+        "contentDigest": "9186af7fef73eac28508aea0d6223f85",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4639,7 +4630,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7b063b51ea2a32381da6e6b8c297789a",
+        "contentDigest": "b25ca87601d25a93643243f724b439d8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4662,7 +4653,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "39afec32e56e0e7d53898571260663b5",
+        "contentDigest": "cc19aef63ebe689161c65f94f0ac43e2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4685,7 +4676,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "24f3e1ee9cfa47c559ea52cc2ab82e21",
+        "contentDigest": "7d592a2855ed246d4398fa7bb1035f5d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4708,7 +4699,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3056730ff3c5a848858cafba7df981d1",
+        "contentDigest": "a3f1ab0ef1cfc22526771dbee1a66705",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4731,7 +4722,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "33558ae438d1b2d7d7c88a18b2b00176",
+        "contentDigest": "84b75e5736d2e7886a1163df17ef1b8d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4754,7 +4745,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90bf7377081cd6e7a5cdc6b8fa4d4f78",
+        "contentDigest": "4b88ab4bf441129fe3c3d0df97f951e3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4777,7 +4768,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b6a7a5d265496a77ff73566982bdef11",
+        "contentDigest": "4bce88fe701c3ecffa55c67d432e690b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4800,7 +4791,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4064c228c1b532f637f8b999eb85586e",
+        "contentDigest": "79583e046ee0927471493ad38744c190",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4823,7 +4814,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4919c6407b2295d97ac4d9dc0f5d44bc",
+        "contentDigest": "a8092d21b545e5f580cff51eafeaef3e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4846,7 +4837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "016640612b3917d5ca9cddfed65c1d0e",
+        "contentDigest": "8cfdbedfb267badf1db167af7e51a4b3",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4869,7 +4860,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1b094f1ca739551f04fd891f480f5273",
+        "contentDigest": "35eba63e9bfb21ffe60ed4534ad08dc1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4892,7 +4883,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c44b10a6057c56b18cddfa8058191e68",
+        "contentDigest": "7a13c93d2aa730a479427b89a26b796c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4915,7 +4906,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "236b22e9321bdf349225697956ce70b4",
+        "contentDigest": "9c33cab2bc9f780cb34528c65a8f6b53",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4938,7 +4929,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d544a2d36a41e421d02cda78ed8bfd66",
+        "contentDigest": "741a0045faa020c7fbea8e6badbebcb4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4961,7 +4952,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "05536de019748d06d54cfc7ed2b21be4",
+        "contentDigest": "bfccb387eb7b4af74b2777086319ab92",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4984,7 +4975,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c69d3dd199ed6ee89284bdd3ae0c5579",
+        "contentDigest": "873385aab8ef7c8415a1a37d398cd50d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5007,30 +4998,30 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9af74f9a814742a0c9aecf123239468f",
+        "contentDigest": "e7dde330d82b76a6da8874c5c9d44329",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /posts/블로그 시작/": {
+    "SitePage /posts/start_blog/": {
       "layout": "index",
-      "jsonName": "posts-블로그-시작.json",
-      "internalComponentName": "ComponentPosts블로그시작",
-      "path": "/posts/블로그 시작/",
+      "jsonName": "posts-start-blog.json",
+      "internalComponentName": "ComponentPostsStartBlog",
+      "path": "/posts/start_blog/",
       "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
       "componentChunkName": "component---src-templates-post-template-jsx",
       "context": {
-        "slug": "/posts/블로그 시작/"
+        "slug": "/posts/start_blog/"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/블로그 시작/",
+      "id": "SitePage /posts/start_blog/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "db5662fdd62eb8579eb5f8afbf77fc4f",
+        "contentDigest": "0577f8fd8cfe5198012105ff66cf5d78",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5053,7 +5044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a1e84d1541eedd9be85caf8ed3efcbcd",
+        "contentDigest": "a250bac0a2439012bf4edc5d48565d7a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5076,7 +5067,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c8896e8912c79e0b9ee0cb54db0b214",
+        "contentDigest": "5454babe9f378df55ac94d1de5d29bcd",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5099,7 +5090,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "926b1c503d71310d188bb96187be1b0c",
+        "contentDigest": "7204dcd1a3e9bfdca9964fefbd33d9a4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5120,7 +5111,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ec1a093bb04defb9f832d12435a3fd56",
+        "contentDigest": "da295948c8f8a9b7d6aa053c3b1afea9",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5141,7 +5132,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90a914f5bae0103dd0c2f5283fa0ddb8",
+        "contentDigest": "ecb7e8ccbdffe49d2ddba33c1cddfd35",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5162,7 +5153,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb05c67d5264e36275f61079ffc59a54",
+        "contentDigest": "531b4b099ca96256a449767b95b327d6",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5183,7 +5174,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "350f195c697aa0eee0affc8eaf6d1ae3",
+        "contentDigest": "5f66c6ee541e93741b7eafff7270fff1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5204,7 +5195,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3a0eca1bf9334a3833e55f1c0757fa2a",
+        "contentDigest": "5f82b7819ea760eafd77e95345e46f42",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -5249,7 +5240,8 @@
         "/categories/etc/",
         "/posts/블로그 시작/",
         "/tags/etc/",
-        "/tags/react/"
+        "/tags/react/",
+        "/posts/start_blog/"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
         "/about"
@@ -5273,7 +5265,8 @@
         "/posts/humane-typography-in-the-digital-age/"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/블로그 시작/"
+        "/posts/블로그 시작/",
+        "/posts/start_blog/"
       ]
     },
     "connections": {

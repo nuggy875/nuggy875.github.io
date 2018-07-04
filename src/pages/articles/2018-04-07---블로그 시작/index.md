@@ -3,7 +3,7 @@ title: 블로그 시작
 date: "2018-07-04T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/블로그 시작/"
+path: "/posts/start_blog/"
 category: "etc"
 tags:
   - "etc"
@@ -13,7 +13,7 @@ description: "블로그 시작!"
 ---
 
 개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데
-많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.
+많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.  
 블로그는 React 기반의
 [Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,
 [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.
