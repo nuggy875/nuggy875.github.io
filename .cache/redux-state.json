@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75373bb9ac1e0cf76176fec31d827a18",
+        "contentDigest": "c89da83077fa8818cbca418470e5c366",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1668,7 +1668,7 @@
       "resolve": "/Users/paeng/dev/web/nuggy875.github.io",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "457bedbad040af8dc9a810d745a3ca1b",
+      "version": "cdd89b9a402269a5db28a2d6e307b2c2",
       "pluginOptions": {
         "plugins": []
       },
@@ -1841,7 +1841,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f6cb84b3a9cf13373544a712cff1c87b",
+        "contentDigest": "6d12350308f929a5d8ef6c8e05438b64",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1931,8 +1931,8 @@
     "Site": {
       "siteMetadata": {
         "url": "https://lumen.netlify.com",
-        "title": "Blog by Gilbert Paeng",
-        "subtitle": "Computer Vision / Android(Java) / React / NodeJS / 이것저것",
+        "title": "Blog by John Doe",
+        "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
         "copyright": "© All rights reserved.",
         "disqusShortname": "",
         "menu": [
@@ -1950,11 +1950,11 @@
           }
         ],
         "author": {
-          "name": "Gilbert Paeng",
-          "email": "jinugpaeng@gmail.com",
+          "name": "John Doe",
+          "email": "#",
           "telegram": "#",
-          "instagram": "paeng___",
-          "github": "nuggy875",
+          "twitter": "#",
+          "github": "#",
           "rss": "#",
           "vk": "#"
         }
@@ -1963,12 +1963,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-04T13:02:39.221Z",
+      "buildTime": "2018-07-04T13:27:05.369Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e372085c600c3686a79be7c93993acaf",
+        "contentDigest": "f01b29af92c823cf522ec68fae24ec0b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1978,7 +1978,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9a843568e068f4cd1e0e3edf6e61f4ae",
+        "contentDigest": "2342d06ae31cd60c48df5c83f3ff7aa8",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1987,12 +1987,12 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 320,
-      "prettySize": "320 B",
-      "modifiedTime": "2018-07-04T02:15:45.625Z",
-      "accessTime": "2018-07-04T13:02:44.310Z",
-      "changeTime": "2018-07-04T02:15:45.625Z",
-      "birthTime": "2018-07-03T12:49:45.385Z",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2018-07-04T13:18:16.262Z",
+      "accessTime": "2018-07-04T13:27:09.922Z",
+      "changeTime": "2018-07-04T13:18:16.262Z",
+      "birthTime": "2018-07-04T13:18:16.180Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src",
       "base": "pages",
@@ -2001,28 +2001,28 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 10,
+      "nlink": 9,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056238,
+      "ino": 8602403948,
       "blocks": 0,
-      "atimeMs": 1530709364309.5513,
-      "mtimeMs": 1530670545624.6475,
-      "ctimeMs": 1530670545624.6475,
-      "birthtimeMs": 1530622185384.7732,
-      "atime": "2018-07-04T13:02:44.310Z",
-      "mtime": "2018-07-04T02:15:45.625Z",
-      "ctime": "2018-07-04T02:15:45.625Z",
-      "birthtime": "2018-07-03T12:49:45.385Z"
+      "atimeMs": 1530710829922.3042,
+      "mtimeMs": 1530710296261.9766,
+      "ctimeMs": 1530710296261.9766,
+      "birthtimeMs": 1530710296179.742,
+      "atime": "2018-07-04T13:27:09.922Z",
+      "mtime": "2018-07-04T13:18:16.262Z",
+      "ctime": "2018-07-04T13:18:16.262Z",
+      "birthtime": "2018-07-04T13:18:16.180Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "aafbb5142bf2d4040b692e270a7d9503",
+        "contentDigest": "d478fdef439b70f747a53290815ef4a1",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -2031,12 +2031,12 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "relativePath": "articles",
       "extension": "",
-      "size": 288,
-      "prettySize": "288 B",
-      "modifiedTime": "2018-07-04T02:46:28.402Z",
-      "accessTime": "2018-07-04T13:02:44.312Z",
-      "changeTime": "2018-07-04T02:46:28.402Z",
-      "birthTime": "2018-07-03T12:49:45.385Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-07-04T13:18:16.217Z",
+      "accessTime": "2018-07-04T13:27:09.925Z",
+      "changeTime": "2018-07-04T13:18:16.217Z",
+      "birthTime": "2018-07-04T13:18:16.180Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
       "base": "articles",
@@ -2045,28 +2045,28 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 9,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056240,
+      "ino": 8602403950,
       "blocks": 0,
-      "atimeMs": 1530709364312.4873,
-      "mtimeMs": 1530672388401.628,
-      "ctimeMs": 1530672388401.628,
-      "birthtimeMs": 1530622185385.095,
-      "atime": "2018-07-04T13:02:44.312Z",
-      "mtime": "2018-07-04T02:46:28.402Z",
-      "ctime": "2018-07-04T02:46:28.402Z",
-      "birthtime": "2018-07-03T12:49:45.385Z"
+      "atimeMs": 1530710829925.0874,
+      "mtimeMs": 1530710296217.0476,
+      "ctimeMs": 1530710296217.0476,
+      "birthtimeMs": 1530710296180.055,
+      "atime": "2018-07-04T13:27:09.925Z",
+      "mtime": "2018-07-04T13:18:16.217Z",
+      "ctime": "2018-07-04T13:18:16.217Z",
+      "birthtime": "2018-07-04T13:18:16.180Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b738afc91a72cd48e587f19ad59c9f79",
+        "contentDigest": "9889dfbcac447ee944aed8b621cfe859",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2077,10 +2077,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.443Z",
-      "accessTime": "2018-07-04T13:02:44.312Z",
-      "changeTime": "2018-07-03T12:49:45.443Z",
-      "birthTime": "2018-07-03T12:49:45.428Z",
+      "modifiedTime": "2018-07-04T13:18:16.258Z",
+      "accessTime": "2018-07-04T13:27:09.925Z",
+      "changeTime": "2018-07-04T13:18:16.258Z",
+      "birthTime": "2018-07-04T13:18:16.224Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
       "base": "pages",
@@ -2094,23 +2094,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056261,
+      "ino": 8602403971,
       "blocks": 0,
-      "atimeMs": 1530709364312.4612,
-      "mtimeMs": 1530622185442.5403,
-      "ctimeMs": 1530622185442.5403,
-      "birthtimeMs": 1530622185427.9727,
-      "atime": "2018-07-04T13:02:44.312Z",
-      "mtime": "2018-07-03T12:49:45.443Z",
-      "ctime": "2018-07-03T12:49:45.443Z",
-      "birthtime": "2018-07-03T12:49:45.428Z"
+      "atimeMs": 1530710829925.1287,
+      "mtimeMs": 1530710296257.8867,
+      "ctimeMs": 1530710296257.8867,
+      "birthtimeMs": 1530710296223.8313,
+      "atime": "2018-07-04T13:27:09.925Z",
+      "mtime": "2018-07-04T13:18:16.258Z",
+      "ctime": "2018-07-04T13:18:16.258Z",
+      "birthtime": "2018-07-04T13:18:16.224Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3f091f42c963160a9c13e21d5ce03f86",
+        "contentDigest": "56d32e72aba7d098b86e47ffcf38f5ed",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2121,10 +2121,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.442Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.442Z",
-      "birthTime": "2018-07-03T12:49:45.428Z",
+      "modifiedTime": "2018-07-04T13:18:16.257Z",
+      "accessTime": "2018-07-04T13:27:09.929Z",
+      "changeTime": "2018-07-04T13:18:16.257Z",
+      "birthTime": "2018-07-04T13:18:16.224Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages",
       "base": "2015-05-01---about",
@@ -2138,23 +2138,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056262,
+      "ino": 8602403972,
       "blocks": 0,
-      "atimeMs": 1530709364315.974,
-      "mtimeMs": 1530622185442.2554,
-      "ctimeMs": 1530622185442.2554,
-      "birthtimeMs": 1530622185428.0996,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.442Z",
-      "ctime": "2018-07-03T12:49:45.442Z",
-      "birthtime": "2018-07-03T12:49:45.428Z"
+      "atimeMs": 1530710829928.5347,
+      "mtimeMs": 1530710296257.372,
+      "ctimeMs": 1530710296257.372,
+      "birthtimeMs": 1530710296223.9556,
+      "atime": "2018-07-04T13:27:09.929Z",
+      "mtime": "2018-07-04T13:18:16.257Z",
+      "ctime": "2018-07-04T13:18:16.257Z",
+      "birthtime": "2018-07-04T13:18:16.224Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d0bf3533b0e04d0c8dadc02399cfeadd",
+        "contentDigest": "80ed9dbe4b8dc253f5701444687d5e33",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
         "owner": "gatsby-source-filesystem"
@@ -2165,10 +2165,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.446Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.446Z",
-      "birthTime": "2018-07-03T12:49:45.443Z",
+      "modifiedTime": "2018-07-04T13:18:16.261Z",
+      "accessTime": "2018-07-04T13:27:09.929Z",
+      "changeTime": "2018-07-04T13:18:16.261Z",
+      "birthTime": "2018-07-04T13:18:16.258Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages",
       "base": "2015-05-01---contact",
@@ -2182,23 +2182,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056265,
+      "ino": 8602403975,
       "blocks": 0,
-      "atimeMs": 1530709364315.9932,
-      "mtimeMs": 1530622185446.484,
-      "ctimeMs": 1530622185446.484,
-      "birthtimeMs": 1530622185442.5315,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.446Z",
-      "ctime": "2018-07-03T12:49:45.446Z",
-      "birthtime": "2018-07-03T12:49:45.443Z"
+      "atimeMs": 1530710829928.5796,
+      "mtimeMs": 1530710296261.4026,
+      "ctimeMs": 1530710296261.4026,
+      "birthtimeMs": 1530710296257.876,
+      "atime": "2018-07-04T13:27:09.929Z",
+      "mtime": "2018-07-04T13:18:16.261Z",
+      "ctime": "2018-07-04T13:18:16.261Z",
+      "birthtime": "2018-07-04T13:18:16.258Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "440b1cd395b6bcaec5c9869a3b703955",
+        "contentDigest": "92a0e640d53369284d2255d36494d932",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection\"",
         "owner": "gatsby-source-filesystem"
@@ -2209,10 +2209,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.391Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.391Z",
-      "birthTime": "2018-07-03T12:49:45.385Z",
+      "modifiedTime": "2018-07-04T13:18:16.187Z",
+      "accessTime": "2018-07-04T13:27:09.928Z",
+      "changeTime": "2018-07-04T13:18:16.187Z",
+      "birthTime": "2018-07-04T13:18:16.180Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "base": "2016-01-09---Perfecting-the-Art-of-Perfection",
@@ -2226,23 +2226,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056241,
+      "ino": 8602403951,
       "blocks": 0,
-      "atimeMs": 1530709364316.034,
-      "mtimeMs": 1530622185390.8447,
-      "ctimeMs": 1530622185390.8447,
-      "birthtimeMs": 1530622185385.156,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.391Z",
-      "ctime": "2018-07-03T12:49:45.391Z",
-      "birthtime": "2018-07-03T12:49:45.385Z"
+      "atimeMs": 1530710829928.345,
+      "mtimeMs": 1530710296187.1038,
+      "ctimeMs": 1530710296187.1038,
+      "birthtimeMs": 1530710296180.11,
+      "atime": "2018-07-04T13:27:09.928Z",
+      "mtime": "2018-07-04T13:18:16.187Z",
+      "ctime": "2018-07-04T13:18:16.187Z",
+      "birthtime": "2018-07-04T13:18:16.180Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4c770b9b0ae700b705322448e7eb53ba",
+        "contentDigest": "2f67245367f13a584693aeaedb2f46a6",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering\"",
         "owner": "gatsby-source-filesystem"
@@ -2253,10 +2253,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.397Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.397Z",
-      "birthTime": "2018-07-03T12:49:45.391Z",
+      "modifiedTime": "2018-07-04T13:18:16.193Z",
+      "accessTime": "2018-07-04T13:27:09.928Z",
+      "changeTime": "2018-07-04T13:18:16.193Z",
+      "birthTime": "2018-07-04T13:18:16.187Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "base": "2016-01-12---The-Origins-of-Social-Stationery-Lettering",
@@ -2270,23 +2270,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056244,
+      "ino": 8602403954,
       "blocks": 0,
-      "atimeMs": 1530709364316.0144,
-      "mtimeMs": 1530622185396.531,
-      "ctimeMs": 1530622185396.531,
-      "birthtimeMs": 1530622185391.1584,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.397Z",
-      "ctime": "2018-07-03T12:49:45.397Z",
-      "birthtime": "2018-07-03T12:49:45.391Z"
+      "atimeMs": 1530710829928.39,
+      "mtimeMs": 1530710296192.8262,
+      "ctimeMs": 1530710296192.8262,
+      "birthtimeMs": 1530710296187.3452,
+      "atime": "2018-07-04T13:27:09.928Z",
+      "mtime": "2018-07-04T13:18:16.193Z",
+      "ctime": "2018-07-04T13:18:16.193Z",
+      "birthtime": "2018-07-04T13:18:16.187Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-02-02---A-Brief-History-of-Typography absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-02-02---A-Brief-History-of-Typography absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1f4db64c134e97000e7c9265f4816267",
+        "contentDigest": "9ddecc67bb5ef8f03107a89d38d483d3",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2016-02-02---A-Brief-History-of-Typography\"",
         "owner": "gatsby-source-filesystem"
@@ -2297,10 +2297,10 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-03T12:49:45.409Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.409Z",
-      "birthTime": "2018-07-03T12:49:45.397Z",
+      "modifiedTime": "2018-07-04T13:18:16.205Z",
+      "accessTime": "2018-07-04T13:27:09.928Z",
+      "changeTime": "2018-07-04T13:18:16.205Z",
+      "birthTime": "2018-07-04T13:18:16.193Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "base": "2016-02-02---A-Brief-History-of-Typography",
@@ -2314,67 +2314,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056247,
+      "ino": 8602403957,
       "blocks": 0,
-      "atimeMs": 1530709364316.0535,
-      "mtimeMs": 1530622185409.0103,
-      "ctimeMs": 1530622185409.0103,
-      "birthtimeMs": 1530622185396.8352,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.409Z",
-      "ctime": "2018-07-03T12:49:45.409Z",
-      "birthtime": "2018-07-03T12:49:45.397Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c54fa36e7b2958ec8f5361840334c013",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "relativePath": "articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-07-04T02:45:44.335Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-04T02:45:44.335Z",
-      "birthTime": "2018-07-04T02:45:44.320Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2017-01-09---Perfecting-the-Art-of-Perfection",
-      "ext": "",
-      "name": "2017-01-09---Perfecting-the-Art-of-Perfection",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216117,
-      "blocks": 0,
-      "atimeMs": 1530709364316.1006,
-      "mtimeMs": 1530672344334.8354,
-      "ctimeMs": 1530672344334.8354,
-      "birthtimeMs": 1530672344320.4172,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-04T02:45:44.335Z",
-      "ctime": "2018-07-04T02:45:44.335Z",
-      "birthtime": "2018-07-04T02:45:44.320Z"
+      "atimeMs": 1530710829928.4136,
+      "mtimeMs": 1530710296205.0178,
+      "ctimeMs": 1530710296205.0178,
+      "birthtimeMs": 1530710296193.101,
+      "atime": "2018-07-04T13:27:09.928Z",
+      "mtime": "2018-07-04T13:18:16.205Z",
+      "ctime": "2018-07-04T13:18:16.205Z",
+      "birthtime": "2018-07-04T13:18:16.193Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "231629d40f444b614e1b477fdf23d117",
+        "contentDigest": "67cf82f20690a0d7ad18f3e8f30e8f20",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-18-08---The-Birth-of-Movable-Type\"",
         "owner": "gatsby-source-filesystem"
@@ -2385,10 +2341,10 @@
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2018-07-03T12:49:45.415Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.415Z",
-      "birthTime": "2018-07-03T12:49:45.409Z",
+      "modifiedTime": "2018-07-04T13:18:16.210Z",
+      "accessTime": "2018-07-04T13:27:09.928Z",
+      "changeTime": "2018-07-04T13:18:16.210Z",
+      "birthTime": "2018-07-04T13:18:16.205Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "base": "2017-18-08---The-Birth-of-Movable-Type",
@@ -2402,23 +2358,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056250,
+      "ino": 8602403960,
       "blocks": 0,
-      "atimeMs": 1530709364316.0735,
-      "mtimeMs": 1530622185414.96,
-      "ctimeMs": 1530622185414.96,
-      "birthtimeMs": 1530622185409.2424,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.415Z",
-      "ctime": "2018-07-03T12:49:45.415Z",
-      "birthtime": "2018-07-03T12:49:45.409Z"
+      "atimeMs": 1530710829928.4563,
+      "mtimeMs": 1530710296210.4617,
+      "ctimeMs": 1530710296210.4617,
+      "birthtimeMs": 1530710296205.2139,
+      "atime": "2018-07-04T13:27:09.928Z",
+      "mtime": "2018-07-04T13:18:16.210Z",
+      "ctime": "2018-07-04T13:18:16.210Z",
+      "birthtime": "2018-07-04T13:18:16.205Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9c89bfb7dbf6d694d7bb7c5df4cd2672",
+        "contentDigest": "5ddfd9967f95928b6496ffd05a0afd45",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age\"",
         "owner": "gatsby-source-filesystem"
@@ -2429,10 +2385,10 @@
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2018-07-03T12:49:45.427Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-03T12:49:45.427Z",
-      "birthTime": "2018-07-03T12:49:45.421Z",
+      "modifiedTime": "2018-07-04T13:18:16.222Z",
+      "accessTime": "2018-07-04T13:27:09.928Z",
+      "changeTime": "2018-07-04T13:18:16.222Z",
+      "birthTime": "2018-07-04T13:18:16.217Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "base": "2017-19-08---Humane-Typography-in-the-Digital-Age",
@@ -2446,118 +2402,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056255,
+      "ino": 8602403965,
       "blocks": 0,
-      "atimeMs": 1530709364316.1196,
-      "mtimeMs": 1530622185426.5647,
-      "ctimeMs": 1530622185426.5647,
-      "birthtimeMs": 1530622185420.9114,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-03T12:49:45.427Z",
-      "ctime": "2018-07-03T12:49:45.427Z",
-      "birthtime": "2018-07-03T12:49:45.421Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작 absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작 absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ca19c019d7c49a1c64d522641fa1b5ae",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2018-04-07---블로그 시작\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작",
-      "relativePath": "articles/2018-04-07---블로그 시작",
-      "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2018-07-04T02:45:56.830Z",
-      "accessTime": "2018-07-04T13:02:44.316Z",
-      "changeTime": "2018-07-04T02:46:28.402Z",
-      "birthTime": "2018-07-04T02:45:56.815Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2018-04-07---블로그 시작",
-      "ext": "",
-      "name": "2018-04-07---블로그 시작",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 5,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216129,
-      "blocks": 0,
-      "atimeMs": 1530709364316.154,
-      "mtimeMs": 1530672356829.826,
-      "ctimeMs": 1530672388401.628,
-      "birthtimeMs": 1530672356815.0269,
-      "atime": "2018-07-04T13:02:44.316Z",
-      "mtime": "2018-07-04T02:45:56.830Z",
-      "ctime": "2018-07-04T02:46:28.402Z",
-      "birthtime": "2018-07-04T02:45:56.815Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f492798aade38eea7c83a7a4939830af",
-        "mediaType": "text/jsx",
-        "type": "File",
-        "description": "File \"src/pages/index.jsx\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
-      "relativePath": "index.jsx",
-      "extension": "jsx",
-      "size": 1619,
-      "prettySize": "1.62 kB",
-      "modifiedTime": "2018-07-03T13:42:33.732Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T13:42:33.732Z",
-      "birthTime": "2018-07-03T12:49:45.428Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": "index.jsx",
-      "ext": ".jsx",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602056260,
-      "blocks": 8,
-      "atimeMs": 1530674689708.6008,
-      "mtimeMs": 1530625353731.882,
-      "ctimeMs": 1530625353731.882,
-      "birthtimeMs": 1530622185427.7705,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T13:42:33.732Z",
-      "ctime": "2018-07-03T13:42:33.732Z",
-      "birthtime": "2018-07-03T12:49:45.428Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
+      "atimeMs": 1530710829928.4958,
+      "mtimeMs": 1530710296221.846,
+      "ctimeMs": 1530710296221.846,
+      "birthtimeMs": 1530710296217.0176,
+      "atime": "2018-07-04T13:27:09.928Z",
+      "mtime": "2018-07-04T13:18:16.222Z",
+      "ctime": "2018-07-04T13:18:16.222Z",
+      "birthtime": "2018-07-04T13:18:16.217Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f0959ef996e735d570dc17979570f3ee",
+        "contentDigest": "b32ddb0a02aa0657e89ebf16eb7d8a8f",
         "mediaType": "text/jsx",
         "type": "File",
         "description": "File \"src/pages/404.jsx\"",
@@ -2570,12 +2431,12 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
       "relativePath": "404.jsx",
       "extension": "jsx",
-      "size": 975,
-      "prettySize": "975 B",
-      "modifiedTime": "2018-07-03T13:44:21.961Z",
-      "accessTime": "2018-07-04T03:24:49.708Z",
-      "changeTime": "2018-07-03T13:44:21.961Z",
-      "birthTime": "2018-07-03T12:49:45.385Z",
+      "size": 973,
+      "prettySize": "973 B",
+      "modifiedTime": "2018-07-04T13:18:16.180Z",
+      "accessTime": "2018-07-04T13:18:16.514Z",
+      "changeTime": "2018-07-04T13:18:16.180Z",
+      "birthTime": "2018-07-04T13:18:16.180Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
       "base": "404.jsx",
@@ -2589,67 +2450,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056239,
+      "ino": 8602403949,
       "blocks": 8,
-      "atimeMs": 1530674689708.4531,
-      "mtimeMs": 1530625461961.316,
-      "ctimeMs": 1530625461961.316,
-      "birthtimeMs": 1530622185384.858,
-      "atime": "2018-07-04T03:24:49.708Z",
-      "mtime": "2018-07-03T13:44:21.961Z",
-      "ctime": "2018-07-03T13:44:21.961Z",
-      "birthtime": "2018-07-03T12:49:45.385Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "26b55d63f0ef54488fc9b1bbc2ea20fb",
-        "mediaType": "text/jsx",
-        "type": "File",
-        "description": "File \"src/pages/tags.jsx\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
-      "relativePath": "tags.jsx",
-      "extension": "jsx",
-      "size": 1870,
-      "prettySize": "1.87 kB",
-      "modifiedTime": "2018-07-03T13:44:25.737Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T13:44:25.737Z",
-      "birthTime": "2018-07-03T12:49:45.447Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": "tags.jsx",
-      "ext": ".jsx",
-      "name": "tags",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602056269,
-      "blocks": 8,
-      "atimeMs": 1530674689708.6462,
-      "mtimeMs": 1530625465737.466,
-      "ctimeMs": 1530625465737.466,
-      "birthtimeMs": 1530622185447.136,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T13:44:25.737Z",
-      "ctime": "2018-07-03T13:44:25.737Z",
-      "birthtime": "2018-07-03T12:49:45.447Z",
+      "atimeMs": 1530710296514.051,
+      "mtimeMs": 1530710296179.9414,
+      "ctimeMs": 1530710296179.9414,
+      "birthtimeMs": 1530710296179.827,
+      "atime": "2018-07-04T13:18:16.514Z",
+      "mtime": "2018-07-04T13:18:16.180Z",
+      "ctime": "2018-07-04T13:18:16.180Z",
+      "birthtime": "2018-07-04T13:18:16.180Z",
       "fields": {
         "slug": "/undefined/"
       }
@@ -2659,7 +2469,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ea37bb68bfeaa11f8e5253db2133406f",
+        "contentDigest": "a28203331f396563d3aef95803b999c1",
         "mediaType": "text/jsx",
         "type": "File",
         "description": "File \"src/pages/categories.jsx\"",
@@ -2672,12 +2482,12 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
       "relativePath": "categories.jsx",
       "extension": "jsx",
-      "size": 1971,
+      "size": 1969,
       "prettySize": "1.97 kB",
-      "modifiedTime": "2018-07-03T13:44:25.737Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T13:44:25.737Z",
-      "birthTime": "2018-07-03T12:49:45.428Z",
+      "modifiedTime": "2018-07-04T13:18:16.223Z",
+      "accessTime": "2018-07-04T13:18:16.538Z",
+      "changeTime": "2018-07-04T13:18:16.223Z",
+      "birthTime": "2018-07-04T13:18:16.223Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
       "base": "categories.jsx",
@@ -2691,49 +2501,51 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056259,
+      "ino": 8602403969,
       "blocks": 8,
-      "atimeMs": 1530674689708.5957,
-      "mtimeMs": 1530625465737.426,
-      "ctimeMs": 1530625465737.426,
-      "birthtimeMs": 1530622185427.5515,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T13:44:25.737Z",
-      "ctime": "2018-07-03T13:44:25.737Z",
-      "birthtime": "2018-07-03T12:49:45.428Z",
+      "atimeMs": 1530710296538.0273,
+      "mtimeMs": 1530710296223.4033,
+      "ctimeMs": 1530710296223.4033,
+      "birthtimeMs": 1530710296223.3086,
+      "atime": "2018-07-04T13:18:16.538Z",
+      "mtime": "2018-07-04T13:18:16.223Z",
+      "ctime": "2018-07-04T13:18:16.223Z",
+      "birthtime": "2018-07-04T13:18:16.223Z",
       "fields": {
         "slug": "/undefined/"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file",
-      "children": [],
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp"
+      ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
-        "mediaType": "application/octet-stream",
+        "contentDigest": "0c8fafc8bef8cc5e681b4713fc1affdb",
+        "mediaType": "image/jpeg",
         "type": "File",
-        "description": "File \"src/pages/.DS_Store\"",
+        "description": "File \"src/pages/photo.jpg\"",
         "owner": "gatsby-source-filesystem",
         "fieldOwners": {
           "slug": "default-site-plugin"
         }
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store",
-      "relativePath": ".DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-07-04T02:15:45.649Z",
-      "accessTime": "2018-07-04T03:11:10.562Z",
-      "changeTime": "2018-07-04T02:15:45.649Z",
-      "birthTime": "2018-07-04T02:15:45.625Z",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg",
+      "relativePath": "photo.jpg",
+      "extension": "jpg",
+      "size": 4372,
+      "prettySize": "4.37 kB",
+      "modifiedTime": "2018-07-04T13:18:16.262Z",
+      "accessTime": "2018-07-04T13:18:17.745Z",
+      "changeTime": "2018-07-04T13:18:16.262Z",
+      "birthTime": "2018-07-04T13:18:16.262Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
+      "base": "photo.jpg",
+      "ext": ".jpg",
+      "name": "photo",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33188,
@@ -2742,16 +2554,67 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602212791,
+      "ino": 8602403978,
       "blocks": 16,
-      "atimeMs": 1530673870561.883,
-      "mtimeMs": 1530670545649.2205,
-      "ctimeMs": 1530670545649.2205,
-      "birthtimeMs": 1530670545624.6335,
-      "atime": "2018-07-04T03:11:10.562Z",
-      "mtime": "2018-07-04T02:15:45.649Z",
-      "ctime": "2018-07-04T02:15:45.649Z",
-      "birthtime": "2018-07-04T02:15:45.625Z",
+      "atimeMs": 1530710297744.8743,
+      "mtimeMs": 1530710296261.813,
+      "ctimeMs": 1530710296261.813,
+      "birthtimeMs": 1530710296261.7214,
+      "atime": "2018-07-04T13:18:17.745Z",
+      "mtime": "2018-07-04T13:18:16.262Z",
+      "ctime": "2018-07-04T13:18:16.262Z",
+      "birthtime": "2018-07-04T13:18:16.262Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "52db30302f3524d862b987fb01c721ec",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/index.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
+      "relativePath": "index.jsx",
+      "extension": "jsx",
+      "size": 1617,
+      "prettySize": "1.62 kB",
+      "modifiedTime": "2018-07-04T13:18:16.224Z",
+      "accessTime": "2018-07-04T13:18:16.545Z",
+      "changeTime": "2018-07-04T13:18:16.224Z",
+      "birthTime": "2018-07-04T13:18:16.224Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
+      "base": "index.jsx",
+      "ext": ".jsx",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602403970,
+      "blocks": 8,
+      "atimeMs": 1530710296545.4219,
+      "mtimeMs": 1530710296223.679,
+      "ctimeMs": 1530710296223.679,
+      "birthtimeMs": 1530710296223.5298,
+      "atime": "2018-07-04T13:18:16.545Z",
+      "mtime": "2018-07-04T13:18:16.224Z",
+      "ctime": "2018-07-04T13:18:16.224Z",
+      "birthtime": "2018-07-04T13:18:16.224Z",
       "fields": {
         "slug": "/undefined/"
       }
@@ -2778,10 +2641,10 @@
       "extension": "md",
       "size": 1082,
       "prettySize": "1.08 kB",
-      "modifiedTime": "2018-07-03T12:49:45.442Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.442Z",
-      "birthTime": "2018-07-03T12:49:45.442Z",
+      "modifiedTime": "2018-07-04T13:18:16.258Z",
+      "accessTime": "2018-07-04T13:20:23.105Z",
+      "changeTime": "2018-07-04T13:18:16.258Z",
+      "birthTime": "2018-07-04T13:18:16.257Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about",
       "base": "index.md",
@@ -2795,18 +2658,69 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056264,
+      "ino": 8602403974,
       "blocks": 8,
-      "atimeMs": 1530674689708.6213,
-      "mtimeMs": 1530622185442.3638,
-      "ctimeMs": 1530622185442.3638,
-      "birthtimeMs": 1530622185442.2456,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.442Z",
-      "ctime": "2018-07-03T12:49:45.442Z",
-      "birthtime": "2018-07-03T12:49:45.442Z",
+      "atimeMs": 1530710423104.8015,
+      "mtimeMs": 1530710296257.5474,
+      "ctimeMs": 1530710296257.5474,
+      "birthtimeMs": 1530710296257.3298,
+      "atime": "2018-07-04T13:20:23.105Z",
+      "mtime": "2018-07-04T13:18:16.258Z",
+      "ctime": "2018-07-04T13:18:16.258Z",
+      "birthtime": "2018-07-04T13:18:16.257Z",
       "fields": {
         "slug": "/about/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "91f48f06eab29bde3fb9f056467b5094",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/tags.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
+      "relativePath": "tags.jsx",
+      "extension": "jsx",
+      "size": 1868,
+      "prettySize": "1.87 kB",
+      "modifiedTime": "2018-07-04T13:18:16.262Z",
+      "accessTime": "2018-07-04T13:18:17.761Z",
+      "changeTime": "2018-07-04T13:18:16.262Z",
+      "birthTime": "2018-07-04T13:18:16.262Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
+      "base": "tags.jsx",
+      "ext": ".jsx",
+      "name": "tags",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602403979,
+      "blocks": 8,
+      "atimeMs": 1530710297761.1282,
+      "mtimeMs": 1530710296262.0562,
+      "ctimeMs": 1530710296262.0562,
+      "birthtimeMs": 1530710296261.97,
+      "atime": "2018-07-04T13:18:17.761Z",
+      "mtime": "2018-07-04T13:18:16.262Z",
+      "ctime": "2018-07-04T13:18:16.262Z",
+      "birthtime": "2018-07-04T13:18:16.262Z",
+      "fields": {
+        "slug": "/undefined/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file": {
@@ -2831,10 +2745,10 @@
       "extension": "md",
       "size": 1799,
       "prettySize": "1.8 kB",
-      "modifiedTime": "2018-07-03T12:49:45.447Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.447Z",
-      "birthTime": "2018-07-03T12:49:45.446Z",
+      "modifiedTime": "2018-07-04T13:18:16.262Z",
+      "accessTime": "2018-07-04T13:20:23.105Z",
+      "changeTime": "2018-07-04T13:18:16.262Z",
+      "birthTime": "2018-07-04T13:18:16.261Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
       "base": "index.md",
@@ -2848,16 +2762,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056267,
+      "ino": 8602403977,
       "blocks": 8,
-      "atimeMs": 1530674689708.6365,
-      "mtimeMs": 1530622185446.5723,
-      "ctimeMs": 1530622185446.5723,
-      "birthtimeMs": 1530622185446.4656,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.447Z",
-      "ctime": "2018-07-03T12:49:45.447Z",
-      "birthtime": "2018-07-03T12:49:45.446Z",
+      "atimeMs": 1530710423104.8743,
+      "mtimeMs": 1530710296261.526,
+      "ctimeMs": 1530710296261.526,
+      "birthtimeMs": 1530710296261.395,
+      "atime": "2018-07-04T13:20:23.105Z",
+      "mtime": "2018-07-04T13:18:16.262Z",
+      "ctime": "2018-07-04T13:18:16.262Z",
+      "birthtime": "2018-07-04T13:18:16.261Z",
       "fields": {
         "slug": "/contact/"
       }
@@ -2884,10 +2798,10 @@
       "extension": "md",
       "size": 1727,
       "prettySize": "1.73 kB",
-      "modifiedTime": "2018-07-03T12:49:45.391Z",
-      "accessTime": "2018-07-04T03:24:49.708Z",
-      "changeTime": "2018-07-03T12:49:45.391Z",
-      "birthTime": "2018-07-03T12:49:45.391Z",
+      "modifiedTime": "2018-07-04T13:18:16.187Z",
+      "accessTime": "2018-07-04T13:20:23.103Z",
+      "changeTime": "2018-07-04T13:18:16.187Z",
+      "birthTime": "2018-07-04T13:18:16.187Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection",
       "base": "index.md",
@@ -2901,16 +2815,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056243,
+      "ino": 8602403953,
       "blocks": 8,
-      "atimeMs": 1530674689708.4727,
-      "mtimeMs": 1530622185390.9324,
-      "ctimeMs": 1530622185390.9324,
-      "birthtimeMs": 1530622185390.836,
-      "atime": "2018-07-04T03:24:49.708Z",
-      "mtime": "2018-07-03T12:49:45.391Z",
-      "ctime": "2018-07-03T12:49:45.391Z",
-      "birthtime": "2018-07-03T12:49:45.391Z",
+      "atimeMs": 1530710423103.2844,
+      "mtimeMs": 1530710296187.1997,
+      "ctimeMs": 1530710296187.1997,
+      "birthtimeMs": 1530710296187.096,
+      "atime": "2018-07-04T13:20:23.103Z",
+      "mtime": "2018-07-04T13:18:16.187Z",
+      "ctime": "2018-07-04T13:18:16.187Z",
+      "birthtime": "2018-07-04T13:18:16.187Z",
       "fields": {
         "slug": "/Perfecting-the-Art-of-Perfection/"
       }
@@ -2937,10 +2851,10 @@
       "extension": "md",
       "size": 2833,
       "prettySize": "2.83 kB",
-      "modifiedTime": "2018-07-03T12:49:45.397Z",
-      "accessTime": "2018-07-04T03:24:49.708Z",
-      "changeTime": "2018-07-03T12:49:45.397Z",
-      "birthTime": "2018-07-03T12:49:45.397Z",
+      "modifiedTime": "2018-07-04T13:18:16.193Z",
+      "accessTime": "2018-07-04T13:20:23.103Z",
+      "changeTime": "2018-07-04T13:18:16.193Z",
+      "birthTime": "2018-07-04T13:18:16.193Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
       "base": "index.md",
@@ -2954,16 +2868,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056246,
+      "ino": 8602403956,
       "blocks": 8,
-      "atimeMs": 1530674689708.4897,
-      "mtimeMs": 1530622185396.665,
-      "ctimeMs": 1530622185396.665,
-      "birthtimeMs": 1530622185396.5222,
-      "atime": "2018-07-04T03:24:49.708Z",
-      "mtime": "2018-07-03T12:49:45.397Z",
-      "ctime": "2018-07-03T12:49:45.397Z",
-      "birthtime": "2018-07-03T12:49:45.397Z",
+      "atimeMs": 1530710423103.3584,
+      "mtimeMs": 1530710296192.9343,
+      "ctimeMs": 1530710296192.9343,
+      "birthtimeMs": 1530710296192.8174,
+      "atime": "2018-07-04T13:20:23.103Z",
+      "mtime": "2018-07-04T13:18:16.193Z",
+      "ctime": "2018-07-04T13:18:16.193Z",
+      "birthtime": "2018-07-04T13:18:16.193Z",
       "fields": {
         "slug": "/The-Origins-of-Social-Stationery-Lettering/"
       }
@@ -2990,10 +2904,10 @@
       "extension": "md",
       "size": 2803,
       "prettySize": "2.8 kB",
-      "modifiedTime": "2018-07-03T12:49:45.409Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.409Z",
-      "birthTime": "2018-07-03T12:49:45.409Z",
+      "modifiedTime": "2018-07-04T13:18:16.205Z",
+      "accessTime": "2018-07-04T13:20:23.103Z",
+      "changeTime": "2018-07-04T13:18:16.205Z",
+      "birthTime": "2018-07-04T13:18:16.205Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-02-02---A-Brief-History-of-Typography",
       "base": "index.md",
@@ -3007,16 +2921,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056249,
+      "ino": 8602403959,
       "blocks": 8,
-      "atimeMs": 1530674689708.5056,
-      "mtimeMs": 1530622185409.0994,
-      "ctimeMs": 1530622185409.0994,
-      "birthtimeMs": 1530622185409.0005,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.409Z",
-      "ctime": "2018-07-03T12:49:45.409Z",
-      "birthtime": "2018-07-03T12:49:45.409Z",
+      "atimeMs": 1530710423103.4312,
+      "mtimeMs": 1530710296205.0908,
+      "ctimeMs": 1530710296205.0908,
+      "birthtimeMs": 1530710296205.0054,
+      "atime": "2018-07-04T13:20:23.103Z",
+      "mtime": "2018-07-04T13:18:16.205Z",
+      "ctime": "2018-07-04T13:18:16.205Z",
+      "birthtime": "2018-07-04T13:18:16.205Z",
       "fields": {
         "slug": "/A-Brief-History-of-Typography/"
       }
@@ -3043,10 +2957,10 @@
       "extension": "md",
       "size": 16080,
       "prettySize": "16.1 kB",
-      "modifiedTime": "2018-07-03T12:49:45.415Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.415Z",
-      "birthTime": "2018-07-03T12:49:45.413Z",
+      "modifiedTime": "2018-07-04T13:18:16.210Z",
+      "accessTime": "2018-07-04T13:20:23.104Z",
+      "changeTime": "2018-07-04T13:18:16.210Z",
+      "birthTime": "2018-07-04T13:18:16.209Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
       "base": "index.md",
@@ -3060,16 +2974,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056253,
+      "ino": 8602403963,
       "blocks": 32,
-      "atimeMs": 1530674689708.5425,
-      "mtimeMs": 1530622185414.5308,
-      "ctimeMs": 1530622185414.5308,
-      "birthtimeMs": 1530622185412.6511,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.415Z",
-      "ctime": "2018-07-03T12:49:45.415Z",
-      "birthtime": "2018-07-03T12:49:45.413Z",
+      "atimeMs": 1530710423103.5217,
+      "mtimeMs": 1530710296210.1267,
+      "ctimeMs": 1530710296210.1267,
+      "birthtimeMs": 1530710296208.6267,
+      "atime": "2018-07-04T13:20:23.104Z",
+      "mtime": "2018-07-04T13:18:16.210Z",
+      "ctime": "2018-07-04T13:18:16.210Z",
+      "birthtime": "2018-07-04T13:18:16.209Z",
       "fields": {
         "slug": "/The-Birth-of-Movable-Type/"
       }
@@ -3081,7 +2995,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9a259275c3aea2815a8d46ee26ca546d",
+        "contentDigest": "3340f02d18756ffb72f8a0ff939c7f64",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md\"",
@@ -3094,12 +3008,12 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md",
       "relativePath": "articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md",
       "extension": "md",
-      "size": 7280,
+      "size": 7279,
       "prettySize": "7.28 kB",
-      "modifiedTime": "2018-07-04T03:17:09.664Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-04T03:17:09.664Z",
-      "birthTime": "2018-07-03T12:49:45.426Z",
+      "modifiedTime": "2018-07-04T13:18:16.222Z",
+      "accessTime": "2018-07-04T13:20:23.105Z",
+      "changeTime": "2018-07-04T13:18:16.222Z",
+      "birthTime": "2018-07-04T13:18:16.222Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age",
       "base": "index.md",
@@ -3113,124 +3027,28 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056257,
+      "ino": 8602403967,
       "blocks": 16,
-      "atimeMs": 1530674689708.5635,
-      "mtimeMs": 1530674229663.5679,
-      "ctimeMs": 1530674229663.5679,
-      "birthtimeMs": 1530622185426.1313,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-04T03:17:09.664Z",
-      "ctime": "2018-07-04T03:17:09.664Z",
-      "birthtime": "2018-07-03T12:49:45.426Z",
+      "atimeMs": 1530710423104.6243,
+      "mtimeMs": 1530710296221.6716,
+      "ctimeMs": 1530710296221.6716,
+      "birthtimeMs": 1530710296221.5007,
+      "atime": "2018-07-04T13:20:23.105Z",
+      "mtime": "2018-07-04T13:18:16.222Z",
+      "ctime": "2018-07-04T13:18:16.222Z",
+      "birthtime": "2018-07-04T13:18:16.222Z",
       "fields": {
         "slug": "/Humane-Typography-in-the-Digital-Age/"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
       "internal": {
-        "contentDigest": "6931d42a900a437e85f729093a3f6742",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-04-07---블로그 시작/index.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md",
-      "relativePath": "articles/2018-04-07---블로그 시작/index.md",
-      "extension": "md",
-      "size": 6370,
-      "prettySize": "6.37 kB",
-      "modifiedTime": "2018-07-04T03:18:18.386Z",
-      "accessTime": "2018-07-04T03:24:51.530Z",
-      "changeTime": "2018-07-04T03:18:18.386Z",
-      "birthTime": "2018-07-04T02:45:56.829Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "articles/2018-04-07---블로그 시작",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216131,
-      "blocks": 16,
-      "atimeMs": 1530674691529.5286,
-      "mtimeMs": 1530674298385.9966,
-      "ctimeMs": 1530674298385.9966,
-      "birthtimeMs": 1530672356828.7178,
-      "atime": "2018-07-04T03:24:51.530Z",
-      "mtime": "2018-07-04T03:18:18.386Z",
-      "ctime": "2018-07-04T03:18:18.386Z",
-      "birthtime": "2018-07-04T02:45:56.829Z",
-      "fields": {
-        "slug": "/블로그 시작/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9ef4c790982410982a983df89a3aa95b",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md",
-      "relativePath": "articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md",
-      "extension": "md",
-      "size": 1727,
-      "prettySize": "1.73 kB",
-      "modifiedTime": "2018-07-04T02:45:44.342Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-04T02:45:44.342Z",
-      "birthTime": "2018-07-04T02:45:44.335Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216119,
-      "blocks": 8,
-      "atimeMs": 1530674689708.5215,
-      "mtimeMs": 1530672344341.722,
-      "ctimeMs": 1530672344342.203,
-      "birthtimeMs": 1530672344334.8245,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-04T02:45:44.342Z",
-      "ctime": "2018-07-04T02:45:44.342Z",
-      "birthtime": "2018-07-04T02:45:44.335Z",
-      "fields": {
-        "slug": "/Perfecting-the-Art-of-Perfection/"
+        "contentDigest": "0c8fafc8bef8cc5e681b4713fc1affdb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/type-through-time.jpg absPath of file": {
@@ -3255,10 +3073,10 @@
       "extension": "jpg",
       "size": 117689,
       "prettySize": "118 kB",
-      "modifiedTime": "2018-07-03T12:49:45.427Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.427Z",
-      "birthTime": "2018-07-03T12:49:45.427Z",
+      "modifiedTime": "2018-07-04T13:18:16.223Z",
+      "accessTime": "2018-07-04T13:18:16.428Z",
+      "changeTime": "2018-07-04T13:18:16.223Z",
+      "birthTime": "2018-07-04T13:18:16.222Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age",
       "base": "type-through-time.jpg",
@@ -3272,71 +3090,18 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056258,
+      "ino": 8602403968,
       "blocks": 232,
-      "atimeMs": 1530674689708.5688,
-      "mtimeMs": 1530622185427.42,
-      "ctimeMs": 1530622185427.42,
-      "birthtimeMs": 1530622185426.557,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.427Z",
-      "ctime": "2018-07-03T12:49:45.427Z",
-      "birthtime": "2018-07-03T12:49:45.427Z",
+      "atimeMs": 1530710296428.1626,
+      "mtimeMs": 1530710296223.1118,
+      "ctimeMs": 1530710296223.1118,
+      "birthtimeMs": 1530710296221.8372,
+      "atime": "2018-07-04T13:18:16.428Z",
+      "mtime": "2018-07-04T13:18:16.223Z",
+      "ctime": "2018-07-04T13:18:16.223Z",
+      "birthtime": "2018-07-04T13:18:16.222Z",
       "fields": {
         "slug": "/Humane-Typography-in-the-Digital-Age/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "eaa988471fd2b61a1d4d313d0d9a5d23",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg",
-      "relativePath": "articles/2018-04-07---블로그 시작/type-through-time.jpg",
-      "extension": "jpg",
-      "size": 117689,
-      "prettySize": "118 kB",
-      "modifiedTime": "2018-07-04T02:45:56.831Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-04T02:45:56.831Z",
-      "birthTime": "2018-07-04T02:45:56.830Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작",
-      "base": "type-through-time.jpg",
-      "ext": ".jpg",
-      "name": "type-through-time",
-      "relativeDirectory": "articles/2018-04-07---블로그 시작",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216132,
-      "blocks": 232,
-      "atimeMs": 1530674689708.5906,
-      "mtimeMs": 1530672356830.6401,
-      "ctimeMs": 1530672356830.859,
-      "birthtimeMs": 1530672356829.8188,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-04T02:45:56.831Z",
-      "ctime": "2018-07-04T02:45:56.831Z",
-      "birthtime": "2018-07-04T02:45:56.830Z",
-      "fields": {
-        "slug": "/블로그 시작/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Gutenberg.jpg absPath of file": {
@@ -3361,10 +3126,10 @@
       "extension": "jpg",
       "size": 155002,
       "prettySize": "155 kB",
-      "modifiedTime": "2018-07-03T12:49:45.410Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.410Z",
-      "birthTime": "2018-07-03T12:49:45.409Z",
+      "modifiedTime": "2018-07-04T13:18:16.206Z",
+      "accessTime": "2018-07-04T13:18:17.026Z",
+      "changeTime": "2018-07-04T13:18:16.206Z",
+      "birthTime": "2018-07-04T13:18:16.205Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
       "base": "Gutenberg.jpg",
@@ -3378,16 +3143,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056251,
+      "ino": 8602403961,
       "blocks": 304,
-      "atimeMs": 1530674689708.5322,
-      "mtimeMs": 1530622185410.4683,
-      "ctimeMs": 1530622185410.4683,
-      "birthtimeMs": 1530622185409.3218,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.410Z",
-      "ctime": "2018-07-03T12:49:45.410Z",
-      "birthtime": "2018-07-03T12:49:45.409Z",
+      "atimeMs": 1530710297026.257,
+      "mtimeMs": 1530710296206.4597,
+      "ctimeMs": 1530710296206.4597,
+      "birthtimeMs": 1530710296205.2861,
+      "atime": "2018-07-04T13:18:17.026Z",
+      "mtime": "2018-07-04T13:18:16.206Z",
+      "ctime": "2018-07-04T13:18:16.206Z",
+      "birthtime": "2018-07-04T13:18:16.205Z",
       "fields": {
         "slug": "/The-Birth-of-Movable-Type/"
       }
@@ -3402,69 +3167,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/type-through-time.jpg absPath of file",
-      "internal": {
-        "contentDigest": "eaa988471fd2b61a1d4d313d0d9a5d23",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/photo.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg",
-      "relativePath": "photo.jpg",
-      "extension": "jpg",
-      "size": 116343,
-      "prettySize": "116 kB",
-      "modifiedTime": "2018-07-03T13:10:32.441Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T13:14:53.988Z",
-      "birthTime": "2018-07-03T13:10:32.441Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": "photo.jpg",
-      "ext": ".jpg",
-      "name": "photo",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602204495,
-      "blocks": 232,
-      "atimeMs": 1530674689708.6414,
-      "mtimeMs": 1530623432440.7651,
-      "ctimeMs": 1530623693988.2292,
-      "birthtimeMs": 1530623432440.643,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T13:10:32.441Z",
-      "ctime": "2018-07-03T13:14:53.988Z",
-      "birthtime": "2018-07-03T13:10:32.441Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Gutenberg.jpg absPath of file >> ImageSharp": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Gutenberg.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -3475,12 +3177,65 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
+        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
+      "relativePath": "articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
+      "extension": "png",
+      "size": 326701,
+      "prettySize": "327 kB",
+      "modifiedTime": "2018-07-04T13:18:16.208Z",
+      "accessTime": "2018-07-04T13:18:16.385Z",
+      "changeTime": "2018-07-04T13:18:16.208Z",
+      "birthTime": "2018-07-04T13:18:16.207Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
+      "base": "Printing-press.png",
+      "ext": ".png",
+      "name": "Printing-press",
+      "relativeDirectory": "articles/2017-18-08---The-Birth-of-Movable-Type",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602403962,
+      "blocks": 640,
+      "atimeMs": 1530710296384.7349,
+      "mtimeMs": 1530710296208.44,
+      "ctimeMs": 1530710296208.44,
+      "birthtimeMs": 1530710296206.679,
+      "atime": "2018-07-04T13:18:16.385Z",
+      "mtime": "2018-07-04T13:18:16.208Z",
+      "ctime": "2018-07-04T13:18:16.208Z",
+      "birthtime": "2018-07-04T13:18:16.207Z",
+      "fields": {
+        "slug": "/The-Birth-of-Movable-Type/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
+      "internal": {
+        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3510,33 +3265,6 @@
       "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md",
       "fields": {
         "slug": "/about"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Contact me\"\nlayout: page\npath: \"/contact\"\n---\n\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
-        "type": "MarkdownRemark",
-        "contentDigest": "e4d3f81d947ecafb507b344b5a1d9ca2",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Contact me",
-        "layout": "page",
-        "path": "/contact",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md",
-      "fields": {
-        "slug": "/contact"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": {
@@ -3579,6 +3307,33 @@
           "/tags/learning-to-write/"
         ],
         "categorySlug": "/categories/design-inspiration/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Contact me\"\nlayout: page\npath: \"/contact\"\n---\n\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
+        "type": "MarkdownRemark",
+        "contentDigest": "e4d3f81d947ecafb507b344b5a1d9ca2",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact me",
+        "layout": "page",
+        "path": "/contact",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md",
+      "fields": {
+        "slug": "/contact"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": {
@@ -3720,9 +3475,9 @@
       "children": [],
       "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle: Humane Typography in the Digital Age\ndate: \"2017-08-19T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/humane-typography-in-the-digital-age/\"\ncategory: \"Typography\"\ntags:\n  - \"Design\"\n  - \"Typography\"\n  - \"Web Development\"\ndescription: \"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\"\n---\n\nAn Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\n\nThe typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.\n\nBut the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
+        "content": "---\ntitle: Humane Typography in the Digital Age\ndate: \"2017-08-19T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/humane-typography-in-the-digital-age/\"\ncategory: \"Typography\"\ntags:\n  - \"Design\"\n  - \"Typography\"\n  - \"Web Development\"\ndescription: \"An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\"\n---\n\nAn Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\n\nThe typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.\n\nBut the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*",
         "type": "MarkdownRemark",
-        "contentDigest": "f55cc16c5bce5a3cd52774fc6dfdedbc",
+        "contentDigest": "583644126a6ba6badccacc199c6ce282",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -3747,7 +3502,7 @@
         "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nAn Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\n\nThe typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.\n\nBut the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
+      "rawMarkdownBody": "\nAn Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.\n\nThe typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.\n\nBut the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*",
       "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md",
       "fields": {
         "slug": "/posts/humane-typography-in-the-digital-age/",
@@ -3757,208 +3512,6 @@
           "/tags/web-development/"
         ],
         "categorySlug": "/categories/typography/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: 블로그 시작\ndate: \"2018-07-04T22:40:32.169Z\"\nlayout: post\ndraft: false\npath: \"/posts/start_blog/\"\ncategory: \"Etc\"\ntags:\n  - \"etc\"\n  - \"react\"\n  - \"Web Development\"\ndescription: \"블로그 시작!\"\n---\n\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.  \n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "04d4c85069544818539e381e34d9f7d9",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "tagSlugs": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "블로그 시작",
-        "date": "2018-07-04T22:40:32.169Z",
-        "layout": "post",
-        "draft": false,
-        "path": "/posts/start_blog/",
-        "category": "Etc",
-        "tags": [
-          "etc",
-          "react",
-          "Web Development"
-        ],
-        "description": "블로그 시작!",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n개발을 하다보면, 기억해두어야 할 팁이나 에러 해결 방법 등을 OneNote에 정리하곤 하는데\n많은 개발자가 그러듯, 블로그를 만들어 이를 정리해보고자 한다.  \n블로그는 React 기반의\n[Gatsby](https://www.gatsbyjs.org/)를 써서 생성하였으며,\n[gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) 테마를 사용하였다.\n\n## The first transition\n\nA similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.\n\nThe first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.\n\n![42-line-bible.jpg](./42-line-bible.jpg)\n\n*The 42–Line Bible, printed by Gutenberg.*\n\nBut, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.\n\n## The digital age\n\nThe first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.\n\n> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.\n>\n— Massimo Vignelli\n\nTypography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.\n\n## Loss of humanity through transitions\n\nEach transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.\n\n<figure>\n\t<blockquote>\n\t\t<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>\n\t\t<footer>\n\t\t\t<cite>— Josef Mueller-Brockmann</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\nTypefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.\n\n> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.\n>\n> — Eric Gill\n\nWe’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.\n\n![type-through-time.jpg](./type-through-time.jpg)\n\n*Type through 5 centuries.*\n\nWe lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.\n\n## Chasing perfection\n\nHuman beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?\n\n*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*\n",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md",
-      "fields": {
-        "slug": "/posts/start_blog/",
-        "tagSlugs": [
-          "/tags/etc/",
-          "/tags/react/",
-          "/tags/web-development/"
-        ],
-        "categorySlug": "/categories/etc/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Perfecting the Art of Perfection\ndate: \"2016-09-01T23:46:37.121Z\"\nlayout: post\ndraft: false\npath: \"/posts/perfecting-the-art-of-perfection/\"\ncategory: \"Design Inspiration\"\ntags:\n  - \"Handwriting\"\n  - \"Learning to write\"\ndescription: \"Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\"\n---\n\nQuisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. \n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
-        "type": "MarkdownRemark",
-        "contentDigest": "9fd3eb86726d59cf51f20f6d9660f0a6",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "tagSlugs": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Perfecting the Art of Perfection",
-        "date": "2016-09-01T23:46:37.121Z",
-        "layout": "post",
-        "draft": false,
-        "path": "/posts/perfecting-the-art-of-perfection/",
-        "category": "Design Inspiration",
-        "tags": [
-          "Handwriting",
-          "Learning to write"
-        ],
-        "description": "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nQuisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. \n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/index.md",
-      "fields": {
-        "slug": "/posts/perfecting-the-art-of-perfection/",
-        "tagSlugs": [
-          "/tags/handwriting/",
-          "/tags/learning-to-write/"
-        ],
-        "categorySlug": "/categories/design-inspiration/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
-      "relativePath": "articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png",
-      "extension": "png",
-      "size": 326701,
-      "prettySize": "327 kB",
-      "modifiedTime": "2018-07-03T12:49:45.412Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.412Z",
-      "birthTime": "2018-07-03T12:49:45.411Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
-      "base": "Printing-press.png",
-      "ext": ".png",
-      "name": "Printing-press",
-      "relativeDirectory": "articles/2017-18-08---The-Birth-of-Movable-Type",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602056252,
-      "blocks": 640,
-      "atimeMs": 1530674689708.537,
-      "mtimeMs": 1530622185412.389,
-      "ctimeMs": 1530622185412.389,
-      "birthtimeMs": 1530622185410.7356,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.412Z",
-      "ctime": "2018-07-03T12:49:45.412Z",
-      "birthtime": "2018-07-03T12:49:45.411Z",
-      "fields": {
-        "slug": "/The-Birth-of-Movable-Type/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/Printing-press.png absPath of file",
-      "internal": {
-        "contentDigest": "9ec265253f068855f00558a9be7f3e03",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg",
-      "relativePath": "articles/2018-04-07---블로그 시작/42-line-bible.jpg",
-      "extension": "jpg",
-      "size": 671242,
-      "prettySize": "671 kB",
-      "modifiedTime": "2018-07-04T02:45:56.827Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-04T02:45:56.828Z",
-      "birthTime": "2018-07-04T02:45:56.817Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작",
-      "base": "42-line-bible.jpg",
-      "ext": ".jpg",
-      "name": "42-line-bible",
-      "relativeDirectory": "articles/2018-04-07---블로그 시작",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216130,
-      "blocks": 1312,
-      "atimeMs": 1530674689708.5793,
-      "mtimeMs": 1530672356826.5977,
-      "ctimeMs": 1530672356827.6492,
-      "birthtimeMs": 1530672356816.5266,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-04T02:45:56.827Z",
-      "ctime": "2018-07-04T02:45:56.828Z",
-      "birthtime": "2018-07-04T02:45:56.817Z",
-      "fields": {
-        "slug": "/블로그 시작/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file": {
@@ -3983,10 +3536,10 @@
       "extension": "jpg",
       "size": 671242,
       "prettySize": "671 kB",
-      "modifiedTime": "2018-07-03T12:49:45.426Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.426Z",
-      "birthTime": "2018-07-03T12:49:45.421Z",
+      "modifiedTime": "2018-07-04T13:18:16.221Z",
+      "accessTime": "2018-07-04T13:18:16.423Z",
+      "changeTime": "2018-07-04T13:18:16.221Z",
+      "birthTime": "2018-07-04T13:18:16.217Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age",
       "base": "42-line-bible.jpg",
@@ -4000,28 +3553,18 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056256,
+      "ino": 8602403966,
       "blocks": 1312,
-      "atimeMs": 1530674689708.5579,
-      "mtimeMs": 1530622185425.6086,
-      "ctimeMs": 1530622185425.6086,
-      "birthtimeMs": 1530622185421.022,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.426Z",
-      "ctime": "2018-07-03T12:49:45.426Z",
-      "birthtime": "2018-07-03T12:49:45.421Z",
+      "atimeMs": 1530710296422.8784,
+      "mtimeMs": 1530710296221.1367,
+      "ctimeMs": 1530710296221.1367,
+      "birthtimeMs": 1530710296217.1199,
+      "atime": "2018-07-04T13:18:16.423Z",
+      "mtime": "2018-07-04T13:18:16.221Z",
+      "ctime": "2018-07-04T13:18:16.221Z",
+      "birthtime": "2018-07-04T13:18:16.217Z",
       "fields": {
         "slug": "/Humane-Typography-in-the-Digital-Age/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/42-line-bible.jpg absPath of file",
-      "internal": {
-        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file": {
@@ -4046,10 +3589,10 @@
       "extension": "jpg",
       "size": 738279,
       "prettySize": "738 kB",
-      "modifiedTime": "2018-07-03T12:49:45.446Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.446Z",
-      "birthTime": "2018-07-03T12:49:45.443Z",
+      "modifiedTime": "2018-07-04T13:18:16.261Z",
+      "accessTime": "2018-07-04T13:18:18.404Z",
+      "changeTime": "2018-07-04T13:18:16.261Z",
+      "birthTime": "2018-07-04T13:18:16.258Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
       "base": "1.jpg",
@@ -4063,18 +3606,38 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056266,
+      "ino": 8602403976,
       "blocks": 1448,
-      "atimeMs": 1530674689708.6313,
-      "mtimeMs": 1530622185445.7388,
-      "ctimeMs": 1530622185445.7388,
-      "birthtimeMs": 1530622185442.6125,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.446Z",
-      "ctime": "2018-07-03T12:49:45.446Z",
-      "birthtime": "2018-07-03T12:49:45.443Z",
+      "atimeMs": 1530710298403.9927,
+      "mtimeMs": 1530710296260.9988,
+      "ctimeMs": 1530710296260.9988,
+      "birthtimeMs": 1530710296257.9539,
+      "atime": "2018-07-04T13:18:18.404Z",
+      "mtime": "2018-07-04T13:18:16.261Z",
+      "ctime": "2018-07-04T13:18:16.261Z",
+      "birthtime": "2018-07-04T13:18:16.258Z",
       "fields": {
         "slug": "/contact/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file": {
@@ -4099,10 +3662,10 @@
       "extension": "jpg",
       "size": 840478,
       "prettySize": "840 kB",
-      "modifiedTime": "2018-07-03T12:49:45.390Z",
-      "accessTime": "2018-07-04T03:24:49.708Z",
-      "changeTime": "2018-07-03T12:49:45.390Z",
-      "birthTime": "2018-07-03T12:49:45.385Z",
+      "modifiedTime": "2018-07-04T13:18:16.186Z",
+      "accessTime": "2018-07-04T13:18:16.371Z",
+      "changeTime": "2018-07-04T13:18:16.186Z",
+      "birthTime": "2018-07-04T13:18:16.180Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection",
       "base": "1.jpg",
@@ -4116,48 +3679,18 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056242,
+      "ino": 8602403952,
       "blocks": 1648,
-      "atimeMs": 1530674689708.4678,
-      "mtimeMs": 1530622185390.468,
-      "ctimeMs": 1530622185390.468,
-      "birthtimeMs": 1530622185385.235,
-      "atime": "2018-07-04T03:24:49.708Z",
-      "mtime": "2018-07-03T12:49:45.390Z",
-      "ctime": "2018-07-03T12:49:45.390Z",
-      "birthtime": "2018-07-03T12:49:45.385Z",
+      "atimeMs": 1530710296371.1213,
+      "mtimeMs": 1530710296186.0479,
+      "ctimeMs": 1530710296186.0479,
+      "birthtimeMs": 1530710296180.1821,
+      "atime": "2018-07-04T13:18:16.371Z",
+      "mtime": "2018-07-04T13:18:16.186Z",
+      "ctime": "2018-07-04T13:18:16.186Z",
+      "birthtime": "2018-07-04T13:18:16.180Z",
       "fields": {
         "slug": "/Perfecting-the-Art-of-Perfection/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/42-line-bible.jpg absPath of file",
-      "internal": {
-        "contentDigest": "6d93cbc4956a854d4c4369f0e281e7f3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "a3057b79175cdcf4a107e8cc2c8f8325",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/1.jpg absPath of file": {
@@ -4182,10 +3715,10 @@
       "extension": "jpg",
       "size": 970706,
       "prettySize": "971 kB",
-      "modifiedTime": "2018-07-03T12:49:45.396Z",
-      "accessTime": "2018-07-04T03:24:49.708Z",
-      "changeTime": "2018-07-03T12:49:45.396Z",
-      "birthTime": "2018-07-03T12:49:45.391Z",
+      "modifiedTime": "2018-07-04T13:18:16.192Z",
+      "accessTime": "2018-07-04T13:18:17.028Z",
+      "changeTime": "2018-07-04T13:18:16.192Z",
+      "birthTime": "2018-07-04T13:18:16.187Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering",
       "base": "1.jpg",
@@ -4199,71 +3732,28 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056245,
+      "ino": 8602403955,
       "blocks": 1896,
-      "atimeMs": 1530674689708.4846,
-      "mtimeMs": 1530622185396.0583,
-      "ctimeMs": 1530622185396.0583,
-      "birthtimeMs": 1530622185391.2412,
-      "atime": "2018-07-04T03:24:49.708Z",
-      "mtime": "2018-07-03T12:49:45.396Z",
-      "ctime": "2018-07-03T12:49:45.396Z",
-      "birthtime": "2018-07-03T12:49:45.391Z",
+      "atimeMs": 1530710297027.5671,
+      "mtimeMs": 1530710296192.0278,
+      "ctimeMs": 1530710296192.0278,
+      "birthtimeMs": 1530710296187.4146,
+      "atime": "2018-07-04T13:18:17.028Z",
+      "mtime": "2018-07-04T13:18:16.192Z",
+      "ctime": "2018-07-04T13:18:16.192Z",
+      "birthtime": "2018-07-04T13:18:16.187Z",
       "fields": {
         "slug": "/The-Origins-of-Social-Stationery-Lettering/"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file",
       "internal": {
         "contentDigest": "a3057b79175cdcf4a107e8cc2c8f8325",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg",
-      "relativePath": "articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg",
-      "extension": "jpg",
-      "size": 840478,
-      "prettySize": "840 kB",
-      "modifiedTime": "2018-07-04T02:45:44.333Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-04T02:45:44.334Z",
-      "birthTime": "2018-07-04T02:45:44.321Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "base": "1.jpg",
-      "ext": ".jpg",
-      "name": "1",
-      "relativeDirectory": "articles/2017-01-09---Perfecting-the-Art-of-Perfection",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602216118,
-      "blocks": 1648,
-      "atimeMs": 1530674689708.5166,
-      "mtimeMs": 1530672344333.26,
-      "ctimeMs": 1530672344334.4,
-      "birthtimeMs": 1530672344321.2588,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-04T02:45:44.333Z",
-      "ctime": "2018-07-04T02:45:44.334Z",
-      "birthtime": "2018-07-04T02:45:44.321Z",
-      "fields": {
-        "slug": "/Perfecting-the-Art-of-Perfection/"
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/1.jpg absPath of file >> ImageSharp": {
@@ -4272,16 +3762,6 @@
       "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/1.jpg absPath of file",
       "internal": {
         "contentDigest": "2c2b7012cc7a218b86a2e5f4fdd1b9c7",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-01-09---Perfecting-the-Art-of-Perfection/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "a3057b79175cdcf4a107e8cc2c8f8325",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -4308,10 +3788,10 @@
       "extension": "jpg",
       "size": 1881547,
       "prettySize": "1.88 MB",
-      "modifiedTime": "2018-07-03T12:49:45.420Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.420Z",
-      "birthTime": "2018-07-03T12:49:45.415Z",
+      "modifiedTime": "2018-07-04T13:18:16.216Z",
+      "accessTime": "2018-07-04T13:18:16.400Z",
+      "changeTime": "2018-07-04T13:18:16.216Z",
+      "birthTime": "2018-07-04T13:18:16.210Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type",
       "base": "movable-type.jpg",
@@ -4325,16 +3805,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056254,
+      "ino": 8602403964,
       "blocks": 3680,
-      "atimeMs": 1530674689708.5476,
-      "mtimeMs": 1530622185420.2432,
-      "ctimeMs": 1530622185420.2432,
-      "birthtimeMs": 1530622185414.9465,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.420Z",
-      "ctime": "2018-07-03T12:49:45.420Z",
-      "birthtime": "2018-07-03T12:49:45.415Z",
+      "atimeMs": 1530710296399.5034,
+      "mtimeMs": 1530710296215.7307,
+      "ctimeMs": 1530710296215.7307,
+      "birthtimeMs": 1530710296210.453,
+      "atime": "2018-07-04T13:18:16.400Z",
+      "mtime": "2018-07-04T13:18:16.216Z",
+      "ctime": "2018-07-04T13:18:16.216Z",
+      "birthtime": "2018-07-04T13:18:16.210Z",
       "fields": {
         "slug": "/The-Birth-of-Movable-Type/"
       }
@@ -4371,10 +3851,10 @@
       "extension": "jpg",
       "size": 2880631,
       "prettySize": "2.88 MB",
-      "modifiedTime": "2018-07-03T12:49:45.441Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.441Z",
-      "birthTime": "2018-07-03T12:49:45.428Z",
+      "modifiedTime": "2018-07-04T13:18:16.256Z",
+      "accessTime": "2018-07-04T13:18:18.404Z",
+      "changeTime": "2018-07-04T13:18:16.256Z",
+      "birthTime": "2018-07-04T13:18:16.224Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about",
       "base": "1.jpg",
@@ -4388,16 +3868,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056263,
+      "ino": 8602403973,
       "blocks": 5632,
-      "atimeMs": 1530674689708.6167,
-      "mtimeMs": 1530622185441.1472,
-      "ctimeMs": 1530622185441.1472,
-      "birthtimeMs": 1530622185428.184,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.441Z",
-      "ctime": "2018-07-03T12:49:45.441Z",
-      "birthtime": "2018-07-03T12:49:45.428Z",
+      "atimeMs": 1530710298404.0935,
+      "mtimeMs": 1530710296256.2812,
+      "ctimeMs": 1530710296256.2812,
+      "birthtimeMs": 1530710296224.0715,
+      "atime": "2018-07-04T13:18:18.404Z",
+      "mtime": "2018-07-04T13:18:16.256Z",
+      "ctime": "2018-07-04T13:18:16.256Z",
+      "birthtime": "2018-07-04T13:18:16.224Z",
       "fields": {
         "slug": "/about/"
       }
@@ -4434,10 +3914,10 @@
       "extension": "jpg",
       "size": 3011570,
       "prettySize": "3.01 MB",
-      "modifiedTime": "2018-07-03T12:49:45.408Z",
-      "accessTime": "2018-07-04T03:24:49.709Z",
-      "changeTime": "2018-07-03T12:49:45.408Z",
-      "birthTime": "2018-07-03T12:49:45.397Z",
+      "modifiedTime": "2018-07-04T13:18:16.204Z",
+      "accessTime": "2018-07-04T13:18:17.026Z",
+      "changeTime": "2018-07-04T13:18:16.204Z",
+      "birthTime": "2018-07-04T13:18:16.193Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-02-02---A-Brief-History-of-Typography",
       "base": "1.jpg",
@@ -4451,16 +3931,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602056248,
+      "ino": 8602403958,
       "blocks": 5888,
-      "atimeMs": 1530674689708.5002,
-      "mtimeMs": 1530622185408.0493,
-      "ctimeMs": 1530622185408.0493,
-      "birthtimeMs": 1530622185396.9104,
-      "atime": "2018-07-04T03:24:49.709Z",
-      "mtime": "2018-07-03T12:49:45.408Z",
-      "ctime": "2018-07-03T12:49:45.408Z",
-      "birthtime": "2018-07-03T12:49:45.397Z",
+      "atimeMs": 1530710297026.2676,
+      "mtimeMs": 1530710296204.3625,
+      "ctimeMs": 1530710296204.3625,
+      "birthtimeMs": 1530710296193.1904,
+      "atime": "2018-07-04T13:18:17.026Z",
+      "mtime": "2018-07-04T13:18:16.204Z",
+      "ctime": "2018-07-04T13:18:16.204Z",
+      "birthtime": "2018-07-04T13:18:16.193Z",
       "fields": {
         "slug": "/A-Brief-History-of-Typography/"
       }
@@ -4493,30 +3973,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bac7c3a7c6deef2e1fad22815a3c767f",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/contact"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /contact",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "986486e58ec3c0b29a8b779ed0773ddb",
+        "contentDigest": "8ccef20733ed761f87e485d11e876842",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4539,7 +3996,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04fc707d2ce79c174acfdb210430c8fa",
+        "contentDigest": "8742bc88727422e0282c7481029bfeac",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4562,7 +4019,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac3de913f8627fc3274d009afaa3217c",
+        "contentDigest": "117324e6fb95e381fe681c51caa730d8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4585,7 +4042,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "46f4401934d5750aa404ffdb076746ad",
+        "contentDigest": "473e3ad7269a77c58541314e28bcf4e7",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4608,7 +4065,30 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a4054862774be08cefdaf9cbc774ed1a",
+        "contentDigest": "f4915d66dc67be339cee28e8dd950f19",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/contact"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "12dcad2110dca42610866e30557bad4b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4631,7 +4111,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "532ba0cb39dd10d72f603e519325948e",
+        "contentDigest": "e7ea3b93264cafdb2241ccf1b2e8d540",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4654,7 +4134,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f4a28e77f77ca520429f937daf7120e7",
+        "contentDigest": "f6c0d9d3d52ec48d87f592d54ba77b5e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4677,7 +4157,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7046ef5c2f5936f0298625534f971104",
+        "contentDigest": "ba4b61379983539600e428e09a9de3fd",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4700,7 +4180,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5dc0a4d92e4d895b8620913326ffcaaa",
+        "contentDigest": "9c6695d5fb4bc4f4fa054a8593783438",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4723,7 +4203,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72fa26a821b323389fcddb9147977ef4",
+        "contentDigest": "075b40f8d25baac10186cb755e68be72",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4746,7 +4226,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8f9751a182aeb0002b2d278d920c08cd",
+        "contentDigest": "7715f891e7d27fb34070bc22d7ad610c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4769,7 +4249,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "afec39f4ba6cfdc141741ae6adc23f76",
+        "contentDigest": "0e290107df34f018cb039d843b8e6c0e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4792,7 +4272,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d55892e34531707ce6e56b1a83435caa",
+        "contentDigest": "ad75ca71d1adac2ea6cfe104e829fcac",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4815,7 +4295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14fcd762630a8fe10ab6175783514adc",
+        "contentDigest": "945d7d8f9c10ba163738cc494f155d62",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4838,7 +4318,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "23b58ca47c6b2c78bec315db41736c01",
+        "contentDigest": "98ec904a961b8def3b19ba2ff8b90d71",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4861,7 +4341,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6095fc105430abbd069e9a2acb5aebe3",
+        "contentDigest": "b18dba999a82f65c5a66cb957004f497",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4884,7 +4364,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "87e3afd81358a5f8b6e6d21ee94c6d67",
+        "contentDigest": "34a8f746abe8bca64adbfb1897d3702e",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4907,7 +4387,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e48c90dd2ce0265662e10180a41b594",
+        "contentDigest": "54dbf334082c59106682bca9d2a7a6fe",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4930,7 +4410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f3847979a59efe0fbdaf1ffa096d2e5",
+        "contentDigest": "55007eaf59afd2d5eb82777102ab51cf",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4953,7 +4433,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "67743b3d26ad3ebf821ff8a3fa2dd531",
+        "contentDigest": "08241a11b20c9a00857b8c24692bebb5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4976,7 +4456,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "255bc669b41d47fe3128a8cb5289132c",
+        "contentDigest": "711447432dde4363505c639dd89f79ba",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4999,7 +4479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0fc7febd1f777e89a4e84e2b3da9557d",
+        "contentDigest": "f52dcac4c28528d6aaab38edde1dc284",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5022,99 +4502,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3615084470e9bed515683df71bacb377",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/start_blog/": {
-      "layout": "index",
-      "jsonName": "posts-start-blog.json",
-      "internalComponentName": "ComponentPostsStartBlog",
-      "path": "/posts/start_blog/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/start_blog/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/start_blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a1cd54cf60bec3c86bcb648654240bb5",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/etc/": {
-      "layout": "index",
-      "jsonName": "tags-etc.json",
-      "internalComponentName": "ComponentTagsEtc",
-      "path": "/tags/etc/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "etc"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/etc/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3f53dca0e98eb5ac3ca074c42c2e77e7",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/react/": {
-      "layout": "index",
-      "jsonName": "tags-react.json",
-      "internalComponentName": "ComponentTagsReact",
-      "path": "/tags/react/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "react"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/react/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4e46650a606f3050abc312f57119a572",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/etc/": {
-      "layout": "index",
-      "jsonName": "categories-etc.json",
-      "internalComponentName": "ComponentCategoriesEtc",
-      "path": "/categories/etc/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Etc"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/etc/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "85910189c7ff2951a9137b36455a1f3e",
+        "contentDigest": "c33cc502903b9f209d28b7ba78513908",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -5135,7 +4523,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ea86ddcf698b1c9ed28b8051ad190d87",
+        "contentDigest": "6995ecc6ebb6c955e0aa026e27b0c256",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5156,7 +4544,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d2b5895e869ddf137d4bc8f8cbeab142",
+        "contentDigest": "e47b07c7d0e4a3cefd914547a7e3819b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5177,7 +4565,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "39defa4d93a202840641db3b3ce4d113",
+        "contentDigest": "f4d77e74efbb5a8f2f952c27f3b74695",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5198,7 +4586,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9f7bfec8e4532e6643034534add2e5a3",
+        "contentDigest": "e38877e4d355eb7be123a3eb0baa4017",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -5219,7 +4607,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9138db336e5d1fb30cd8ba75cf781d45",
+        "contentDigest": "cea09b498f5e5eb0b65cd15f9121caa9",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -5227,17 +4615,17 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0f1b87a4abd95c436566fca7c4b64814"
+    "PLUGINS_HASH": "b0b14d400086b6f68d8330afa958ec0a"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/contact",
-        "/about",
         "/posts/perfecting-the-art-of-perfection/",
+        "/about",
         "/tags/handwriting/",
         "/tags/learning-to-write/",
         "/categories/design-inspiration/",
+        "/contact",
         "/posts/the-origins-of-social-stationery-lettering",
         "/tags/typefaces/",
         "/tags/lettering/",
@@ -5246,8 +4634,8 @@
         "/posts/a-brief-history-of-typography/",
         "/tags/linotype/",
         "/tags/monotype/",
-        "/tags/history-of-typography/",
         "/tags/helvetica/",
+        "/tags/history-of-typography/",
         "/posts/the-birth-of-movable-type/",
         "/tags/open-source/",
         "/tags/gatsby/",
@@ -5256,24 +4644,20 @@
         "/posts/humane-typography-in-the-digital-age/",
         "/tags/design/",
         "/tags/web-development/",
-        "/posts/start_blog/",
-        "/tags/etc/",
-        "/tags/react/",
-        "/categories/etc/",
         "/404/",
         "/categories/",
         "/",
         "/tags/",
         "/404.html"
       ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
-        "/contact"
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/perfecting-the-art-of-perfection/"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
         "/about"
       ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/perfecting-the-art-of-perfection/"
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
+        "/contact"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": [
         "/posts/the-origins-of-social-stationery-lettering"
@@ -5286,9 +4670,6 @@
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark": [
         "/posts/humane-typography-in-the-digital-age/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/start_blog/"
       ]
     },
     "connections": {
@@ -5302,17 +4683,14 @@
         "/categories/design-culture/",
         "/tags/linotype/",
         "/tags/monotype/",
-        "/tags/history-of-typography/",
         "/tags/helvetica/",
+        "/tags/history-of-typography/",
         "/tags/open-source/",
         "/tags/gatsby/",
         "/tags/typography/",
         "/categories/typography/",
         "/tags/design/",
         "/tags/web-development/",
-        "/tags/etc/",
-        "/tags/react/",
-        "/categories/etc/",
         "/categories/",
         "/",
         "/tags/"
