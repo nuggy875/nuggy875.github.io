@@ -3,6 +3,34 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-perfecting-the-art-of-perfection.json",
+        "path": "/posts/perfecting-the-art-of-perfection/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-handwriting.json",
+        "path": "/tags/handwriting/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-learning-to-write.json",
+        "path": "/tags/learning-to-write/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-design-inspiration.json",
+        "path": "/categories/design-inspiration/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-the-origins-of-social-stationery-lettering.json",
         "path": "/posts/the-origins-of-social-stationery-lettering"
     },
@@ -38,29 +66,36 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-perfecting-the-art-of-perfection.json",
-        "path": "/posts/perfecting-the-art-of-perfection/"
+        "jsonName": "posts-a-brief-history-of-typography.json",
+        "path": "/posts/a-brief-history-of-typography/"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-handwriting.json",
-        "path": "/tags/handwriting/"
+        "jsonName": "tags-linotype.json",
+        "path": "/tags/linotype/"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-learning-to-write.json",
-        "path": "/tags/learning-to-write/"
+        "jsonName": "tags-monotype.json",
+        "path": "/tags/monotype/"
     },
     {
-        "componentChunkName": "component---src-templates-category-template-jsx",
+        "componentChunkName": "component---src-templates-tag-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "categories-design-inspiration.json",
-        "path": "/categories/design-inspiration/"
+        "jsonName": "tags-history-of-typography.json",
+        "path": "/tags/history-of-typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-helvetica.json",
+        "path": "/tags/helvetica/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-jsx",
@@ -119,39 +154,18 @@
         "path": "/tags/web-development/"
     },
     {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-a-brief-history-of-typography.json",
-        "path": "/posts/a-brief-history-of-typography/"
-    },
-    {
         "componentChunkName": "component---src-templates-tag-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-linotype.json",
-        "path": "/tags/linotype/"
+        "jsonName": "tags-이것저것.json",
+        "path": "/tags/이것저것/"
     },
     {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "componentChunkName": "component---src-templates-category-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-monotype.json",
-        "path": "/tags/monotype/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-history-of-typography.json",
-        "path": "/tags/history-of-typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-helvetica.json",
-        "path": "/tags/helvetica/"
+        "jsonName": "categories-이것저것.json",
+        "path": "/categories/이것저것/"
     },
     {
         "componentChunkName": "component---src-templates-page-template-jsx",
@@ -208,5 +222,12 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-start-blog.json",
+        "path": "/posts/start-blog/"
     }
 ]

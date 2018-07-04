@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Gilbert Paeng',
+    subtitle: 'Computer Vision / Android(Java) / ReactJS / NodeJS',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,13 +20,11 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Gilbert Paeng',
+      email: 'jinugpaeng@gmail.com',
+      telegram: 'nuggy875',
+      instagram: 'paeng___',
+      github: 'nuggy875'
     }
   },
   plugins: [
