@@ -1,6 +1,6 @@
 ---
 title: 블로그를 시작한다.
-date: "2018-07-05T22:40:32.169Z"
+date: "2018-07-05T03:00:00.169Z"
 layout: post
 draft: false
 path: "/posts/start-blog/"
