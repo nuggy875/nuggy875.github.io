@@ -61,7 +61,8 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
             }
         });
     }
-    //뒷부분 생략
+    // 뒷부분 생략
+    // 윗 부분은 무시하고 RecyclerView 에서 Toast를 쓰기위해 view.getContext()를 썼다는 것에 집중하자
 ```
 
 
@@ -89,7 +90,9 @@ public class FragmentList extends Fragment {
     }
 }
 
-    //getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
+    // getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
+    // 윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.
+
 ```
 
 
