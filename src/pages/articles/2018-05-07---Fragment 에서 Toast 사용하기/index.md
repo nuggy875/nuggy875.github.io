@@ -1,5 +1,5 @@
 ---
-title: Activity와 Context의 차이
+title: [안드로이드] Activity와 Context의 차이
 date: "2018-07-05T22:30:00.169Z"
 layout: post
 draft: false
