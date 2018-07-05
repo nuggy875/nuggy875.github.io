@@ -1,5 +1,5 @@
 ---
-title: [안드로이드] Activity와 Context의 차이
+title: "[안드로이드] Activity와 Context의 차이"
 date: "2018-07-05T22:30:00.169Z"
 layout: post
 draft: false
@@ -92,10 +92,10 @@ public class FragmentList extends Fragment {
     }
 }
 
-    // getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
-    // 윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.
-
 ```
+getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
+윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.
+
 
 
 ~~사실 개발할 때는 귀찮아서 개념 생각 안하고 그냥 되는거 해보고 쓴다...~~
