@@ -1,6 +1,6 @@
 ---
 title: [안드로이드] 현재 날짜, 시간 구하기
-date: "2018-07-05T22:30:00.169Z"
+date: "2018-07-06T01:52:32.169Z"
 layout: post
 draft: false
 path: "/posts/android/post-2"
