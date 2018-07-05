@@ -8,7 +8,9 @@ category: "Android"
 tags:
   - "Android"
   - "Fragment"
-description: "Fragment에서 getActivity(), getContext()의 사용"
+  - "Context"
+  - "안드로이드"
+description: "Fragment, 등에서 getActivity(), getContext()의 사용"
 ---
 
 평범한(?) Activity에서 Toast는 다음과 같이 사용된다.
