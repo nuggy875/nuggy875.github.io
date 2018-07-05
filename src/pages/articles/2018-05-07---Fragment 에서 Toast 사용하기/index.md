@@ -36,7 +36,8 @@ Toast.makeText(root, "Toast에 띄울 내용", Toast.LENGTH_SHORT).show();
 
 그러면 여기서 의문점이 생긴다...  
 
-### Context랑 Activity랑 뭐가 다른거야?
+
+## Context랑 Activity랑 뭐가 다른거야?
 
 
 
@@ -45,7 +46,7 @@ Toast.makeText(root, "Toast에 띄울 내용", Toast.LENGTH_SHORT).show();
 
 Context는 안드로이드 시스템과의 연결통로와 동시에 어플리케이션 Resource에 접근할 수 있는 하나의 통로 라고 볼 수 있는데, Activity는 이런 Context를 상속받아 구현하는 컴포넌트중 하나이다.
 
-#### 사용 예제
+### 사용 예제
 - **RecyclerViewAdapter에서 Context 받아오기**
   ```Java
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>{
@@ -94,6 +95,6 @@ public class FragmentList extends Fragment {
 
 ~~사실 개발할 때는 귀찮아서 개념 생각 안하고 그냥 되는거 해보고 쓴다...~~
 
-출처
+출처  
 https://www.androidpub.com/1856256
 http://jungwoo5394.blogspot.com/2015/04/fragment-toast.html
