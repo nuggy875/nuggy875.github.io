@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
     title: 'Blog by Gilbert Paeng',
-    subtitle: 'Computer Vision / Machine Learning / Android(Java) / ReactJS / NodeJS',
+    subtitle: 'ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

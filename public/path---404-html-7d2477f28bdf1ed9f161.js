@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{391:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Blog by Gilbert Paeng",subtitle:"ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"},{label:"Contact me",path:"/contact/"}],author:{name:"Gilbert Paeng",email:"jinugpaeng@gmail.com",telegram:"nuggy875",instagram:"paeng___",github:"nuggy875"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-7d2477f28bdf1ed9f161.js.map

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Gilbert Paeng]]></title><description><![CDATA[Computer Vision / Machine Learning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 05 Jul 2018 17:16:20 GMT</lastBuildDate><item><title><![CDATA[[안드로이드] 현재 날짜, 시간 구하기]]></title><description><![CDATA[YAMLException: can not read a block mapping entry]]></description><link>https://lumen.netlify.com/posts/markdown/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/markdown/post-1</guid><pubDate>Fri, 06 Jul 2018 02:10:21 GMT</pubDate><content:encoded>&lt;p&gt;현재 Gatsby를 이용하여 블로그를 작성하고 있고, Netlify로 배포를 진행하고 있다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Gilbert Paeng]]></title><description><![CDATA[ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Jul 2018 20:09:59 GMT</lastBuildDate><item><title><![CDATA[[마크다운] YAMLException]]></title><description><![CDATA[YAMLException: can not read a block mapping entry]]></description><link>https://lumen.netlify.com/posts/markdown/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/markdown/post-1</guid><pubDate>Fri, 06 Jul 2018 02:10:21 GMT</pubDate><content:encoded>&lt;p&gt;현재 Gatsby를 이용하여 블로그를 작성하고 있고, Netlify로 배포를 진행하고 있다.&lt;br&gt;
 블로그를 시작한지 얼마 안 돼서 설레는 마음으로 포스팅을 하는 도중에 이상한 에러가 발목을 잡았다.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -36,6 +36,9 @@
   &lt;/a&gt;
     
 &amp;#x3C;에러 화면&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;YAMLException: can not read a block mapping entry; a multiline key m  ay not be an implicit key at line 3, column 5:&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -129,7 +132,141 @@ String getTime = simpleDate.format(mDate);&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;위와 같이 작성할 경우, getTime 변수에 &lt;strong&gt;2018-07-06 01:42:00&lt;/strong&gt; 이런식으로 날짜를 가져올 수 있다.&lt;/p&gt;
-&lt;p&gt;MM-dd 만 작성할 경우 “07-06” 이런식으로 Customize 할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] Activity와 Context의 차이]]></title><description><![CDATA[Fragment, 등에서 getActivity(), getContext()의 사용]]></description><link>https://lumen.netlify.com/posts/android/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-1</guid><pubDate>Thu, 05 Jul 2018 22:30:00 GMT</pubDate><content:encoded>&lt;p&gt;평범한(?) Activity에서 Toast는 다음과 같이 사용된다.&lt;/p&gt;
+&lt;p&gt;MM-dd 만 작성할 경우 “07-06” 이런식으로 Customize 할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] EditText 밑줄 없애기]]></title><description><![CDATA[EditText 밑줄 없애는 방법]]></description><link>https://lumen.netlify.com/posts/android/post-3</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-3</guid><pubDate>Fri, 06 Jul 2018 01:52:32 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;android:background=&quot;@null&quot;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/code1-4c8e51f7d5aaf1db3a756b1a02639784-d60f7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 654px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 58.71559633027523%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACGklEQVQoz3WT6ZKiQBCEfRo51RE8QLmR7ka5FEId3Y1x9/3fIbdoR8fZjf3xRZdCJFmV1YOaL5EEU/DYgm2ZGCoqNE2DruvQtU9easMwvtE/ez0HvmuBhQnyOEW0ChEGCYIwgLWcwHanmK2mGE9N2Euq6d3R2ISmapLHB15FB6pqIHAygiF2GbKEgwuBjGcIowA852CCwYtdONFMitrOFPO1Levx2+gpKB2aponUY9j4XJIlDFVdoqoq5LmgukJZ1ojikATnWPgzuPECLtU91vztPhL9IWiY6Iodrm2Ny77Cz0uD20eDH9cd2nOEwzGCbU8xmYwxITc9vStzZEpeW34KspBBxAI8YqjLEkXByVWO3Y5DbF10Zw/dyUfTeWhaDyvPgqq8BKd/IVtuyeE7uTs3pXT4QQ5vtwN+/+pwOmU4nAPJfDEhV8bdmUkn0Yf06nZgkMN4nck5JnSylFxRENvtFkJwpGmCdewQSzjeXAbhhDRLz8aCglkGM1nP6f9ny6GzkUlHREJtM04pM4Ek3VBNrRcljaCiERTwAw9B7sJnDsaT0bfVubdMgts0Ry0KNMS+2uFybXF5b6ndmsLpcKDAxE6gbivaUV/u5IqS7gP6e9nlDPfbDJXIULAUh0bgeCzQdTkJlmgPtJ/RGmNrhGVo0+z0r8XW9X9uzaAv3MWIrpsKRVWgKAqGwyGh3KHf6uet0NT/X70HfwD955BMZuohFQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;YAMLException&quot;
+        title=&quot;&quot;
+        src=&quot;/static/code1-4c8e51f7d5aaf1db3a756b1a02639784-d60f7.png&quot;
+        srcset=&quot;/static/code1-4c8e51f7d5aaf1db3a756b1a02639784-1b5e2.png 240w,
+/static/code1-4c8e51f7d5aaf1db3a756b1a02639784-18287.png 480w,
+/static/code1-4c8e51f7d5aaf1db3a756b1a02639784-d60f7.png 654w&quot;
+        sizes=&quot;(max-width: 654px) 100vw, 654px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/screenshot1-36c4a802489f9d2447b7203771332eff-abe6c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 816px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 12.990196078431374%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAL0lEQVQI163MsQkAQAgDwOy/qWgvwUAeZ3iLaw/dbZJnEBGW5Jn5tg8y01V1Yq8HEZToCZpZkUAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;YAMLException&quot;
+        title=&quot;&quot;
+        src=&quot;/static/screenshot1-36c4a802489f9d2447b7203771332eff-abe6c.png&quot;
+        srcset=&quot;/static/screenshot1-36c4a802489f9d2447b7203771332eff-1f953.png 240w,
+/static/screenshot1-36c4a802489f9d2447b7203771332eff-f33e5.png 480w,
+/static/screenshot1-36c4a802489f9d2447b7203771332eff-abe6c.png 816w&quot;
+        sizes=&quot;(max-width: 816px) 100vw, 816px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/code2-667b1e6f6a858426ee26b60d521a8c3c-37131.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 664px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.85542168674698%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACV0lEQVQ4y2WTW1PaUBSF+S+dqgnkgoEQEswVCLkBUUCrVdrp9DKdsdX///B1Bx0E+7Bmn9z2WWd9O62pYxLbOpOBRk9XOT07QxGpivom9VWv63a7faTDe62ryGLhO2zziMRx6HZ7OEOpPQOjq2FYOprR2a1Ny0DTO7KhcrTZYdPWh5NTnH5A6BWEwylJMCEvCuJphBcMSdKIaBwyGPVxgj6WbWKe67sNG3W0zlHTVrutMrIDJheZNBxz4YaUVUVZVERhwmK+ZFlfEUQBw7jPMHxVZOPGNl1xfXRkRVGYxQmf6ppVWbK5LNhuL7m7nbNcR9TrBM9zMc0uuqGhmxJDV8cQl03VDhzuGyYXMXW2oBxnLMuC9bqiXmYUZUJWeRQLh6wYkM9dyoWL43Y5O1X2sA7htM4OHK7F4c2q4uuXlbi84uH+ks31lOv7kJsHyXR0jiW56QLpPZA9FEVVCCS3IimZBlPSZCKZlcyrnKJImc0m+GOHkeTXdy0sp4s9eqkNJMfvYXsWPbneOWwaun2fxMvxBw2UiCyX5mlOIFCadVaUpLOZNBdwcYCfOrgCpcmz02nvtT9y6AnZsXwUpkzjmNVVwUrgFHnMRiKoFzlZNmEhNfBHO0fDqL+D1DDYD/7L2LQpJinbzYbbesHD5xu+Pz7x7fcfvvx6lPpIubrDijPcqsawXTpq40hDa6Qdq6XrOtEoENITPNvHD0su5s/48yec/C+j6pnz9CfmdEs7+YHm5Ji6jI5pYhjGf5KxURn05AX5j5vjK0rzL3/cSd3XkzfJ88Mjvtc/szuyzFygu+8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;YAMLException&quot;
+        title=&quot;&quot;
+        src=&quot;/static/code2-667b1e6f6a858426ee26b60d521a8c3c-37131.png&quot;
+        srcset=&quot;/static/code2-667b1e6f6a858426ee26b60d521a8c3c-24028.png 240w,
+/static/code2-667b1e6f6a858426ee26b60d521a8c3c-9b2fb.png 480w,
+/static/code2-667b1e6f6a858426ee26b60d521a8c3c-37131.png 664w&quot;
+        sizes=&quot;(max-width: 664px) 100vw, 664px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/screenshot2-e667727cfc9ba800f3d8763d6e53b96f-4798f.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 832px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 11.538461538461538%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAM0lEQVQI16XMsQ0AMAgDQfbf1A2VBQIKo2SEpHh9d5aZcndFhLpbVXX/mh0IgEhqZr7BBXXmnHz7JtpgAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;YAMLException&quot;
+        title=&quot;&quot;
+        src=&quot;/static/screenshot2-e667727cfc9ba800f3d8763d6e53b96f-4798f.png&quot;
+        srcset=&quot;/static/screenshot2-e667727cfc9ba800f3d8763d6e53b96f-d36e4.png 240w,
+/static/screenshot2-e667727cfc9ba800f3d8763d6e53b96f-b9c01.png 480w,
+/static/screenshot2-e667727cfc9ba800f3d8763d6e53b96f-4798f.png 832w&quot;
+        sizes=&quot;(max-width: 832px) 100vw, 832px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] Activity와 Context의 차이]]></title><description><![CDATA[Fragment, 등에서 getActivity(), getContext()의 사용]]></description><link>https://lumen.netlify.com/posts/android/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-1</guid><pubDate>Thu, 05 Jul 2018 22:30:00 GMT</pubDate><content:encoded>&lt;p&gt;평범한(?) Activity에서 Toast는 다음과 같이 사용된다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;Toast.makeText(현재Activity.this, &amp;quot;Toast에 띄울 내용&amp;quot;, Toast.LENGTH_SHORT).show();&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;

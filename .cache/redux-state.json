@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "64758647ff14a5f6850386d190f10ff4",
+        "contentDigest": "e66f0fa426905467ce3a7e8d4765f14d",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1668,7 +1668,7 @@
       "resolve": "/Users/paeng/dev/web/nuggy875.github.io",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "1ad62f8f87979bf22aee4aba609cc0dd",
+      "version": "ae107719f1229db6c37720386ee44b25",
       "pluginOptions": {
         "plugins": []
       },
@@ -1841,7 +1841,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "836132daedd88b55e89e691a639e872f",
+        "contentDigest": "cb510676ab2cf12387adb56ad2a1d596",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1932,7 +1932,7 @@
       "siteMetadata": {
         "url": "https://lumen.netlify.com",
         "title": "Blog by Gilbert Paeng",
-        "subtitle": "Computer Vision / Machine Learning / Android(Java) / ReactJS / NodeJS",
+        "subtitle": "ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS",
         "copyright": "© All rights reserved.",
         "disqusShortname": "",
         "menu": [
@@ -1961,12 +1961,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-05T17:16:27.248Z",
+      "buildTime": "2018-07-07T20:10:15.303Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a94b6e55aba170f3ecb171892c432eea",
+        "contentDigest": "74debd63ceaaf022056e7e81e5db1afc",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1976,7 +1976,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9f0fce0a626605d2bb4f6693469b7ca2",
+        "contentDigest": "7219a6bb706f67f697d21f306856da5a",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1988,7 +1988,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-07-05T17:13:22.228Z",
-      "accessTime": "2018-07-05T17:16:32.544Z",
+      "accessTime": "2018-07-07T20:10:20.084Z",
       "changeTime": "2018-07-05T17:13:22.228Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8602523249,
       "blocks": 0,
-      "atimeMs": 1530810992543.6453,
+      "atimeMs": 1530994220083.7954,
       "mtimeMs": 1530810802228.4053,
       "ctimeMs": 1530810802228.4053,
       "birthtimeMs": 1530721180666.7139,
-      "atime": "2018-07-05T17:16:32.544Z",
+      "atime": "2018-07-07T20:10:20.084Z",
       "mtime": "2018-07-05T17:13:22.228Z",
       "ctime": "2018-07-05T17:13:22.228Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2383bddde7b9cd1cc7525a55d60c53e7",
+        "contentDigest": "a36270c6c93826c6ecc4bdb16e98e079",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -2029,11 +2029,11 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "relativePath": "articles",
       "extension": "",
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-07-05T17:13:24.877Z",
-      "accessTime": "2018-07-05T17:16:32.546Z",
-      "changeTime": "2018-07-05T17:13:24.877Z",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-07-07T20:08:22.746Z",
+      "accessTime": "2018-07-07T20:10:20.086Z",
+      "changeTime": "2018-07-07T20:08:22.746Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
@@ -2043,20 +2043,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 7,
+      "nlink": 8,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8602523251,
       "blocks": 0,
-      "atimeMs": 1530810992545.911,
-      "mtimeMs": 1530810804876.9565,
-      "ctimeMs": 1530810804876.9565,
+      "atimeMs": 1530994220086.0352,
+      "mtimeMs": 1530994102746.1958,
+      "ctimeMs": 1530994102746.1958,
       "birthtimeMs": 1530721180667.212,
-      "atime": "2018-07-05T17:16:32.546Z",
-      "mtime": "2018-07-05T17:13:24.877Z",
-      "ctime": "2018-07-05T17:13:24.877Z",
+      "atime": "2018-07-07T20:10:20.086Z",
+      "mtime": "2018-07-07T20:08:22.746Z",
+      "ctime": "2018-07-07T20:08:22.746Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages absPath of file": {
@@ -2064,7 +2064,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e6fc2cd5171151b6cc570164eb9da1eb",
+        "contentDigest": "5de4306440680f5a609a385cc0fc6d55",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2076,7 +2076,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-05T17:16:32.546Z",
+      "accessTime": "2018-07-07T20:10:20.086Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.740Z",
       "root": "/",
@@ -2094,65 +2094,21 @@
       "blksize": 4194304,
       "ino": 8602523272,
       "blocks": 0,
-      "atimeMs": 1530810992545.9023,
+      "atimeMs": 1530994220086.0002,
       "mtimeMs": 1530721180766.6982,
       "ctimeMs": 1530721180766.6982,
       "birthtimeMs": 1530721180740.4966,
-      "atime": "2018-07-05T17:16:32.546Z",
+      "atime": "2018-07-07T20:10:20.086Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.740Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7f2ba85a7e92563420208af0240d069d",
-        "type": "Directory",
-        "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
-      "relativePath": "pages/2015-05-01---contact",
-      "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-07-04T16:19:40.773Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
-      "changeTime": "2018-07-04T16:19:40.773Z",
-      "birthTime": "2018-07-04T16:19:40.767Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages",
-      "base": "2015-05-01---contact",
-      "ext": "",
-      "name": "2015-05-01---contact",
-      "relativeDirectory": "pages",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602523276,
-      "blocks": 0,
-      "atimeMs": 1530810992547.7947,
-      "mtimeMs": 1530721180773.4004,
-      "ctimeMs": 1530721180773.4004,
-      "birthtimeMs": 1530721180766.6912,
-      "atime": "2018-07-05T17:16:32.548Z",
-      "mtime": "2018-07-04T16:19:40.773Z",
-      "ctime": "2018-07-04T16:19:40.773Z",
-      "birthtime": "2018-07-04T16:19:40.767Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f026879e43e4c9136fc5c64f0256334a",
+        "contentDigest": "295c1659cdf99c1f62eb0553d2dc5ab1",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2164,7 +2120,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.741Z",
       "root": "/",
@@ -2182,14 +2138,285 @@
       "blksize": 4194304,
       "ino": 8602523273,
       "blocks": 0,
-      "atimeMs": 1530810992547.7822,
+      "atimeMs": 1530994220088.9932,
       "mtimeMs": 1530721180766.5012,
       "ctimeMs": 1530721180766.5012,
       "birthtimeMs": 1530721180740.5815,
-      "atime": "2018-07-05T17:16:32.548Z",
+      "atime": "2018-07-07T20:10:20.089Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.741Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "59709770a1efd228d29ff86f2627f02b",
+        "type": "Directory",
+        "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
+      "relativePath": "pages/2015-05-01---contact",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-07-04T16:19:40.773Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-04T16:19:40.773Z",
+      "birthTime": "2018-07-04T16:19:40.767Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages",
+      "base": "2015-05-01---contact",
+      "ext": "",
+      "name": "2015-05-01---contact",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602523276,
+      "blocks": 0,
+      "atimeMs": 1530994220089.024,
+      "mtimeMs": 1530721180773.4004,
+      "ctimeMs": 1530721180773.4004,
+      "birthtimeMs": 1530721180766.6912,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-04T16:19:40.773Z",
+      "ctime": "2018-07-04T16:19:40.773Z",
+      "birthtime": "2018-07-04T16:19:40.767Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "50eab3ef2ad4f12469eb13f4c99d0e0a",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-04---start-blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog",
+      "relativePath": "articles/2018-07-04---start-blog",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-07-04T17:34:16.543Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-05T17:01:30.049Z",
+      "birthTime": "2018-07-04T17:25:12.898Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-04---start-blog",
+      "ext": "",
+      "name": "2018-07-04---start-blog",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602685626,
+      "blocks": 0,
+      "atimeMs": 1530994220089.0444,
+      "mtimeMs": 1530725656542.5493,
+      "ctimeMs": 1530810090049.0598,
+      "birthtimeMs": 1530725112897.7983,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-04T17:34:16.543Z",
+      "ctime": "2018-07-05T17:01:30.049Z",
+      "birthtime": "2018-07-04T17:25:12.898Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기 absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1fa5f8c7b2bad79bcd2d61cdf84b4eba",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기",
+      "relativePath": "articles/2018-07-05---Fragment 에서 Toast 사용하기",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-07-05T15:19:19.498Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-05T17:01:20.680Z",
+      "birthTime": "2018-07-05T13:01:19.083Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-05---Fragment 에서 Toast 사용하기",
+      "ext": "",
+      "name": "2018-07-05---Fragment 에서 Toast 사용하기",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602712378,
+      "blocks": 0,
+      "atimeMs": 1530994220089.1023,
+      "mtimeMs": 1530803959497.7078,
+      "ctimeMs": 1530810080680.4187,
+      "birthtimeMs": 1530795679083.1526,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-05T15:19:19.498Z",
+      "ctime": "2018-07-05T17:01:20.680Z",
+      "birthtime": "2018-07-05T13:01:19.083Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러 absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b66fbcdd587badc6d5e910debec106e1",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-06---마크다운에러\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
+      "relativePath": "articles/2018-07-06---마크다운에러",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-07-05T17:15:14.666Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-05T17:15:14.666Z",
+      "birthTime": "2018-07-05T15:19:22.228Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-06---마크다운에러",
+      "ext": "",
+      "name": "2018-07-06---마크다운에러",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602722390,
+      "blocks": 0,
+      "atimeMs": 1530994220089.172,
+      "mtimeMs": 1530810914665.6672,
+      "ctimeMs": 1530810914665.6672,
+      "birthtimeMs": 1530803962228.1912,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-05T17:15:14.666Z",
+      "ctime": "2018-07-05T17:15:14.666Z",
+      "birthtime": "2018-07-05T15:19:22.228Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기 absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cf45e06c43ec39b70c8b8236000b425f",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-06---현재날짜 구하기\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기",
+      "relativePath": "articles/2018-07-06---현재날짜 구하기",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-07-05T17:08:28.153Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-05T17:08:28.153Z",
+      "birthTime": "2018-07-05T17:00:20.857Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-06---현재날짜 구하기",
+      "ext": "",
+      "name": "2018-07-06---현재날짜 구하기",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602724720,
+      "blocks": 0,
+      "atimeMs": 1530994220089.1353,
+      "mtimeMs": 1530810508152.6145,
+      "ctimeMs": 1530810508152.6145,
+      "birthtimeMs": 1530810020857.0894,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-05T17:08:28.153Z",
+      "ctime": "2018-07-05T17:08:28.153Z",
+      "birthtime": "2018-07-05T17:00:20.857Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23beb5f37416421d7220422fc2cdfee0",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-05T17:13:22.230Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
+      "changeTime": "2018-07-05T17:13:22.230Z",
+      "birthTime": "2018-07-05T17:13:22.228Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602725476,
+      "blocks": 16,
+      "atimeMs": 1530811245991.9597,
+      "mtimeMs": 1530810802230.1267,
+      "ctimeMs": 1530810802230.1267,
+      "birthtimeMs": 1530810802228.388,
+      "atime": "2018-07-05T17:20:45.992Z",
+      "mtime": "2018-07-05T17:13:22.230Z",
+      "ctime": "2018-07-05T17:13:22.230Z",
+      "birthtime": "2018-07-05T17:13:22.228Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx absPath of file": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx absPath of file",
@@ -2212,7 +2439,7 @@
       "size": 995,
       "prettySize": "995 B",
       "modifiedTime": "2018-07-04T17:21:11.910Z",
-      "accessTime": "2018-07-04T17:21:14.342Z",
+      "accessTime": "2018-07-05T17:20:50.969Z",
       "changeTime": "2018-07-04T17:21:11.910Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
@@ -2230,11 +2457,11 @@
       "blksize": 4194304,
       "ino": 8602523250,
       "blocks": 8,
-      "atimeMs": 1530724874342.0903,
+      "atimeMs": 1530811250968.9387,
       "mtimeMs": 1530724871909.5327,
       "ctimeMs": 1530724871909.5327,
       "birthtimeMs": 1530721180666.8447,
-      "atime": "2018-07-04T17:21:14.342Z",
+      "atime": "2018-07-05T17:20:50.969Z",
       "mtime": "2018-07-04T17:21:11.910Z",
       "ctime": "2018-07-04T17:21:11.910Z",
       "birthtime": "2018-07-04T16:19:40.667Z",
@@ -2263,7 +2490,7 @@
       "size": 1667,
       "prettySize": "1.67 kB",
       "modifiedTime": "2018-07-04T17:21:13.972Z",
-      "accessTime": "2018-07-04T17:21:15.926Z",
+      "accessTime": "2018-07-05T17:20:50.969Z",
       "changeTime": "2018-07-04T17:21:13.972Z",
       "birthTime": "2018-07-04T16:19:40.740Z",
       "root": "/",
@@ -2281,64 +2508,13 @@
       "blksize": 4194304,
       "ino": 8602523271,
       "blocks": 8,
-      "atimeMs": 1530724875925.5317,
+      "atimeMs": 1530811250969.0212,
       "mtimeMs": 1530724873972.1267,
       "ctimeMs": 1530724873972.1267,
       "birthtimeMs": 1530721180740.3206,
-      "atime": "2018-07-04T17:21:15.926Z",
+      "atime": "2018-07-05T17:20:50.969Z",
       "mtime": "2018-07-04T17:21:13.972Z",
       "ctime": "2018-07-04T17:21:13.972Z",
-      "birthtime": "2018-07-04T16:19:40.740Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "78c140645a8f644ded27004f11da4efb",
-        "mediaType": "text/jsx",
-        "type": "File",
-        "description": "File \"src/pages/categories.jsx\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
-      "relativePath": "categories.jsx",
-      "extension": "jsx",
-      "size": 2017,
-      "prettySize": "2.02 kB",
-      "modifiedTime": "2018-07-04T17:19:09.563Z",
-      "accessTime": "2018-07-05T08:32:20.831Z",
-      "changeTime": "2018-07-04T17:19:09.563Z",
-      "birthTime": "2018-07-04T16:19:40.740Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": "categories.jsx",
-      "ext": ".jsx",
-      "name": "categories",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602523270,
-      "blocks": 8,
-      "atimeMs": 1530779540831.3923,
-      "mtimeMs": 1530724749562.5295,
-      "ctimeMs": 1530724749562.5295,
-      "birthtimeMs": 1530721180740.0503,
-      "atime": "2018-07-05T08:32:20.831Z",
-      "mtime": "2018-07-04T17:19:09.563Z",
-      "ctime": "2018-07-04T17:19:09.563Z",
       "birthtime": "2018-07-04T16:19:40.740Z",
       "fields": {
         "slug": "/undefined/"
@@ -2365,7 +2541,7 @@
       "size": 1916,
       "prettySize": "1.92 kB",
       "modifiedTime": "2018-07-04T17:19:14.509Z",
-      "accessTime": "2018-07-04T17:19:15.622Z",
+      "accessTime": "2018-07-05T17:20:50.969Z",
       "changeTime": "2018-07-04T17:19:14.509Z",
       "birthTime": "2018-07-04T16:19:40.774Z",
       "root": "/",
@@ -2383,14 +2559,65 @@
       "blksize": 4194304,
       "ino": 8602523280,
       "blocks": 8,
-      "atimeMs": 1530724755621.6846,
+      "atimeMs": 1530811250969.074,
       "mtimeMs": 1530724754509.142,
       "ctimeMs": 1530724754509.142,
       "birthtimeMs": 1530721180773.9622,
-      "atime": "2018-07-04T17:19:15.622Z",
+      "atime": "2018-07-05T17:20:50.969Z",
       "mtime": "2018-07-04T17:19:14.509Z",
       "ctime": "2018-07-04T17:19:14.509Z",
       "birthtime": "2018-07-04T16:19:40.774Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "78c140645a8f644ded27004f11da4efb",
+        "mediaType": "text/jsx",
+        "type": "File",
+        "description": "File \"src/pages/categories.jsx\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
+      "relativePath": "categories.jsx",
+      "extension": "jsx",
+      "size": 2017,
+      "prettySize": "2.02 kB",
+      "modifiedTime": "2018-07-04T17:19:09.563Z",
+      "accessTime": "2018-07-05T17:20:50.969Z",
+      "changeTime": "2018-07-04T17:19:09.563Z",
+      "birthTime": "2018-07-04T16:19:40.740Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
+      "base": "categories.jsx",
+      "ext": ".jsx",
+      "name": "categories",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602523270,
+      "blocks": 8,
+      "atimeMs": 1530811250969.0154,
+      "mtimeMs": 1530724749562.5295,
+      "ctimeMs": 1530724749562.5295,
+      "birthtimeMs": 1530721180740.0503,
+      "atime": "2018-07-05T17:20:50.969Z",
+      "mtime": "2018-07-04T17:19:09.563Z",
+      "ctime": "2018-07-04T17:19:09.563Z",
+      "birthtime": "2018-07-04T16:19:40.740Z",
       "fields": {
         "slug": "/undefined/"
       }
@@ -2402,7 +2629,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b4a2ac1bd4884f3327476cdefcfc6529",
+        "contentDigest": "51c84095375ac51f3fbcc0a0834e2f66",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/pages/2015-05-01---about/index.md\"",
@@ -2415,11 +2642,11 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md",
       "relativePath": "pages/2015-05-01---about/index.md",
       "extension": "md",
-      "size": 202,
-      "prettySize": "202 B",
-      "modifiedTime": "2018-07-05T14:14:23.332Z",
-      "accessTime": "2018-07-05T16:58:19.439Z",
-      "changeTime": "2018-07-05T14:14:23.332Z",
+      "size": 258,
+      "prettySize": "258 B",
+      "modifiedTime": "2018-07-05T18:54:26.878Z",
+      "accessTime": "2018-07-05T18:54:26.890Z",
+      "changeTime": "2018-07-05T18:54:26.878Z",
       "birthTime": "2018-07-04T16:19:40.766Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about",
@@ -2436,13 +2663,13 @@
       "blksize": 4194304,
       "ino": 8602523275,
       "blocks": 8,
-      "atimeMs": 1530809899438.7078,
-      "mtimeMs": 1530800063332.2039,
-      "ctimeMs": 1530800063332.2039,
+      "atimeMs": 1530816866890.0393,
+      "mtimeMs": 1530816866878.0303,
+      "ctimeMs": 1530816866878.0303,
       "birthtimeMs": 1530721180766.493,
-      "atime": "2018-07-05T16:58:19.439Z",
-      "mtime": "2018-07-05T14:14:23.332Z",
-      "ctime": "2018-07-05T14:14:23.332Z",
+      "atime": "2018-07-05T18:54:26.890Z",
+      "mtime": "2018-07-05T18:54:26.878Z",
+      "ctime": "2018-07-05T18:54:26.878Z",
       "birthtime": "2018-07-04T16:19:40.766Z",
       "fields": {
         "slug": "/about/"
@@ -2471,7 +2698,7 @@
       "size": 1829,
       "prettySize": "1.83 kB",
       "modifiedTime": "2018-07-04T16:19:40.773Z",
-      "accessTime": "2018-07-04T16:19:42.202Z",
+      "accessTime": "2018-07-05T18:50:20.384Z",
       "changeTime": "2018-07-04T16:19:40.773Z",
       "birthTime": "2018-07-04T16:19:40.773Z",
       "root": "/",
@@ -2489,232 +2716,16 @@
       "blksize": 4194304,
       "ino": 8602523278,
       "blocks": 8,
-      "atimeMs": 1530721182201.911,
+      "atimeMs": 1530816620383.604,
       "mtimeMs": 1530721180773.4597,
       "ctimeMs": 1530721180773.4597,
       "birthtimeMs": 1530721180773.3923,
-      "atime": "2018-07-04T16:19:42.202Z",
+      "atime": "2018-07-05T18:50:20.384Z",
       "mtime": "2018-07-04T16:19:40.773Z",
       "ctime": "2018-07-04T16:19:40.773Z",
       "birthtime": "2018-07-04T16:19:40.773Z",
       "fields": {
         "slug": "/contact/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/photo.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg",
-      "relativePath": "photo.jpg",
-      "extension": "jpg",
-      "size": 116343,
-      "prettySize": "116 kB",
-      "modifiedTime": "2018-07-03T13:10:32.441Z",
-      "accessTime": "2018-07-04T17:34:31.035Z",
-      "changeTime": "2018-07-04T17:33:42.885Z",
-      "birthTime": "2018-07-03T13:10:32.441Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": "photo.jpg",
-      "ext": ".jpg",
-      "name": "photo",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602686346,
-      "blocks": 232,
-      "atimeMs": 1530725671034.7478,
-      "mtimeMs": 1530623432440.7651,
-      "ctimeMs": 1530725622885.2373,
-      "birthtimeMs": 1530623432440.643,
-      "atime": "2018-07-04T17:34:31.035Z",
-      "mtime": "2018-07-03T13:10:32.441Z",
-      "ctime": "2018-07-04T17:33:42.885Z",
-      "birthtime": "2018-07-03T13:10:32.441Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
-      "internal": {
-        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: \"Contact me\"\r\nlayout: page\r\npath: \"/contact\"\r\n---\r\n\r\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\r\n\r\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\r\n\r\n## Header Level 2\r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\r\n\r\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\r\n+ Aliquam tincidunt mauris eu risus.\r\n+ Vestibulum auctor dapibus neque.\r\n\r\n### Header Level 3\r\n\r\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\r\n\r\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\r\n\r\n#### Header Level 4\r\n\r\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
-        "type": "MarkdownRemark",
-        "contentDigest": "a2c4aa7c200d4a2b8de8c1f0aa4f06fe",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Contact me",
-        "layout": "page",
-        "path": "/contact",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\r\n\r\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\r\n\r\n## Header Level 2\r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\r\n\r\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\r\n+ Aliquam tincidunt mauris eu risus.\r\n+ Vestibulum auctor dapibus neque.\r\n\r\n### Header Level 3\r\n\r\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\r\n\r\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\r\n\r\n#### Header Level 4\r\n\r\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md",
-      "fields": {
-        "slug": "/contact"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/pages/2015-05-01---contact/1.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg",
-      "relativePath": "pages/2015-05-01---contact/1.jpg",
-      "extension": "jpg",
-      "size": 738279,
-      "prettySize": "738 kB",
-      "modifiedTime": "2018-07-04T16:19:40.773Z",
-      "accessTime": "2018-07-04T16:22:03.094Z",
-      "changeTime": "2018-07-04T16:19:40.773Z",
-      "birthTime": "2018-07-04T16:19:40.773Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
-      "base": "1.jpg",
-      "ext": ".jpg",
-      "name": "1",
-      "relativeDirectory": "pages/2015-05-01---contact",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602523277,
-      "blocks": 1448,
-      "atimeMs": 1530721323093.5625,
-      "mtimeMs": 1530721180772.9363,
-      "ctimeMs": 1530721180772.9363,
-      "birthtimeMs": 1530721180772.6267,
-      "atime": "2018-07-04T16:22:03.094Z",
-      "mtime": "2018-07-04T16:19:40.773Z",
-      "ctime": "2018-07-04T16:19:40.773Z",
-      "birthtime": "2018-07-04T16:19:40.773Z",
-      "fields": {
-        "slug": "/contact/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"src/pages/pages/2015-05-01---about/1.jpg\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg",
-      "relativePath": "pages/2015-05-01---about/1.jpg",
-      "extension": "jpg",
-      "size": 2880631,
-      "prettySize": "2.88 MB",
-      "modifiedTime": "2018-07-04T16:19:40.765Z",
-      "accessTime": "2018-07-04T16:22:03.094Z",
-      "changeTime": "2018-07-04T16:19:40.765Z",
-      "birthTime": "2018-07-04T16:19:40.764Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about",
-      "base": "1.jpg",
-      "ext": ".jpg",
-      "name": "1",
-      "relativeDirectory": "pages/2015-05-01---about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602523274,
-      "blocks": 5632,
-      "atimeMs": 1530721323093.5273,
-      "mtimeMs": 1530721180765.2363,
-      "ctimeMs": 1530721180765.2363,
-      "birthtimeMs": 1530721180764.2485,
-      "atime": "2018-07-04T16:22:03.094Z",
-      "mtime": "2018-07-04T16:19:40.765Z",
-      "ctime": "2018-07-04T16:19:40.765Z",
-      "birthtime": "2018-07-04T16:19:40.764Z",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/.DS_Store absPath of file": {
@@ -2738,7 +2749,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-07-05T17:15:05.078Z",
-      "accessTime": "2018-07-05T17:07:04.779Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
       "changeTime": "2018-07-05T17:15:05.078Z",
       "birthTime": "2018-07-05T14:06:22.736Z",
       "root": "/",
@@ -2756,323 +2767,16 @@
       "blksize": 4194304,
       "ino": 8602716783,
       "blocks": 16,
-      "atimeMs": 1530810424779.2715,
+      "atimeMs": 1530811245992.031,
       "mtimeMs": 1530810905077.9846,
       "ctimeMs": 1530810905077.9846,
       "birthtimeMs": 1530799582735.6008,
-      "atime": "2018-07-05T17:07:04.779Z",
+      "atime": "2018-07-05T17:20:45.992Z",
       "mtime": "2018-07-05T17:15:05.078Z",
       "ctime": "2018-07-05T17:15:05.078Z",
       "birthtime": "2018-07-05T14:06:22.736Z",
       "fields": {
         "slug": "/undefined/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: \"About me\"\r\nlayout: page\r\npath: \"/about\"\r\n---\r\n\r\n*서울시 흑석동에 자주 출몰하는 컴퓨터공학과 학생이다.\r\n\r\n프로그래밍, 스타트업, 음악에 관심이 많다.*\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "7fe836651f7ef96516c284b432bf1c09",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About me",
-        "layout": "page",
-        "path": "/about",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\n*서울시 흑석동에 자주 출몰하는 컴퓨터공학과 학생이다.\r\n\r\n프로그래밍, 스타트업, 음악에 관심이 많다.*\r\n",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md",
-      "fields": {
-        "slug": "/about"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8ae088b6cfe9bff364f70e48e59bf4a2",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2018-07-04---start-blog\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog",
-      "relativePath": "articles/2018-07-04---start-blog",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-07-04T17:34:16.543Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
-      "changeTime": "2018-07-05T17:01:30.049Z",
-      "birthTime": "2018-07-04T17:25:12.898Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2018-07-04---start-blog",
-      "ext": "",
-      "name": "2018-07-04---start-blog",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602685626,
-      "blocks": 0,
-      "atimeMs": 1530810992547.8076,
-      "mtimeMs": 1530725656542.5493,
-      "ctimeMs": 1530810090049.0598,
-      "birthtimeMs": 1530725112897.7983,
-      "atime": "2018-07-05T17:16:32.548Z",
-      "mtime": "2018-07-04T17:34:16.543Z",
-      "ctime": "2018-07-05T17:01:30.049Z",
-      "birthtime": "2018-07-04T17:25:12.898Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기 absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기 absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e22207d2de01e582fb87839a82a86171",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기",
-      "relativePath": "articles/2018-07-05---Fragment 에서 Toast 사용하기",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-07-05T15:19:19.498Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
-      "changeTime": "2018-07-05T17:01:20.680Z",
-      "birthTime": "2018-07-05T13:01:19.083Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2018-07-05---Fragment 에서 Toast 사용하기",
-      "ext": "",
-      "name": "2018-07-05---Fragment 에서 Toast 사용하기",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602712378,
-      "blocks": 0,
-      "atimeMs": 1530810992547.8276,
-      "mtimeMs": 1530803959497.7078,
-      "ctimeMs": 1530810080680.4187,
-      "birthtimeMs": 1530795679083.1526,
-      "atime": "2018-07-05T17:16:32.548Z",
-      "mtime": "2018-07-05T15:19:19.498Z",
-      "ctime": "2018-07-05T17:01:20.680Z",
-      "birthtime": "2018-07-05T13:01:19.083Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러 absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러 absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "80bab2efc3ea3527226389bb86f8de89",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2018-07-06---마크다운에러\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
-      "relativePath": "articles/2018-07-06---마크다운에러",
-      "extension": "",
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-07-05T17:15:14.666Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
-      "changeTime": "2018-07-05T17:15:14.666Z",
-      "birthTime": "2018-07-05T15:19:22.228Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2018-07-06---마크다운에러",
-      "ext": "",
-      "name": "2018-07-06---마크다운에러",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 7,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602722390,
-      "blocks": 0,
-      "atimeMs": 1530810992547.8599,
-      "mtimeMs": 1530810914665.6672,
-      "ctimeMs": 1530810914665.6672,
-      "birthtimeMs": 1530803962228.1912,
-      "atime": "2018-07-05T17:16:32.548Z",
-      "mtime": "2018-07-05T17:15:14.666Z",
-      "ctime": "2018-07-05T17:15:14.666Z",
-      "birthtime": "2018-07-05T15:19:22.228Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기 absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기 absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "84bdf6e99e0c05c602efbf33eb0e4436",
-        "type": "Directory",
-        "description": "Directory \"src/pages/articles/2018-07-06---현재날짜 구하기\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기",
-      "relativePath": "articles/2018-07-06---현재날짜 구하기",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-07-05T17:08:28.153Z",
-      "accessTime": "2018-07-05T17:16:32.548Z",
-      "changeTime": "2018-07-05T17:08:28.153Z",
-      "birthTime": "2018-07-05T17:00:20.857Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
-      "base": "2018-07-06---현재날짜 구하기",
-      "ext": "",
-      "name": "2018-07-06---현재날짜 구하기",
-      "relativeDirectory": "articles",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602724720,
-      "blocks": 0,
-      "atimeMs": 1530810992547.8464,
-      "mtimeMs": 1530810508152.6145,
-      "ctimeMs": 1530810508152.6145,
-      "birthtimeMs": 1530810020857.0894,
-      "atime": "2018-07-05T17:16:32.548Z",
-      "mtime": "2018-07-05T17:08:28.153Z",
-      "ctime": "2018-07-05T17:08:28.153Z",
-      "birthtime": "2018-07-05T17:00:20.857Z"
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "23beb5f37416421d7220422fc2cdfee0",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "description": "File \"src/pages/.DS_Store\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/.DS_Store",
-      "relativePath": ".DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-07-05T17:13:22.230Z",
-      "accessTime": "2018-07-05T17:13:22.228Z",
-      "changeTime": "2018-07-05T17:13:22.230Z",
-      "birthTime": "2018-07-05T17:13:22.228Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602725476,
-      "blocks": 16,
-      "atimeMs": 1530810802228.388,
-      "mtimeMs": 1530810802230.1267,
-      "ctimeMs": 1530810802230.1267,
-      "birthtimeMs": 1530810802228.388,
-      "atime": "2018-07-05T17:13:22.228Z",
-      "mtime": "2018-07-05T17:13:22.230Z",
-      "ctime": "2018-07-05T17:13:22.230Z",
-      "birthtime": "2018-07-05T17:13:22.228Z",
-      "fields": {
-        "slug": "/undefined/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cf9823add0a7687d5e90a3a09aef6924",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-07-06---현재날짜 구하기/index.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md",
-      "relativePath": "articles/2018-07-06---현재날짜 구하기/index.md",
-      "extension": "md",
-      "size": 1054,
-      "prettySize": "1.05 kB",
-      "modifiedTime": "2018-07-05T17:11:20.949Z",
-      "accessTime": "2018-07-05T17:11:41.920Z",
-      "changeTime": "2018-07-05T17:11:20.949Z",
-      "birthTime": "2018-07-05T17:00:20.857Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "articles/2018-07-06---현재날짜 구하기",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602724721,
-      "blocks": 8,
-      "atimeMs": 1530810701920.2292,
-      "mtimeMs": 1530810680948.7778,
-      "ctimeMs": 1530810680948.7778,
-      "birthtimeMs": 1530810020857.3987,
-      "atime": "2018-07-05T17:11:41.920Z",
-      "mtime": "2018-07-05T17:11:20.949Z",
-      "ctime": "2018-07-05T17:11:20.949Z",
-      "birthtime": "2018-07-05T17:00:20.857Z",
-      "fields": {
-        "slug": "/현재날짜 구하기/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog/index.md absPath of file": {
@@ -3098,7 +2802,7 @@
       "size": 632,
       "prettySize": "632 B",
       "modifiedTime": "2018-07-05T17:01:45.420Z",
-      "accessTime": "2018-07-05T17:02:10.386Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
       "changeTime": "2018-07-05T17:01:45.420Z",
       "birthTime": "2018-07-04T17:25:12.922Z",
       "root": "/",
@@ -3116,11 +2820,11 @@
       "blksize": 4194304,
       "ino": 8602685628,
       "blocks": 8,
-      "atimeMs": 1530810130385.778,
+      "atimeMs": 1530811245992.1074,
       "mtimeMs": 1530810105419.7634,
       "ctimeMs": 1530810105419.7634,
       "birthtimeMs": 1530725112922.0098,
-      "atime": "2018-07-05T17:02:10.386Z",
+      "atime": "2018-07-05T17:20:45.992Z",
       "mtime": "2018-07-05T17:01:45.420Z",
       "ctime": "2018-07-05T17:01:45.420Z",
       "birthtime": "2018-07-04T17:25:12.922Z",
@@ -3151,7 +2855,7 @@
       "size": 3631,
       "prettySize": "3.63 kB",
       "modifiedTime": "2018-07-05T16:59:31.870Z",
-      "accessTime": "2018-07-05T17:01:15.022Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
       "changeTime": "2018-07-05T16:59:31.870Z",
       "birthTime": "2018-07-05T13:01:19.089Z",
       "root": "/",
@@ -3169,16 +2873,120 @@
       "blksize": 4194304,
       "ino": 8602712379,
       "blocks": 8,
-      "atimeMs": 1530810075021.5706,
+      "atimeMs": 1530811245992.1423,
       "mtimeMs": 1530809971870.2441,
       "ctimeMs": 1530809971870.2441,
       "birthtimeMs": 1530795679088.725,
-      "atime": "2018-07-05T17:01:15.022Z",
+      "atime": "2018-07-05T17:20:45.992Z",
       "mtime": "2018-07-05T16:59:31.870Z",
       "ctime": "2018-07-05T16:59:31.870Z",
       "birthtime": "2018-07-05T13:01:19.089Z",
       "fields": {
         "slug": "/Fragment 에서 Toast 사용하기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "04e1101960d0daa9e626bc2620f226cd",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store",
+      "relativePath": "articles/2018-07-06---마크다운에러/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-05T17:15:15.964Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
+      "changeTime": "2018-07-05T17:15:15.964Z",
+      "birthTime": "2018-07-05T17:11:00.400Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "articles/2018-07-06---마크다운에러",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602725349,
+      "blocks": 16,
+      "atimeMs": 1530811245992.1848,
+      "mtimeMs": 1530810915963.6177,
+      "ctimeMs": 1530810915963.6177,
+      "birthtimeMs": 1530810660400.0342,
+      "atime": "2018-07-05T17:20:45.992Z",
+      "mtime": "2018-07-05T17:15:15.964Z",
+      "ctime": "2018-07-05T17:15:15.964Z",
+      "birthtime": "2018-07-05T17:11:00.400Z",
+      "fields": {
+        "slug": "/마크다운에러/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cf9823add0a7687d5e90a3a09aef6924",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-06---현재날짜 구하기/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md",
+      "relativePath": "articles/2018-07-06---현재날짜 구하기/index.md",
+      "extension": "md",
+      "size": 1054,
+      "prettySize": "1.05 kB",
+      "modifiedTime": "2018-07-05T17:11:20.949Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
+      "changeTime": "2018-07-05T17:11:20.949Z",
+      "birthTime": "2018-07-05T17:00:20.857Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2018-07-06---현재날짜 구하기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602724721,
+      "blocks": 8,
+      "atimeMs": 1530811245992.2485,
+      "mtimeMs": 1530810680948.7778,
+      "ctimeMs": 1530810680948.7778,
+      "birthtimeMs": 1530810020857.3987,
+      "atime": "2018-07-05T17:20:45.992Z",
+      "mtime": "2018-07-05T17:11:20.949Z",
+      "ctime": "2018-07-05T17:11:20.949Z",
+      "birthtime": "2018-07-05T17:00:20.857Z",
+      "fields": {
+        "slug": "/현재날짜 구하기/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/index.md absPath of file": {
@@ -3204,7 +3012,7 @@
       "size": 1109,
       "prettySize": "1.11 kB",
       "modifiedTime": "2018-07-05T17:19:03.345Z",
-      "accessTime": "2018-07-05T17:19:03.345Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
       "changeTime": "2018-07-05T17:19:03.345Z",
       "birthTime": "2018-07-05T15:19:22.228Z",
       "root": "/",
@@ -3222,65 +3030,14 @@
       "blksize": 4194304,
       "ino": 8602722391,
       "blocks": 8,
-      "atimeMs": 1530811143344.5469,
+      "atimeMs": 1530811245992.1943,
       "mtimeMs": 1530811143344.7014,
       "ctimeMs": 1530811143344.7014,
       "birthtimeMs": 1530803962228.418,
-      "atime": "2018-07-05T17:19:03.345Z",
+      "atime": "2018-07-05T17:20:45.992Z",
       "mtime": "2018-07-05T17:19:03.345Z",
       "ctime": "2018-07-05T17:19:03.345Z",
       "birthtime": "2018-07-05T15:19:22.228Z",
-      "fields": {
-        "slug": "/마크다운에러/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "04e1101960d0daa9e626bc2620f226cd",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/.DS_Store\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/.DS_Store",
-      "relativePath": "articles/2018-07-06---마크다운에러/.DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-07-05T17:15:15.964Z",
-      "accessTime": "2018-07-05T17:11:00.400Z",
-      "changeTime": "2018-07-05T17:15:15.964Z",
-      "birthTime": "2018-07-05T17:11:00.400Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "articles/2018-07-06---마크다운에러",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602725349,
-      "blocks": 16,
-      "atimeMs": 1530810660400.0342,
-      "mtimeMs": 1530810915963.6177,
-      "ctimeMs": 1530810915963.6177,
-      "birthtimeMs": 1530810660400.0342,
-      "atime": "2018-07-05T17:11:00.400Z",
-      "mtime": "2018-07-05T17:15:15.964Z",
-      "ctime": "2018-07-05T17:15:15.964Z",
-      "birthtime": "2018-07-05T17:11:00.400Z",
       "fields": {
         "slug": "/마크다운에러/"
       }
@@ -3308,7 +3065,7 @@
       "size": 16302,
       "prettySize": "16.3 kB",
       "modifiedTime": "2018-07-05T17:15:04.996Z",
-      "accessTime": "2018-07-05T17:15:39.571Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
       "changeTime": "2018-07-05T17:15:14.666Z",
       "birthTime": "2018-07-05T17:15:04.994Z",
       "root": "/",
@@ -3326,67 +3083,14 @@
       "blksize": 4194304,
       "ino": 8602725534,
       "blocks": 32,
-      "atimeMs": 1530810939571.3286,
+      "atimeMs": 1530811245992.1987,
       "mtimeMs": 1530810904996.2444,
       "ctimeMs": 1530810914665.6665,
       "birthtimeMs": 1530810904993.9536,
-      "atime": "2018-07-05T17:15:39.571Z",
+      "atime": "2018-07-05T17:20:45.992Z",
       "mtime": "2018-07-05T17:15:04.996Z",
       "ctime": "2018-07-05T17:15:14.666Z",
       "birthtime": "2018-07-05T17:15:04.994Z",
-      "fields": {
-        "slug": "/마크다운에러/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "71e0950ce6fc3790c499c6ad155ed729",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/image.png\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png",
-      "relativePath": "articles/2018-07-06---마크다운에러/image.png",
-      "extension": "png",
-      "size": 98085,
-      "prettySize": "98.1 kB",
-      "modifiedTime": "2018-07-05T17:10:55.424Z",
-      "accessTime": "2018-07-05T17:13:06.462Z",
-      "changeTime": "2018-07-05T17:11:04.494Z",
-      "birthTime": "2018-07-05T17:10:55.414Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
-      "base": "image.png",
-      "ext": ".png",
-      "name": "image",
-      "relativeDirectory": "articles/2018-07-06---마크다운에러",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602725333,
-      "blocks": 192,
-      "atimeMs": 1530810786461.7146,
-      "mtimeMs": 1530810655423.6824,
-      "ctimeMs": 1530810664494.1897,
-      "birthtimeMs": 1530810655413.837,
-      "atime": "2018-07-05T17:13:06.462Z",
-      "mtime": "2018-07-05T17:10:55.424Z",
-      "ctime": "2018-07-05T17:11:04.494Z",
-      "birthtime": "2018-07-05T17:10:55.414Z",
       "fields": {
         "slug": "/마크다운에러/"
       }
@@ -3401,58 +3105,31 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp",
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file",
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
       "internal": {
-        "contentDigest": "71e0950ce6fc3790c499c6ad155ed729",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: \"[안드로이드] 현재 날짜, 시간 구하기\"\r\ndate: \"2018-07-06T01:52:32.169Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/android/post-2\"\r\ncategory: \"Android\"\r\ntags:\r\n  - \"Android\"\r\n  - \"SimpleDateFormat\"\r\n  - \"안드로이드\"\r\ndescription: \"SimpleDateFormat 이용\"\r\n---\r\n\r\n현재 시간을 필요로 하는 경우가 있다.  \r\n안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)\r\n\r\n1. 현재 시간을 가져온다.\r\n  ```Java\r\n  long now = System.currentMills();\r\n  ```\r\n2. Date형식으로 고친다.\r\n  ```Java\r\n  Date mDate = new Date(now);\r\n  ```\r\n\r\n3. 날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.\r\n  ```Java\r\n  SimpleDateFormat simpleDate = new SimpleDateFormat(\"yyyy-MM-dd hh:mm:ss\");\r\n  String getTime = simpleDate.format(mDate);\r\n  ```\r\n\r\n위와 같이 작성할 경우, getTime 변수에 **2018-07-06 01:42:00** 이런식으로 날짜를 가져올 수 있다.\r\n\r\nMM-dd 만 작성할 경우 \"07-06\" 이런식으로 Customize 할 수 있다.\r\n",
+        "content": "---\r\ntitle: \"Contact me\"\r\nlayout: page\r\npath: \"/contact\"\r\n---\r\n\r\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\r\n\r\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\r\n\r\n## Header Level 2\r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\r\n\r\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\r\n+ Aliquam tincidunt mauris eu risus.\r\n+ Vestibulum auctor dapibus neque.\r\n\r\n### Header Level 3\r\n\r\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\r\n\r\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\r\n\r\n#### Header Level 4\r\n\r\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
         "type": "MarkdownRemark",
-        "contentDigest": "af886c61cfa41fd6ca277e13b8334ced",
+        "contentDigest": "a2c4aa7c200d4a2b8de8c1f0aa4f06fe",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
-          "slug": "default-site-plugin",
-          "tagSlugs": "default-site-plugin",
-          "categorySlug": "default-site-plugin"
+          "slug": "default-site-plugin"
         }
       },
       "frontmatter": {
-        "title": "[안드로이드] 현재 날짜, 시간 구하기",
-        "date": "2018-07-06T01:52:32.169Z",
-        "layout": "post",
-        "draft": false,
-        "path": "/posts/android/post-2",
-        "category": "Android",
-        "tags": [
-          "Android",
-          "SimpleDateFormat",
-          "안드로이드"
-        ],
-        "description": "SimpleDateFormat 이용",
-        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
-        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file"
+        "title": "Contact me",
+        "layout": "page",
+        "path": "/contact",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\r\n현재 시간을 필요로 하는 경우가 있다.  \r\n안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)\r\n\r\n1. 현재 시간을 가져온다.\r\n  ```Java\r\n  long now = System.currentMills();\r\n  ```\r\n2. Date형식으로 고친다.\r\n  ```Java\r\n  Date mDate = new Date(now);\r\n  ```\r\n\r\n3. 날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.\r\n  ```Java\r\n  SimpleDateFormat simpleDate = new SimpleDateFormat(\"yyyy-MM-dd hh:mm:ss\");\r\n  String getTime = simpleDate.format(mDate);\r\n  ```\r\n\r\n위와 같이 작성할 경우, getTime 변수에 **2018-07-06 01:42:00** 이런식으로 날짜를 가져올 수 있다.\r\n\r\nMM-dd 만 작성할 경우 \"07-06\" 이런식으로 Customize 할 수 있다.\r\n",
-      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md",
+      "rawMarkdownBody": "\r\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\r\n\r\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\r\n\r\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)\r\n\r\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\r\n\r\n## Header Level 2\r\n\r\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\r\n\r\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\r\n+ Aliquam tincidunt mauris eu risus.\r\n+ Vestibulum auctor dapibus neque.\r\n\r\n### Header Level 3\r\n\r\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\r\n\r\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\r\n\r\n#### Header Level 4\r\n\r\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. ",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md",
       "fields": {
-        "slug": "/posts/android/post-2",
-        "tagSlugs": [
-          "/tags/android/",
-          "/tags/simple-date-format/",
-          "/tags/안드로이드/"
-        ],
-        "categorySlug": "/categories/android/"
+        "slug": "/contact"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog/index.md absPath of file >>> MarkdownRemark": {
@@ -3541,563 +3218,48 @@
         "categorySlug": "/categories/android/"
       }
     },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file",
-      "children": [
-        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
       "internal": {
-        "contentDigest": "a0f062bc5ba7bc84e23bc226f9991a2e",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/error.png\"",
-        "owner": "gatsby-source-filesystem",
+        "content": "---\r\ntitle: \"[안드로이드] 현재 날짜, 시간 구하기\"\r\ndate: \"2018-07-06T01:52:32.169Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/android/post-2\"\r\ncategory: \"Android\"\r\ntags:\r\n  - \"Android\"\r\n  - \"SimpleDateFormat\"\r\n  - \"안드로이드\"\r\ndescription: \"SimpleDateFormat 이용\"\r\n---\r\n\r\n현재 시간을 필요로 하는 경우가 있다.  \r\n안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)\r\n\r\n1. 현재 시간을 가져온다.\r\n  ```Java\r\n  long now = System.currentMills();\r\n  ```\r\n2. Date형식으로 고친다.\r\n  ```Java\r\n  Date mDate = new Date(now);\r\n  ```\r\n\r\n3. 날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.\r\n  ```Java\r\n  SimpleDateFormat simpleDate = new SimpleDateFormat(\"yyyy-MM-dd hh:mm:ss\");\r\n  String getTime = simpleDate.format(mDate);\r\n  ```\r\n\r\n위와 같이 작성할 경우, getTime 변수에 **2018-07-06 01:42:00** 이런식으로 날짜를 가져올 수 있다.\r\n\r\nMM-dd 만 작성할 경우 \"07-06\" 이런식으로 Customize 할 수 있다.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "af886c61cfa41fd6ca277e13b8334ced",
+        "owner": "gatsby-transformer-remark",
         "fieldOwners": {
-          "slug": "default-site-plugin"
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
         }
       },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png",
-      "relativePath": "articles/2018-07-06---마크다운에러/error.png",
-      "extension": "png",
-      "size": 1184571,
-      "prettySize": "1.18 MB",
-      "modifiedTime": "2018-07-05T17:12:59.448Z",
-      "accessTime": "2018-07-05T17:14:00.876Z",
-      "changeTime": "2018-07-05T17:14:00.613Z",
-      "birthTime": "2018-07-05T17:12:59.386Z",
-      "root": "/",
-      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
-      "base": "error.png",
-      "ext": ".png",
-      "name": "error",
-      "relativeDirectory": "articles/2018-07-06---마크다운에러",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602725433,
-      "blocks": 2320,
-      "atimeMs": 1530810840876.1863,
-      "mtimeMs": 1530810779447.6465,
-      "ctimeMs": 1530810840613.4978,
-      "birthtimeMs": 1530810779386.134,
-      "atime": "2018-07-05T17:14:00.876Z",
-      "mtime": "2018-07-05T17:12:59.448Z",
-      "ctime": "2018-07-05T17:14:00.613Z",
-      "birthtime": "2018-07-05T17:12:59.386Z",
+      "frontmatter": {
+        "title": "[안드로이드] 현재 날짜, 시간 구하기",
+        "date": "2018-07-06T01:52:32.169Z",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/android/post-2",
+        "category": "Android",
+        "tags": [
+          "Android",
+          "SimpleDateFormat",
+          "안드로이드"
+        ],
+        "description": "SimpleDateFormat 이용",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n현재 시간을 필요로 하는 경우가 있다.  \r\n안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)\r\n\r\n1. 현재 시간을 가져온다.\r\n  ```Java\r\n  long now = System.currentMills();\r\n  ```\r\n2. Date형식으로 고친다.\r\n  ```Java\r\n  Date mDate = new Date(now);\r\n  ```\r\n\r\n3. 날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.\r\n  ```Java\r\n  SimpleDateFormat simpleDate = new SimpleDateFormat(\"yyyy-MM-dd hh:mm:ss\");\r\n  String getTime = simpleDate.format(mDate);\r\n  ```\r\n\r\n위와 같이 작성할 경우, getTime 변수에 **2018-07-06 01:42:00** 이런식으로 날짜를 가져올 수 있다.\r\n\r\nMM-dd 만 작성할 경우 \"07-06\" 이런식으로 Customize 할 수 있다.\r\n",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md",
       "fields": {
-        "slug": "/마크다운에러/"
-      }
-    },
-    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp": {
-      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file",
-      "internal": {
-        "contentDigest": "a0f062bc5ba7bc84e23bc226f9991a2e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /contact": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/contact"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /contact",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "461b89cdcd87b9a4f40ba9df7f6d42e8",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/about"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /about",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b372de86b5d2f5fdd02b447d35aff8b4",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-2": {
-      "layout": "index",
-      "jsonName": "posts-android-post-2.json",
-      "internalComponentName": "ComponentPostsAndroidPost2",
-      "path": "/posts/android/post-2",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-2"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-2",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7028688686b5bc92152c3201494e417d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/android/": {
-      "layout": "index",
-      "jsonName": "tags-android.json",
-      "internalComponentName": "ComponentTagsAndroid",
-      "path": "/tags/android/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Android"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/android/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "32f23152eff25f0b4ec0b758f3cfb989",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/simple-date-format/": {
-      "layout": "index",
-      "jsonName": "tags-simple-date-format.json",
-      "internalComponentName": "ComponentTagsSimpleDateFormat",
-      "path": "/tags/simple-date-format/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "SimpleDateFormat"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/simple-date-format/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2f725615f2754842aced5f1512f03db8",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/안드로이드/": {
-      "layout": "index",
-      "jsonName": "tags-안드로이드.json",
-      "internalComponentName": "ComponentTags안드로이드",
-      "path": "/tags/안드로이드/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "안드로이드"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/안드로이드/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "074d0dd25659289cbfb4a676dc83684d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/android/": {
-      "layout": "index",
-      "jsonName": "categories-android.json",
-      "internalComponentName": "ComponentCategoriesAndroid",
-      "path": "/categories/android/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Android"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/android/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dffa55a5d2477eabccb0f82e156139b8",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/start-blog/": {
-      "layout": "index",
-      "jsonName": "posts-start-blog.json",
-      "internalComponentName": "ComponentPostsStartBlog",
-      "path": "/posts/start-blog/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/start-blog/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/start-blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74a91ccbb0d1d4472b7c37bc0809a144",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/이것저것/": {
-      "layout": "index",
-      "jsonName": "tags-이것저것.json",
-      "internalComponentName": "ComponentTags이것저것",
-      "path": "/tags/이것저것/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "이것저것"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/이것저것/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c2299113863751d020230ba581666cb9",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/이것저것/": {
-      "layout": "index",
-      "jsonName": "categories-이것저것.json",
-      "internalComponentName": "ComponentCategories이것저것",
-      "path": "/categories/이것저것/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "이것저것"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/이것저것/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "385fe5ab747bfaaf12652bd0477e7293",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-1": {
-      "layout": "index",
-      "jsonName": "posts-android-post-1.json",
-      "internalComponentName": "ComponentPostsAndroidPost1",
-      "path": "/posts/android/post-1",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-1"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-1",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6538b20ac1da832a838a4e016a40e3dd",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/fragment/": {
-      "layout": "index",
-      "jsonName": "tags-fragment.json",
-      "internalComponentName": "ComponentTagsFragment",
-      "path": "/tags/fragment/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Fragment"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/fragment/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0d1c9d985641d01393267c51f53a5f72",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/context/": {
-      "layout": "index",
-      "jsonName": "tags-context.json",
-      "internalComponentName": "ComponentTagsContext",
-      "path": "/tags/context/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Context"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/context/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4b3d9f26fb91bc932051a4870998072f",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/markdown/post-1": {
-      "layout": "index",
-      "jsonName": "posts-markdown-post-1.json",
-      "internalComponentName": "ComponentPostsMarkdownPost1",
-      "path": "/posts/markdown/post-1",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/markdown/post-1"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/markdown/post-1",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "400e1d1747acb9e4f934cff5bd98812b",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/markdown/": {
-      "layout": "index",
-      "jsonName": "tags-markdown.json",
-      "internalComponentName": "ComponentTagsMarkdown",
-      "path": "/tags/markdown/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Markdown"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/markdown/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7df8b21e9f80601b1641c749bb1a881d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/error/": {
-      "layout": "index",
-      "jsonName": "tags-error.json",
-      "internalComponentName": "ComponentTagsError",
-      "path": "/tags/error/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Error"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/error/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "17a8633329cbf86b85c421a4bb14a8be",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/markdown/": {
-      "layout": "index",
-      "jsonName": "categories-markdown.json",
-      "internalComponentName": "ComponentCategoriesMarkdown",
-      "path": "/categories/markdown/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Markdown"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/markdown/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f0a526597369347bf69b1953b89fcc1b",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9cc09d690d576c1f3cd0b29545dcfc35",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/": {
-      "layout": "index",
-      "jsonName": "categories.json",
-      "internalComponentName": "ComponentCategories",
-      "path": "/categories/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
-      "componentChunkName": "component---src-pages-categories-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
-      "id": "SitePage /categories/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "af0654c7a1f44d3ab91e914fa78c240d",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e114befc85679e76c9cb86340b31ae9c",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/": {
-      "layout": "index",
-      "jsonName": "tags.json",
-      "internalComponentName": "ComponentTags",
-      "path": "/tags/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
-      "componentChunkName": "component---src-pages-tags-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
-      "id": "SitePage /tags/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "65a0b50550e95d2686176fc77f59e96e",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "67a46cb93b2814f58f7a6ac2786a5ad4",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
+        "slug": "/posts/android/post-2",
+        "tagSlugs": [
+          "/tags/android/",
+          "/tags/simple-date-format/",
+          "/tags/안드로이드/"
+        ],
+        "categorySlug": "/categories/android/"
       }
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/index.md absPath of file >>> MarkdownRemark": {
@@ -4141,149 +3303,1356 @@
         ],
         "categorySlug": "/categories/markdown/"
       }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/photo.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg",
+      "relativePath": "photo.jpg",
+      "extension": "jpg",
+      "size": 116343,
+      "prettySize": "116 kB",
+      "modifiedTime": "2018-07-03T13:10:32.441Z",
+      "accessTime": "2018-07-05T17:20:53.794Z",
+      "changeTime": "2018-07-04T17:33:42.885Z",
+      "birthTime": "2018-07-03T13:10:32.441Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
+      "base": "photo.jpg",
+      "ext": ".jpg",
+      "name": "photo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602686346,
+      "blocks": 232,
+      "atimeMs": 1530811253794.338,
+      "mtimeMs": 1530623432440.7651,
+      "ctimeMs": 1530725622885.2373,
+      "birthtimeMs": 1530623432440.643,
+      "atime": "2018-07-05T17:20:53.794Z",
+      "mtime": "2018-07-03T13:10:32.441Z",
+      "ctime": "2018-07-04T17:33:42.885Z",
+      "birthtime": "2018-07-03T13:10:32.441Z",
+      "fields": {
+        "slug": "/undefined/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "71e0950ce6fc3790c499c6ad155ed729",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/image.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png",
+      "relativePath": "articles/2018-07-06---마크다운에러/image.png",
+      "extension": "png",
+      "size": 98085,
+      "prettySize": "98.1 kB",
+      "modifiedTime": "2018-07-05T17:10:55.424Z",
+      "accessTime": "2018-07-05T17:19:16.802Z",
+      "changeTime": "2018-07-05T17:11:04.494Z",
+      "birthTime": "2018-07-05T17:10:55.414Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
+      "base": "image.png",
+      "ext": ".png",
+      "name": "image",
+      "relativeDirectory": "articles/2018-07-06---마크다운에러",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602725333,
+      "blocks": 192,
+      "atimeMs": 1530811156801.7407,
+      "mtimeMs": 1530810655423.6824,
+      "ctimeMs": 1530810664494.1897,
+      "birthtimeMs": 1530810655413.837,
+      "atime": "2018-07-05T17:19:16.802Z",
+      "mtime": "2018-07-05T17:10:55.424Z",
+      "ctime": "2018-07-05T17:11:04.494Z",
+      "birthtime": "2018-07-05T17:10:55.414Z",
+      "fields": {
+        "slug": "/마크다운에러/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/photo.jpg absPath of file",
+      "internal": {
+        "contentDigest": "467c5fa4b6c531bc3bf0845ef53039f2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/image.png absPath of file",
+      "internal": {
+        "contentDigest": "71e0950ce6fc3790c499c6ad155ed729",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---about/1.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg",
+      "relativePath": "pages/2015-05-01---about/1.jpg",
+      "extension": "jpg",
+      "size": 2880631,
+      "prettySize": "2.88 MB",
+      "modifiedTime": "2018-07-04T16:19:40.765Z",
+      "accessTime": "2018-07-05T18:50:00.082Z",
+      "changeTime": "2018-07-04T16:19:40.765Z",
+      "birthTime": "2018-07-04T16:19:40.764Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "pages/2015-05-01---about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602523274,
+      "blocks": 5632,
+      "atimeMs": 1530816600081.804,
+      "mtimeMs": 1530721180765.2363,
+      "ctimeMs": 1530721180765.2363,
+      "birthtimeMs": 1530721180764.2485,
+      "atime": "2018-07-05T18:50:00.082Z",
+      "mtime": "2018-07-04T16:19:40.765Z",
+      "ctime": "2018-07-04T16:19:40.765Z",
+      "birthtime": "2018-07-04T16:19:40.764Z",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "60fea4c6e45ceda49cc13c40965ddef4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/pages/2015-05-01---contact/1.jpg\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg",
+      "relativePath": "pages/2015-05-01---contact/1.jpg",
+      "extension": "jpg",
+      "size": 738279,
+      "prettySize": "738 kB",
+      "modifiedTime": "2018-07-04T16:19:40.773Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
+      "changeTime": "2018-07-04T16:19:40.773Z",
+      "birthTime": "2018-07-04T16:19:40.773Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact",
+      "base": "1.jpg",
+      "ext": ".jpg",
+      "name": "1",
+      "relativeDirectory": "pages/2015-05-01---contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602523277,
+      "blocks": 1448,
+      "atimeMs": 1530811245992.363,
+      "mtimeMs": 1530721180772.9363,
+      "ctimeMs": 1530721180772.9363,
+      "birthtimeMs": 1530721180772.6267,
+      "atime": "2018-07-05T17:20:45.992Z",
+      "mtime": "2018-07-04T16:19:40.773Z",
+      "ctime": "2018-07-04T16:19:40.773Z",
+      "birthtime": "2018-07-04T16:19:40.773Z",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "35ada4f3162edeb1db749f62065a99da",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a0f062bc5ba7bc84e23bc226f9991a2e",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-06---마크다운에러/error.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png",
+      "relativePath": "articles/2018-07-06---마크다운에러/error.png",
+      "extension": "png",
+      "size": 1184571,
+      "prettySize": "1.18 MB",
+      "modifiedTime": "2018-07-05T17:12:59.448Z",
+      "accessTime": "2018-07-05T17:20:45.992Z",
+      "changeTime": "2018-07-05T17:14:00.613Z",
+      "birthTime": "2018-07-05T17:12:59.386Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러",
+      "base": "error.png",
+      "ext": ".png",
+      "name": "error",
+      "relativeDirectory": "articles/2018-07-06---마크다운에러",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602725433,
+      "blocks": 2320,
+      "atimeMs": 1530811245992.1897,
+      "mtimeMs": 1530810779447.6465,
+      "ctimeMs": 1530810840613.4978,
+      "birthtimeMs": 1530810779386.134,
+      "atime": "2018-07-05T17:20:45.992Z",
+      "mtime": "2018-07-05T17:12:59.448Z",
+      "ctime": "2018-07-05T17:14:00.613Z",
+      "birthtime": "2018-07-05T17:12:59.386Z",
+      "fields": {
+        "slug": "/마크다운에러/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/error.png absPath of file",
+      "internal": {
+        "contentDigest": "a0f062bc5ba7bc84e23bc226f9991a2e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"About me\"\r\nlayout: page\r\npath: \"/about\"\r\n---\r\n\r\n####서울시 흑석동에 자주 출몰하는 컴퓨터공학과 학생이다.\r\n####컴퓨터비전 머신러닝, 웹, 앱프로그래밍, 스타트업, Apple 제품, 음악에 관심이 많다.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "075111fc56e144c55e5d4d1059ec6dbb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About me",
+        "layout": "page",
+        "path": "/about",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n####서울시 흑석동에 자주 출몰하는 컴퓨터공학과 학생이다.\r\n####컴퓨터비전 머신러닝, 웹, 앱프로그래밍, 스타트업, Apple 제품, 음악에 관심이 많다.\r\n",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md",
+      "fields": {
+        "slug": "/about"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기 absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "649712888da1dfe14262d3123804db3d",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-07---EditText 밑줄 없애기\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-07-07T20:07:53.656Z",
+      "accessTime": "2018-07-07T20:10:20.089Z",
+      "changeTime": "2018-07-07T20:07:53.656Z",
+      "birthTime": "2018-07-07T20:02:36.726Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-07---EditText 밑줄 없애기",
+      "ext": "",
+      "name": "2018-07-07---EditText 밑줄 없애기",
+      "relativeDirectory": "articles",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782054,
+      "blocks": 0,
+      "atimeMs": 1530994220089.2104,
+      "mtimeMs": 1530994073656.0627,
+      "ctimeMs": 1530994073656.0627,
+      "birthtimeMs": 1530993756726.2744,
+      "atime": "2018-07-07T20:10:20.089Z",
+      "mtime": "2018-07-07T20:07:53.656Z",
+      "ctime": "2018-07-07T20:07:53.656Z",
+      "birthtime": "2018-07-07T20:02:36.726Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "521ac15b9b5e8f62663c9f4db7ae6f11",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기/index.md",
+      "extension": "md",
+      "size": 469,
+      "prettySize": "469 B",
+      "modifiedTime": "2018-07-07T20:11:39.416Z",
+      "accessTime": "2018-07-07T20:11:39.416Z",
+      "changeTime": "2018-07-07T20:11:39.416Z",
+      "birthTime": "2018-07-07T20:02:36.727Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2018-07-07---EditText 밑줄 없애기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782055,
+      "blocks": 8,
+      "atimeMs": 1530994299416.194,
+      "mtimeMs": 1530994299416.3967,
+      "ctimeMs": 1530994299416.3967,
+      "birthtimeMs": 1530993756726.7192,
+      "atime": "2018-07-07T20:11:39.416Z",
+      "mtime": "2018-07-07T20:11:39.416Z",
+      "ctime": "2018-07-07T20:11:39.416Z",
+      "birthtime": "2018-07-07T20:02:36.727Z",
+      "fields": {
+        "slug": "/EditText 밑줄 없애기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "36c4a802489f9d2447b7203771332eff",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png",
+      "extension": "png",
+      "size": 7624,
+      "prettySize": "7.62 kB",
+      "modifiedTime": "2018-07-07T20:05:25.087Z",
+      "accessTime": "2018-07-07T20:07:54.746Z",
+      "changeTime": "2018-07-07T20:07:53.643Z",
+      "birthTime": "2018-07-07T20:05:25.085Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "base": "screenshot1.png",
+      "ext": ".png",
+      "name": "screenshot1",
+      "relativeDirectory": "articles/2018-07-07---EditText 밑줄 없애기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782155,
+      "blocks": 16,
+      "atimeMs": 1530994074746.159,
+      "mtimeMs": 1530993925087.1443,
+      "ctimeMs": 1530994073642.5232,
+      "birthtimeMs": 1530993925084.6543,
+      "atime": "2018-07-07T20:07:54.746Z",
+      "mtime": "2018-07-07T20:05:25.087Z",
+      "ctime": "2018-07-07T20:07:53.643Z",
+      "birthtime": "2018-07-07T20:05:25.085Z",
+      "fields": {
+        "slug": "/EditText 밑줄 없애기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e667727cfc9ba800f3d8763d6e53b96f",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png",
+      "extension": "png",
+      "size": 7352,
+      "prettySize": "7.35 kB",
+      "modifiedTime": "2018-07-07T20:05:59.088Z",
+      "accessTime": "2018-07-07T20:07:54.746Z",
+      "changeTime": "2018-07-07T20:07:53.653Z",
+      "birthTime": "2018-07-07T20:05:59.086Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "base": "screenshot2.png",
+      "ext": ".png",
+      "name": "screenshot2",
+      "relativeDirectory": "articles/2018-07-07---EditText 밑줄 없애기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782179,
+      "blocks": 16,
+      "atimeMs": 1530994074745.7139,
+      "mtimeMs": 1530993959087.9211,
+      "ctimeMs": 1530994073653.3025,
+      "birthtimeMs": 1530993959085.7468,
+      "atime": "2018-07-07T20:07:54.746Z",
+      "mtime": "2018-07-07T20:05:59.088Z",
+      "ctime": "2018-07-07T20:07:53.653Z",
+      "birthtime": "2018-07-07T20:05:59.086Z",
+      "fields": {
+        "slug": "/EditText 밑줄 없애기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot1.png absPath of file",
+      "internal": {
+        "contentDigest": "36c4a802489f9d2447b7203771332eff",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/screenshot2.png absPath of file",
+      "internal": {
+        "contentDigest": "e667727cfc9ba800f3d8763d6e53b96f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4c8e51f7d5aaf1db3a756b1a02639784",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기/code1.png",
+      "extension": "png",
+      "size": 91914,
+      "prettySize": "91.9 kB",
+      "modifiedTime": "2018-07-07T20:05:17.268Z",
+      "accessTime": "2018-07-07T20:09:37.038Z",
+      "changeTime": "2018-07-07T20:07:53.647Z",
+      "birthTime": "2018-07-07T20:05:17.261Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "base": "code1.png",
+      "ext": ".png",
+      "name": "code1",
+      "relativeDirectory": "articles/2018-07-07---EditText 밑줄 없애기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782145,
+      "blocks": 184,
+      "atimeMs": 1530994177037.8667,
+      "mtimeMs": 1530993917268.4097,
+      "ctimeMs": 1530994073646.7595,
+      "birthtimeMs": 1530993917261.208,
+      "atime": "2018-07-07T20:09:37.038Z",
+      "mtime": "2018-07-07T20:05:17.268Z",
+      "ctime": "2018-07-07T20:07:53.647Z",
+      "birthtime": "2018-07-07T20:05:17.261Z",
+      "fields": {
+        "slug": "/EditText 밑줄 없애기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "667b1e6f6a858426ee26b60d521a8c3c",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png",
+      "relativePath": "articles/2018-07-07---EditText 밑줄 없애기/code2.png",
+      "extension": "png",
+      "size": 100733,
+      "prettySize": "101 kB",
+      "modifiedTime": "2018-07-07T20:05:51.527Z",
+      "accessTime": "2018-07-07T20:07:54.661Z",
+      "changeTime": "2018-07-07T20:07:53.656Z",
+      "birthTime": "2018-07-07T20:05:51.518Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기",
+      "base": "code2.png",
+      "ext": ".png",
+      "name": "code2",
+      "relativeDirectory": "articles/2018-07-07---EditText 밑줄 없애기",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602782170,
+      "blocks": 200,
+      "atimeMs": 1530994074660.6213,
+      "mtimeMs": 1530993951526.542,
+      "ctimeMs": 1530994073656.0627,
+      "birthtimeMs": 1530993951518.4407,
+      "atime": "2018-07-07T20:07:54.661Z",
+      "mtime": "2018-07-07T20:05:51.527Z",
+      "ctime": "2018-07-07T20:07:53.656Z",
+      "birthtime": "2018-07-07T20:05:51.518Z",
+      "fields": {
+        "slug": "/EditText 밑줄 없애기/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code1.png absPath of file",
+      "internal": {
+        "contentDigest": "4c8e51f7d5aaf1db3a756b1a02639784",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/code2.png absPath of file",
+      "internal": {
+        "contentDigest": "667b1e6f6a858426ee26b60d521a8c3c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/contact"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d8e61868e6592387cb6d572295055a11",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/start-blog/": {
+      "layout": "index",
+      "jsonName": "posts-start-blog.json",
+      "internalComponentName": "ComponentPostsStartBlog",
+      "path": "/posts/start-blog/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/start-blog/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/start-blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "125959bde9769af8387ebe1eb723dacb",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/이것저것/": {
+      "layout": "index",
+      "jsonName": "tags-이것저것.json",
+      "internalComponentName": "ComponentTags이것저것",
+      "path": "/tags/이것저것/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "이것저것"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/이것저것/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4959a23b7d5f36bb8415fa1aab4cfac6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/이것저것/": {
+      "layout": "index",
+      "jsonName": "categories-이것저것.json",
+      "internalComponentName": "ComponentCategories이것저것",
+      "path": "/categories/이것저것/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "이것저것"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/이것저것/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c24cc886c3ea208f99a50aca8c29f156",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-1": {
+      "layout": "index",
+      "jsonName": "posts-android-post-1.json",
+      "internalComponentName": "ComponentPostsAndroidPost1",
+      "path": "/posts/android/post-1",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-1"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7abb3cebcd2b6b1c7b8a71efad1c679e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/android/": {
+      "layout": "index",
+      "jsonName": "tags-android.json",
+      "internalComponentName": "ComponentTagsAndroid",
+      "path": "/tags/android/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Android"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/android/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2309e11e3f230de468b955cd9d703a09",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fragment/": {
+      "layout": "index",
+      "jsonName": "tags-fragment.json",
+      "internalComponentName": "ComponentTagsFragment",
+      "path": "/tags/fragment/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Fragment"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/fragment/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c0855fcd97291dbbdefdfb30eaf05f69",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/context/": {
+      "layout": "index",
+      "jsonName": "tags-context.json",
+      "internalComponentName": "ComponentTagsContext",
+      "path": "/tags/context/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Context"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/context/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a3d3cf13310801b0960f22925ff32289",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/안드로이드/": {
+      "layout": "index",
+      "jsonName": "tags-안드로이드.json",
+      "internalComponentName": "ComponentTags안드로이드",
+      "path": "/tags/안드로이드/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "안드로이드"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/안드로이드/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da5667396a4eafa48ce1a9c2328248f2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/android/": {
+      "layout": "index",
+      "jsonName": "categories-android.json",
+      "internalComponentName": "ComponentCategoriesAndroid",
+      "path": "/categories/android/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Android"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/android/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "347a35f0b697c4e9d032fc2e8d87e4e0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-2": {
+      "layout": "index",
+      "jsonName": "posts-android-post-2.json",
+      "internalComponentName": "ComponentPostsAndroidPost2",
+      "path": "/posts/android/post-2",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-2"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0304cd678786a074f76f471472cfd822",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/simple-date-format/": {
+      "layout": "index",
+      "jsonName": "tags-simple-date-format.json",
+      "internalComponentName": "ComponentTagsSimpleDateFormat",
+      "path": "/tags/simple-date-format/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "SimpleDateFormat"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/simple-date-format/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fed41b1c205ab52859ba6d77d779367d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/markdown/post-1": {
+      "layout": "index",
+      "jsonName": "posts-markdown-post-1.json",
+      "internalComponentName": "ComponentPostsMarkdownPost1",
+      "path": "/posts/markdown/post-1",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/markdown/post-1"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/markdown/post-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6eb7ef0cd2847631064850512423814a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/markdown/": {
+      "layout": "index",
+      "jsonName": "tags-markdown.json",
+      "internalComponentName": "ComponentTagsMarkdown",
+      "path": "/tags/markdown/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Markdown"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/markdown/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1c890c68865476f0f9a9ad1962bae974",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/error/": {
+      "layout": "index",
+      "jsonName": "tags-error.json",
+      "internalComponentName": "ComponentTagsError",
+      "path": "/tags/error/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Error"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/error/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e2bf7084f839c88e80d2175a7febf27b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/markdown/": {
+      "layout": "index",
+      "jsonName": "categories-markdown.json",
+      "internalComponentName": "ComponentCategoriesMarkdown",
+      "path": "/categories/markdown/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Markdown"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/markdown/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "53bea80232261a81bd9cb08c369c2612",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/about"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f265987f4df32d37e4c74bb3f2b99f6a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-3": {
+      "layout": "index",
+      "jsonName": "posts-android-post-3.json",
+      "internalComponentName": "ComponentPostsAndroidPost3",
+      "path": "/posts/android/post-3",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-3"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-3",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5553d78c05581428072bdf51f5726c54",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/edit-text/": {
+      "layout": "index",
+      "jsonName": "tags-edit-text.json",
+      "internalComponentName": "ComponentTagsEditText",
+      "path": "/tags/edit-text/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "EditText"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/edit-text/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a0a230f01883179ad60d58d15758ed0d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "be99526b8b4a69ac59a98ae8f7ce0911",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/": {
+      "layout": "index",
+      "jsonName": "categories.json",
+      "internalComponentName": "ComponentCategories",
+      "path": "/categories/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
+      "componentChunkName": "component---src-pages-categories-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
+      "id": "SitePage /categories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5b3435a39b5598795cf1a5a32b0989ad",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "993e41b9b023f94a1e1039e4af1d7796",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
+      "componentChunkName": "component---src-pages-tags-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e1764f3d2501ec2d7f63bdcc4cb78556",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9fb093825c65bce65b762eedde5dc14e",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"[안드로이드] EditText 밑줄 없애기\"\r\ndate: \"2018-07-07T11:49:32.169Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/android/post-3\"\r\ncategory: \"Android\"\r\ntags:\r\n  - \"Android\"\r\n  - \"EditText\"\r\n  - \"안드로이드\"\r\ndescription: \"EditText 밑줄 없애는 방법\"\r\n---\r\n\r\n```xml\r\nandroid:background=\"@null\"\r\n```\r\n\r\n![YAMLException](./code1.png)\r\n![YAMLException](./screenshot1.png)\r\n![YAMLException](./code2.png)\r\n![YAMLException](./screenshot2.png)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "809a2b7aad7f00cc3ad68bbd1f32175c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "[안드로이드] EditText 밑줄 없애기",
+        "date": "2018-07-07T11:49:32.169Z",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/android/post-3",
+        "category": "Android",
+        "tags": [
+          "Android",
+          "EditText",
+          "안드로이드"
+        ],
+        "description": "EditText 밑줄 없애는 방법",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n```xml\r\nandroid:background=\"@null\"\r\n```\r\n\r\n![YAMLException](./code1.png)\r\n![YAMLException](./screenshot1.png)\r\n![YAMLException](./code2.png)\r\n![YAMLException](./screenshot2.png)\r\n",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md",
+      "fields": {
+        "slug": "/posts/android/post-3",
+        "tagSlugs": [
+          "/tags/android/",
+          "/tags/edit-text/",
+          "/tags/안드로이드/"
+        ],
+        "categorySlug": "/categories/android/"
+      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "0c7c0b49a2cac962084d8e246076e219"
+    "PLUGINS_HASH": "d2a372317529e720f51e071d69a09a07"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/tags/typefaces/",
-        "/posts/the-origins-of-social-stationery-lettering",
-        "/tags/lettering/",
-        "/tags/history/",
-        "/categories/design-culture/",
-        "/posts/a-brief-history-of-typography/",
-        "/tags/linotype/",
-        "/tags/monotype/",
-        "/tags/history-of-typography/",
-        "/tags/helvetica/",
-        "/categories/design-inspiration/",
-        "/posts/the-birth-of-movable-type/",
-        "/tags/open-source/",
-        "/tags/gatsby/",
-        "/tags/typography/",
-        "/categories/typography/",
+        "/posts/start-blog/",
+        "/contact",
+        "/about",
+        "/tags/이것저것/",
+        "/categories/이것저것/",
         "/posts/android/post-1",
         "/tags/android/",
         "/tags/fragment/",
+        "/tags/context/",
+        "/tags/안드로이드/",
         "/categories/android/",
-        "/posts/humane-typography-in-the-digital-age/",
-        "/tags/design/",
-        "/tags/web-development/",
-        "/posts/start_blog/",
-        "/tags/이것저것/",
-        "/categories/이것저것/",
-        "/tags/etc/",
-        "/tags/react/",
-        "/categories/etc/",
-        "/about",
-        "/contact",
-        "/posts/perfecting-the-art-of-perfection/",
-        "/tags/handwriting/",
-        "/tags/learning-to-write/",
+        "/posts/android/post-2",
+        "/tags/simple-date-format/",
+        "/posts/markdown/post-1",
+        "/tags/markdown/",
+        "/tags/error/",
+        "/categories/markdown/",
         "/404/",
         "/categories/",
         "/",
         "/tags/",
         "/404.html",
-        "/posts/start-blog/",
-        "/tags/simple-date-format/",
-        "/posts/android/post-2",
-        "/tags/안드로이드/",
-        "/tags/context/",
-        "/tags/markdown/",
-        "/posts/markdown/post-1",
-        "/tags/error/",
-        "/categories/markdown/"
+        "/tags/edit-text/",
+        "/posts/android/post-3"
       ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-12---The-Origins-of-Social-Stationery-Lettering/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/the-origins-of-social-stationery-lettering"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-02-02---A-Brief-History-of-Typography/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/a-brief-history-of-typography/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-18-08---The-Birth-of-Movable-Type/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/the-birth-of-movable-type/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-05-07---Fragment 에서 Toast 사용하기/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/android/post-1"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2017-19-08---Humane-Typography-in-the-Digital-Age/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/humane-typography-in-the-digital-age/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-04-07---블로그 시작/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/start_blog/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
-        "/about"
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/start-blog/"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---contact/index.md absPath of file >>> MarkdownRemark": [
         "/contact"
       ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2016-01-09---Perfecting-the-Art-of-Perfection/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/perfecting-the-art-of-perfection/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-05-07---블로그 시작합니다/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/start-blog/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-05-06---start-blog/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/start-blog/"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-05-08---현재 날짜 구하기/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/android/post-2"
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages/2015-05-01---about/index.md absPath of file >>> MarkdownRemark": [
+        "/about"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기/index.md absPath of file >>> MarkdownRemark": [
         "/posts/android/post-1"
-      ],
-      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog/index.md absPath of file >>> MarkdownRemark": [
-        "/posts/start-blog/"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark": [
         "/posts/android/post-2"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---마크다운에러/index.md absPath of file >>> MarkdownRemark": [
         "/posts/markdown/post-1"
+      ],
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-07---EditText 밑줄 없애기/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/android/post-3"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        "/tags/typefaces/",
-        "/tags/lettering/",
-        "/tags/history/",
-        "/categories/design-culture/",
-        "/tags/linotype/",
-        "/tags/monotype/",
-        "/tags/history-of-typography/",
-        "/tags/helvetica/",
-        "/categories/design-inspiration/",
-        "/tags/open-source/",
-        "/tags/gatsby/",
-        "/tags/typography/",
-        "/categories/typography/",
-        "/tags/android/",
-        "/tags/fragment/",
-        "/categories/android/",
-        "/tags/design/",
-        "/tags/web-development/",
         "/tags/이것저것/",
         "/categories/이것저것/",
-        "/tags/etc/",
-        "/tags/react/",
-        "/categories/etc/",
-        "/tags/handwriting/",
-        "/tags/learning-to-write/",
+        "/tags/android/",
+        "/tags/fragment/",
+        "/tags/context/",
+        "/tags/안드로이드/",
+        "/categories/android/",
+        "/tags/simple-date-format/",
+        "/tags/markdown/",
+        "/tags/error/",
+        "/categories/markdown/",
         "/categories/",
         "/",
         "/tags/",
-        "/tags/simple-date-format/",
-        "/tags/안드로이드/",
-        "/tags/context/",
-        "/tags/markdown/",
-        "/tags/error/",
-        "/categories/markdown/"
+        "/tags/edit-text/"
       ],
       "SitePage": [
         "/dev-404-page/"
