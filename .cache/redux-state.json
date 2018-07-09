@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3aafff570bf8e71f4080bf4069fd4d7c",
+        "contentDigest": "e73fed6a6713bca77d83b81626fdcbe3",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1961,12 +1961,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-08T18:23:15.457Z",
+      "buildTime": "2018-07-09T14:03:23.316Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b8b7b4a7ef8a6d7b1878a378d02d6dab",
+        "contentDigest": "51cc10f3063abedaa200bb522ed24a04",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1976,7 +1976,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7ba2d309c6ad081fe828510a730d924f",
+        "contentDigest": "17f7d3ef89755937725f375740c6ccc1",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1988,7 +1988,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-07-05T17:13:22.228Z",
-      "accessTime": "2018-07-08T18:23:22.631Z",
+      "accessTime": "2018-07-09T14:03:30.743Z",
       "changeTime": "2018-07-05T17:13:22.228Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8602523249,
       "blocks": 0,
-      "atimeMs": 1531074202631.0315,
+      "atimeMs": 1531145010742.6353,
       "mtimeMs": 1530810802228.4053,
       "ctimeMs": 1530810802228.4053,
       "birthtimeMs": 1530721180666.7139,
-      "atime": "2018-07-08T18:23:22.631Z",
+      "atime": "2018-07-09T14:03:30.743Z",
       "mtime": "2018-07-05T17:13:22.228Z",
       "ctime": "2018-07-05T17:13:22.228Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3870f4b143853c70b01a8f0d87ed094b",
+        "contentDigest": "fdff17b1c3b6c965b933be8b671f231a",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -2032,7 +2032,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2018-07-08T18:20:27.711Z",
-      "accessTime": "2018-07-08T18:23:22.633Z",
+      "accessTime": "2018-07-09T14:03:30.747Z",
       "changeTime": "2018-07-08T18:20:27.711Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
@@ -2050,11 +2050,11 @@
       "blksize": 4194304,
       "ino": 8602523251,
       "blocks": 0,
-      "atimeMs": 1531074202633.392,
+      "atimeMs": 1531145010747.2903,
       "mtimeMs": 1531074027711.4048,
       "ctimeMs": 1531074027711.4048,
       "birthtimeMs": 1530721180667.212,
-      "atime": "2018-07-08T18:23:22.633Z",
+      "atime": "2018-07-09T14:03:30.747Z",
       "mtime": "2018-07-08T18:20:27.711Z",
       "ctime": "2018-07-08T18:20:27.711Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
@@ -2064,7 +2064,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3a31ee48a6ddfccefdf3f6097e75a8ee",
+        "contentDigest": "50e9df55324161933caf305d2b7dab97",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2076,7 +2076,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-08T18:23:22.633Z",
+      "accessTime": "2018-07-09T14:03:30.747Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.740Z",
       "root": "/",
@@ -2094,11 +2094,11 @@
       "blksize": 4194304,
       "ino": 8602523272,
       "blocks": 0,
-      "atimeMs": 1531074202633.3655,
+      "atimeMs": 1531145010747.3174,
       "mtimeMs": 1530721180766.6982,
       "ctimeMs": 1530721180766.6982,
       "birthtimeMs": 1530721180740.4966,
-      "atime": "2018-07-08T18:23:22.633Z",
+      "atime": "2018-07-09T14:03:30.747Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.740Z"
@@ -2108,7 +2108,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4571750ab15f3d746cb1944bcf6e53fd",
+        "contentDigest": "b7be5e01501c6c30f3a04576105ce860",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2120,7 +2120,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.741Z",
       "root": "/",
@@ -2138,11 +2138,11 @@
       "blksize": 4194304,
       "ino": 8602523273,
       "blocks": 0,
-      "atimeMs": 1531074202635.7043,
+      "atimeMs": 1531145010753.9192,
       "mtimeMs": 1530721180766.5012,
       "ctimeMs": 1530721180766.5012,
       "birthtimeMs": 1530721180740.5815,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.741Z"
@@ -2152,7 +2152,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e9393cd86f73973b997eba0892784730",
+        "contentDigest": "c34b2fb0c3afbc3312faed4d80d0cc2d",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
         "owner": "gatsby-source-filesystem"
@@ -2164,7 +2164,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.773Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-04T16:19:40.773Z",
       "birthTime": "2018-07-04T16:19:40.767Z",
       "root": "/",
@@ -2182,11 +2182,11 @@
       "blksize": 4194304,
       "ino": 8602523276,
       "blocks": 0,
-      "atimeMs": 1531074202635.7407,
+      "atimeMs": 1531145010753.938,
       "mtimeMs": 1530721180773.4004,
       "ctimeMs": 1530721180773.4004,
       "birthtimeMs": 1530721180766.6912,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-04T16:19:40.773Z",
       "ctime": "2018-07-04T16:19:40.773Z",
       "birthtime": "2018-07-04T16:19:40.767Z"
@@ -2196,7 +2196,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4e9a90d01352a33ad14243bf43576fdb",
+        "contentDigest": "b814bc51ad666e82773ba8dbef5a3d81",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-04---start-blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2208,7 +2208,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-04T17:34:16.543Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-05T17:01:30.049Z",
       "birthTime": "2018-07-04T17:25:12.898Z",
       "root": "/",
@@ -2226,11 +2226,11 @@
       "blksize": 4194304,
       "ino": 8602685626,
       "blocks": 0,
-      "atimeMs": 1531074202635.7537,
+      "atimeMs": 1531145010753.649,
       "mtimeMs": 1530725656542.5493,
       "ctimeMs": 1530810090049.0598,
       "birthtimeMs": 1530725112897.7983,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-04T17:34:16.543Z",
       "ctime": "2018-07-05T17:01:30.049Z",
       "birthtime": "2018-07-04T17:25:12.898Z"
@@ -2240,7 +2240,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7ba08960939d8a532571647de909c7b6",
+        "contentDigest": "744f549f878b7223cd8c6138bd647607",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기\"",
         "owner": "gatsby-source-filesystem"
@@ -2252,7 +2252,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-05T15:19:19.498Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-05T17:01:20.680Z",
       "birthTime": "2018-07-05T13:01:19.083Z",
       "root": "/",
@@ -2270,11 +2270,11 @@
       "blksize": 4194304,
       "ino": 8602712378,
       "blocks": 0,
-      "atimeMs": 1531074202635.7722,
+      "atimeMs": 1531145010753.714,
       "mtimeMs": 1530803959497.7078,
       "ctimeMs": 1530810080680.4187,
       "birthtimeMs": 1530795679083.1526,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-05T15:19:19.498Z",
       "ctime": "2018-07-05T17:01:20.680Z",
       "birthtime": "2018-07-05T13:01:19.083Z"
@@ -2284,7 +2284,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "24f97bf8f1113a17bdc319af1c2ffd05",
+        "contentDigest": "590051eb5d5156f9b822a6aaba16ad59",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-06---마크다운에러\"",
         "owner": "gatsby-source-filesystem"
@@ -2296,7 +2296,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-07-05T17:15:14.666Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-05T17:15:14.666Z",
       "birthTime": "2018-07-05T15:19:22.228Z",
       "root": "/",
@@ -2314,11 +2314,11 @@
       "blksize": 4194304,
       "ino": 8602722390,
       "blocks": 0,
-      "atimeMs": 1531074202635.7903,
+      "atimeMs": 1531145010753.7776,
       "mtimeMs": 1530810914665.6672,
       "ctimeMs": 1530810914665.6672,
       "birthtimeMs": 1530803962228.1912,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-05T17:15:14.666Z",
       "ctime": "2018-07-05T17:15:14.666Z",
       "birthtime": "2018-07-05T15:19:22.228Z"
@@ -2328,7 +2328,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "04a3334df8e6034ae2a1507cb5b300f7",
+        "contentDigest": "dc416418ee6051a3d739e2d6120695b0",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-07---EditText 밑줄 없애기\"",
         "owner": "gatsby-source-filesystem"
@@ -2340,7 +2340,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-07-08T18:18:39.041Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-08T18:18:39.041Z",
       "birthTime": "2018-07-07T20:02:36.726Z",
       "root": "/",
@@ -2358,11 +2358,11 @@
       "blksize": 4194304,
       "ino": 8602782054,
       "blocks": 0,
-      "atimeMs": 1531074202635.804,
+      "atimeMs": 1531145010753.8435,
       "mtimeMs": 1531073919041.3955,
       "ctimeMs": 1531073919041.3955,
       "birthtimeMs": 1530993756726.2744,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-08T18:18:39.041Z",
       "ctime": "2018-07-08T18:18:39.041Z",
       "birthtime": "2018-07-07T20:02:36.726Z"
@@ -2372,7 +2372,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e90f8dee775338a54298501235823655",
+        "contentDigest": "88377ef9b36208d05e0d00bbea25bf14",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-06---현재날짜 구하기\"",
         "owner": "gatsby-source-filesystem"
@@ -2384,7 +2384,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-05T17:08:28.153Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
       "changeTime": "2018-07-05T17:08:28.153Z",
       "birthTime": "2018-07-05T17:00:20.857Z",
       "root": "/",
@@ -2402,11 +2402,11 @@
       "blksize": 4194304,
       "ino": 8602724720,
       "blocks": 0,
-      "atimeMs": 1531074202635.8882,
+      "atimeMs": 1531145010753.8245,
       "mtimeMs": 1530810508152.6145,
       "ctimeMs": 1530810508152.6145,
       "birthtimeMs": 1530810020857.0894,
-      "atime": "2018-07-08T18:23:22.636Z",
+      "atime": "2018-07-09T14:03:30.754Z",
       "mtime": "2018-07-05T17:08:28.153Z",
       "ctime": "2018-07-05T17:08:28.153Z",
       "birthtime": "2018-07-05T17:00:20.857Z"
@@ -2416,7 +2416,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5ce7e371299a767db11282dd0bef0b68",
+        "contentDigest": "72b32257c37b72b86282e64dcc1974dc",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리\"",
         "owner": "gatsby-source-filesystem"
@@ -2427,9 +2427,9 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2018-07-08T18:22:37.604Z",
-      "accessTime": "2018-07-08T18:23:22.636Z",
-      "changeTime": "2018-07-08T18:22:37.604Z",
+      "modifiedTime": "2018-07-09T10:23:11.061Z",
+      "accessTime": "2018-07-09T14:03:30.754Z",
+      "changeTime": "2018-07-09T10:23:11.061Z",
       "birthTime": "2018-07-08T18:18:41.283Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
@@ -2446,13 +2446,13 @@
       "blksize": 4194304,
       "ino": 8602921477,
       "blocks": 0,
-      "atimeMs": 1531074202635.8643,
-      "mtimeMs": 1531074157604.4932,
-      "ctimeMs": 1531074157604.4932,
+      "atimeMs": 1531145010753.8848,
+      "mtimeMs": 1531131791061.0469,
+      "ctimeMs": 1531131791061.0469,
       "birthtimeMs": 1531073921283.2305,
-      "atime": "2018-07-08T18:23:22.636Z",
-      "mtime": "2018-07-08T18:22:37.604Z",
-      "ctime": "2018-07-08T18:22:37.604Z",
+      "atime": "2018-07-09T14:03:30.754Z",
+      "mtime": "2018-07-09T10:23:11.061Z",
+      "ctime": "2018-07-09T10:23:11.061Z",
       "birthtime": "2018-07-08T18:18:41.283Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx absPath of file": {
@@ -4136,663 +4136,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /about": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/about"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /about",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b1ab7c0abf4fb9621d9dda59f6ddbc7d",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "componentChunkName": "component---src-templates-page-template-jsx",
-      "context": {
-        "slug": "/contact"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
-      "id": "SitePage /contact",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e28a9513643e76f245e5f024cd205087",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/start-blog/": {
-      "layout": "index",
-      "jsonName": "posts-start-blog.json",
-      "internalComponentName": "ComponentPostsStartBlog",
-      "path": "/posts/start-blog/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/start-blog/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/start-blog/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "16544aa85cf2992d5d42da8e6c7936bc",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/이것저것/": {
-      "layout": "index",
-      "jsonName": "tags-이것저것.json",
-      "internalComponentName": "ComponentTags이것저것",
-      "path": "/tags/이것저것/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "이것저것"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/이것저것/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "78015f520bbe2adb9a5adfeea68c92ef",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/이것저것/": {
-      "layout": "index",
-      "jsonName": "categories-이것저것.json",
-      "internalComponentName": "ComponentCategories이것저것",
-      "path": "/categories/이것저것/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "이것저것"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/이것저것/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9b6b9be9e83f4ae2add8593432c48a3e",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-1": {
-      "layout": "index",
-      "jsonName": "posts-android-post-1.json",
-      "internalComponentName": "ComponentPostsAndroidPost1",
-      "path": "/posts/android/post-1",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-1"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-1",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4e14f8aee954c7dfc5971b8bb341d116",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/android/": {
-      "layout": "index",
-      "jsonName": "tags-android.json",
-      "internalComponentName": "ComponentTagsAndroid",
-      "path": "/tags/android/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Android"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/android/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5e6477bc179eaadb226bd4fad5b57991",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/fragment/": {
-      "layout": "index",
-      "jsonName": "tags-fragment.json",
-      "internalComponentName": "ComponentTagsFragment",
-      "path": "/tags/fragment/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Fragment"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/fragment/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "41a4ee4c1263ed3597b1d00129ec7fc4",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/context/": {
-      "layout": "index",
-      "jsonName": "tags-context.json",
-      "internalComponentName": "ComponentTagsContext",
-      "path": "/tags/context/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Context"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/context/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "decac9d0258a0a99ad8e97d041b76390",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/안드로이드/": {
-      "layout": "index",
-      "jsonName": "tags-안드로이드.json",
-      "internalComponentName": "ComponentTags안드로이드",
-      "path": "/tags/안드로이드/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "안드로이드"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/안드로이드/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "015e501da1919c18d9257f66c137519a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/android/": {
-      "layout": "index",
-      "jsonName": "categories-android.json",
-      "internalComponentName": "ComponentCategoriesAndroid",
-      "path": "/categories/android/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Android"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/android/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ba42698ea0471dba05380cc5e4430ed8",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/markdown/post-1": {
-      "layout": "index",
-      "jsonName": "posts-markdown-post-1.json",
-      "internalComponentName": "ComponentPostsMarkdownPost1",
-      "path": "/posts/markdown/post-1",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/markdown/post-1"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/markdown/post-1",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2427e14b9652f85ceb1f60ab8f902cb7",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/markdown/": {
-      "layout": "index",
-      "jsonName": "tags-markdown.json",
-      "internalComponentName": "ComponentTagsMarkdown",
-      "path": "/tags/markdown/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Markdown"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/markdown/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "92305b069aa58591e0000c8c828a0979",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/error/": {
-      "layout": "index",
-      "jsonName": "tags-error.json",
-      "internalComponentName": "ComponentTagsError",
-      "path": "/tags/error/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Error"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/error/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ea3567ba1c7e2c75c5936ea6d394ed76",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/markdown/": {
-      "layout": "index",
-      "jsonName": "categories-markdown.json",
-      "internalComponentName": "ComponentCategoriesMarkdown",
-      "path": "/categories/markdown/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "componentChunkName": "component---src-templates-category-template-jsx",
-      "context": {
-        "category": "Markdown"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
-      "id": "SitePage /categories/markdown/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8d04edb947125c8b8da1f4ac04dc21bf",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-3": {
-      "layout": "index",
-      "jsonName": "posts-android-post-3.json",
-      "internalComponentName": "ComponentPostsAndroidPost3",
-      "path": "/posts/android/post-3",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-3"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-3",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9d81ee4a4a68209a6e594b7ac24996c6",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/edit-text/": {
-      "layout": "index",
-      "jsonName": "tags-edit-text.json",
-      "internalComponentName": "ComponentTagsEditText",
-      "path": "/tags/edit-text/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "EditText"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/edit-text/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1bbb66f2761f5d267f8b66e06aa6cb96",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-4": {
-      "layout": "index",
-      "jsonName": "posts-android-post-4.json",
-      "internalComponentName": "ComponentPostsAndroidPost4",
-      "path": "/posts/android/post-4",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-4"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-4",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dc85ca901aaed88a2dd9fc480a34e081",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/scroll-view/": {
-      "layout": "index",
-      "jsonName": "tags-scroll-view.json",
-      "internalComponentName": "ComponentTagsScrollView",
-      "path": "/tags/scroll-view/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "ScrollView"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/scroll-view/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "396839d5595d398954cfe5b94de8cd7c",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/responsive/": {
-      "layout": "index",
-      "jsonName": "tags-responsive.json",
-      "internalComponentName": "ComponentTagsResponsive",
-      "path": "/tags/responsive/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Responsive"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/responsive/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ef07e7d38ae0dd23f54469374dc1984a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/library/": {
-      "layout": "index",
-      "jsonName": "tags-library.json",
-      "internalComponentName": "ComponentTagsLibrary",
-      "path": "/tags/library/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Library"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/library/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d71558b5d012f51027ae6d007bac0e74",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/design/": {
-      "layout": "index",
-      "jsonName": "tags-design.json",
-      "internalComponentName": "ComponentTagsDesign",
-      "path": "/tags/design/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "Design"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/design/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e6935a74f099fb30c88ef281ef6e76a3",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/android/post-2": {
-      "layout": "index",
-      "jsonName": "posts-android-post-2.json",
-      "internalComponentName": "ComponentPostsAndroidPost2",
-      "path": "/posts/android/post-2",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "componentChunkName": "component---src-templates-post-template-jsx",
-      "context": {
-        "slug": "/posts/android/post-2"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
-      "id": "SitePage /posts/android/post-2",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5852b692d41de4d5e1d0619fa9602755",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/simple-date-format/": {
-      "layout": "index",
-      "jsonName": "tags-simple-date-format.json",
-      "internalComponentName": "ComponentTagsSimpleDateFormat",
-      "path": "/tags/simple-date-format/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "componentChunkName": "component---src-templates-tag-template-jsx",
-      "context": {
-        "tag": "SimpleDateFormat"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
-      "id": "SitePage /tags/simple-date-format/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d0de7f55cf6357db60fc53782a8e7212",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3472ecf28c3912144cb11bbcc9a9de44",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories/": {
-      "layout": "index",
-      "jsonName": "categories.json",
-      "internalComponentName": "ComponentCategories",
-      "path": "/categories/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
-      "componentChunkName": "component---src-pages-categories-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
-      "id": "SitePage /categories/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2319531b1b1e7e9f04a11544ce3a734f",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ca84d3d3f8cd0e6dac4ea25ebba2fcf1",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/": {
-      "layout": "index",
-      "jsonName": "tags.json",
-      "internalComponentName": "ComponentTags",
-      "path": "/tags/",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
-      "componentChunkName": "component---src-pages-tags-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
-      "id": "SitePage /tags/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "68dd40ded72f3147c6827df997ce053c",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c8e72f94eca61f44b59406569dc4df09",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -4839,6 +4182,714 @@
           "/tags/design/"
         ],
         "categorySlug": "/categories/android/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/.DS_Store absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7efed803a3745b500a33dc18b8355d93",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리/.DS_Store",
+      "relativePath": "articles/2018-07-09---반응형 ScrollView 라이브러리/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-09T10:23:11.066Z",
+      "accessTime": "2018-07-09T10:23:11.061Z",
+      "changeTime": "2018-07-09T10:23:11.066Z",
+      "birthTime": "2018-07-09T10:23:11.061Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "articles/2018-07-09---반응형 ScrollView 라이브러리",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602940654,
+      "blocks": 16,
+      "atimeMs": 1531131791061.0137,
+      "mtimeMs": 1531131791066.3723,
+      "ctimeMs": 1531131791066.3723,
+      "birthtimeMs": 1531131791061.0137,
+      "atime": "2018-07-09T10:23:11.061Z",
+      "mtime": "2018-07-09T10:23:11.066Z",
+      "ctime": "2018-07-09T10:23:11.066Z",
+      "birthtime": "2018-07-09T10:23:11.061Z",
+      "fields": {
+        "slug": "/반응형 ScrollView 라이브러리/"
+      }
+    },
+    "SitePage /about": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/about"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /about",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "becc189e9e511a67555da2c42d9266ae",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "componentChunkName": "component---src-templates-page-template-jsx",
+      "context": {
+        "slug": "/contact"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/page-template.jsx",
+      "id": "SitePage /contact",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b2e7f0cc5e4bec786e2df638724610b9",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/start-blog/": {
+      "layout": "index",
+      "jsonName": "posts-start-blog.json",
+      "internalComponentName": "ComponentPostsStartBlog",
+      "path": "/posts/start-blog/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/start-blog/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/start-blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6328882d3d5ebdd5ee81d9f123f9a26b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/이것저것/": {
+      "layout": "index",
+      "jsonName": "tags-이것저것.json",
+      "internalComponentName": "ComponentTags이것저것",
+      "path": "/tags/이것저것/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "이것저것"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/이것저것/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec21bad7026090a46071fd03e1abfd31",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/이것저것/": {
+      "layout": "index",
+      "jsonName": "categories-이것저것.json",
+      "internalComponentName": "ComponentCategories이것저것",
+      "path": "/categories/이것저것/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "이것저것"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/이것저것/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "de1e620d0ca106a2495679e6381c5223",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-1": {
+      "layout": "index",
+      "jsonName": "posts-android-post-1.json",
+      "internalComponentName": "ComponentPostsAndroidPost1",
+      "path": "/posts/android/post-1",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-1"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e3ee24ecef866e3859be4feb4b50611",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/android/": {
+      "layout": "index",
+      "jsonName": "tags-android.json",
+      "internalComponentName": "ComponentTagsAndroid",
+      "path": "/tags/android/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Android"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/android/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "16cad2f7c3932007cd474d365bbba6c4",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/fragment/": {
+      "layout": "index",
+      "jsonName": "tags-fragment.json",
+      "internalComponentName": "ComponentTagsFragment",
+      "path": "/tags/fragment/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Fragment"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/fragment/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "88d7c33d2b698f2c8ccaacbe8f43256b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/context/": {
+      "layout": "index",
+      "jsonName": "tags-context.json",
+      "internalComponentName": "ComponentTagsContext",
+      "path": "/tags/context/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Context"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/context/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "043ce9ba28536a53ded6804877dd2f10",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/안드로이드/": {
+      "layout": "index",
+      "jsonName": "tags-안드로이드.json",
+      "internalComponentName": "ComponentTags안드로이드",
+      "path": "/tags/안드로이드/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "안드로이드"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/안드로이드/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ad640925d06f19e1f635fcaed85acb0c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/android/": {
+      "layout": "index",
+      "jsonName": "categories-android.json",
+      "internalComponentName": "ComponentCategoriesAndroid",
+      "path": "/categories/android/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Android"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/android/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e43e72f80ffebdce2dbb5af497023e70",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/markdown/post-1": {
+      "layout": "index",
+      "jsonName": "posts-markdown-post-1.json",
+      "internalComponentName": "ComponentPostsMarkdownPost1",
+      "path": "/posts/markdown/post-1",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/markdown/post-1"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/markdown/post-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c974b2b6f3a50c007dc339e7406d2f51",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/markdown/": {
+      "layout": "index",
+      "jsonName": "tags-markdown.json",
+      "internalComponentName": "ComponentTagsMarkdown",
+      "path": "/tags/markdown/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Markdown"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/markdown/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1a833d80b3260d9b4cc6115302e0e18b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/error/": {
+      "layout": "index",
+      "jsonName": "tags-error.json",
+      "internalComponentName": "ComponentTagsError",
+      "path": "/tags/error/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Error"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/error/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2e5ad0befd9e15869b8b5b5f09f9a97c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/markdown/": {
+      "layout": "index",
+      "jsonName": "categories-markdown.json",
+      "internalComponentName": "ComponentCategoriesMarkdown",
+      "path": "/categories/markdown/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "componentChunkName": "component---src-templates-category-template-jsx",
+      "context": {
+        "category": "Markdown"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/category-template.jsx",
+      "id": "SitePage /categories/markdown/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "45f08f4387863dd6e47453a943d9edb6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-3": {
+      "layout": "index",
+      "jsonName": "posts-android-post-3.json",
+      "internalComponentName": "ComponentPostsAndroidPost3",
+      "path": "/posts/android/post-3",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-3"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-3",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ddf2a37deed1a6aeb1f0e5a7e37e85bb",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/edit-text/": {
+      "layout": "index",
+      "jsonName": "tags-edit-text.json",
+      "internalComponentName": "ComponentTagsEditText",
+      "path": "/tags/edit-text/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "EditText"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/edit-text/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "96e49ee6050a1702d112d5abe6a65528",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-2": {
+      "layout": "index",
+      "jsonName": "posts-android-post-2.json",
+      "internalComponentName": "ComponentPostsAndroidPost2",
+      "path": "/posts/android/post-2",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-2"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7b221bad1d3c5f9e19d1fae53976c84a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/simple-date-format/": {
+      "layout": "index",
+      "jsonName": "tags-simple-date-format.json",
+      "internalComponentName": "ComponentTagsSimpleDateFormat",
+      "path": "/tags/simple-date-format/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "SimpleDateFormat"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/simple-date-format/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ab88c6d6d7df6971643d224923235890",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-4": {
+      "layout": "index",
+      "jsonName": "posts-android-post-4.json",
+      "internalComponentName": "ComponentPostsAndroidPost4",
+      "path": "/posts/android/post-4",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-4"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-4",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "44b13f75909b80a859d0a04387523a3c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/scroll-view/": {
+      "layout": "index",
+      "jsonName": "tags-scroll-view.json",
+      "internalComponentName": "ComponentTagsScrollView",
+      "path": "/tags/scroll-view/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "ScrollView"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/scroll-view/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3cfd934589bb1515468e31f3a1dcf211",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/responsive/": {
+      "layout": "index",
+      "jsonName": "tags-responsive.json",
+      "internalComponentName": "ComponentTagsResponsive",
+      "path": "/tags/responsive/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Responsive"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/responsive/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "80b8d8312b7029f1b9e677d03acd2ae8",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/library/": {
+      "layout": "index",
+      "jsonName": "tags-library.json",
+      "internalComponentName": "ComponentTagsLibrary",
+      "path": "/tags/library/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Library"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/library/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cb18d500ff0861fa0ce92e4a75b9487f",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/design/": {
+      "layout": "index",
+      "jsonName": "tags-design.json",
+      "internalComponentName": "ComponentTagsDesign",
+      "path": "/tags/design/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "Design"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/design/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0c9547e91c12d4d278176680500d931e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f19f1f9e8830e5c5003e0c155230cccc",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/": {
+      "layout": "index",
+      "jsonName": "categories.json",
+      "internalComponentName": "ComponentCategories",
+      "path": "/categories/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
+      "componentChunkName": "component---src-pages-categories-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/categories.jsx",
+      "id": "SitePage /categories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ee059aeda1302ed22f971f0d22018ec3",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c9cd33e21dcf897938ca9a462b4d9cba",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
+      "componentChunkName": "component---src-pages-tags-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/tags.jsx",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ea809f928be8f5feba5c99be6b0ee673",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "32ba526b928bd725fd38a4adff6c1eb7",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
       }
     }
   },

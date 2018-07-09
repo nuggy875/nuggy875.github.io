@@ -122,6 +122,20 @@
         "componentChunkName": "component---src-templates-post-template-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "posts-android-post-2.json",
+        "path": "/posts/android/post-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-simple-date-format.json",
+        "path": "/tags/simple-date-format/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "posts-android-post-4.json",
         "path": "/posts/android/post-4"
     },
@@ -152,20 +166,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-design.json",
         "path": "/tags/design/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "posts-android-post-2.json",
-        "path": "/posts/android/post-2"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-simple-date-format.json",
-        "path": "/tags/simple-date-format/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
