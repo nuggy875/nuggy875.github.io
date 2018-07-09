@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e73fed6a6713bca77d83b81626fdcbe3",
+        "contentDigest": "b8dea3f8aa713ab664c6913c2106cdde",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -1961,12 +1961,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-09T14:03:23.316Z",
+      "buildTime": "2018-07-09T21:32:24.236Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "51cc10f3063abedaa200bb522ed24a04",
+        "contentDigest": "c18ab1213e93ea96170ee7b18138dcc7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1976,7 +1976,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "17f7d3ef89755937725f375740c6ccc1",
+        "contentDigest": "88db6027a8ee7f4fd08f801f206ecb0a",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1988,7 +1988,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-07-05T17:13:22.228Z",
-      "accessTime": "2018-07-09T14:03:30.743Z",
+      "accessTime": "2018-07-09T21:32:29.509Z",
       "changeTime": "2018-07-05T17:13:22.228Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8602523249,
       "blocks": 0,
-      "atimeMs": 1531145010742.6353,
+      "atimeMs": 1531171949508.7393,
       "mtimeMs": 1530810802228.4053,
       "ctimeMs": 1530810802228.4053,
       "birthtimeMs": 1530721180666.7139,
-      "atime": "2018-07-09T14:03:30.743Z",
+      "atime": "2018-07-09T21:32:29.509Z",
       "mtime": "2018-07-05T17:13:22.228Z",
       "ctime": "2018-07-05T17:13:22.228Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fdff17b1c3b6c965b933be8b671f231a",
+        "contentDigest": "3260c3b6ff7c7704ca2d95a0caf39e33",
         "type": "Directory",
         "description": "Directory \"src/pages/articles\"",
         "owner": "gatsby-source-filesystem"
@@ -2029,11 +2029,11 @@
       "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
       "relativePath": "articles",
       "extension": "",
-      "size": 288,
-      "prettySize": "288 B",
-      "modifiedTime": "2018-07-08T18:20:27.711Z",
-      "accessTime": "2018-07-09T14:03:30.747Z",
-      "changeTime": "2018-07-08T18:20:27.711Z",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2018-07-09T21:25:36.553Z",
+      "accessTime": "2018-07-09T21:32:29.511Z",
+      "changeTime": "2018-07-09T21:25:36.553Z",
       "birthTime": "2018-07-04T16:19:40.667Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages",
@@ -2043,20 +2043,20 @@
       "relativeDirectory": "",
       "dev": 16777222,
       "mode": 16877,
-      "nlink": 9,
+      "nlink": 10,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8602523251,
       "blocks": 0,
-      "atimeMs": 1531145010747.2903,
-      "mtimeMs": 1531074027711.4048,
-      "ctimeMs": 1531074027711.4048,
+      "atimeMs": 1531171949511.1367,
+      "mtimeMs": 1531171536552.6074,
+      "ctimeMs": 1531171536552.6074,
       "birthtimeMs": 1530721180667.212,
-      "atime": "2018-07-09T14:03:30.747Z",
-      "mtime": "2018-07-08T18:20:27.711Z",
-      "ctime": "2018-07-08T18:20:27.711Z",
+      "atime": "2018-07-09T21:32:29.511Z",
+      "mtime": "2018-07-09T21:25:36.553Z",
+      "ctime": "2018-07-09T21:25:36.553Z",
       "birthtime": "2018-07-04T16:19:40.667Z"
     },
     "/Users/paeng/dev/web/nuggy875.github.io/src/pages/pages absPath of file": {
@@ -2064,7 +2064,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50e9df55324161933caf305d2b7dab97",
+        "contentDigest": "681143513c31c55cfd90a69a9c57d7e8",
         "type": "Directory",
         "description": "Directory \"src/pages/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2076,7 +2076,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-09T14:03:30.747Z",
+      "accessTime": "2018-07-09T21:32:29.511Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.740Z",
       "root": "/",
@@ -2094,11 +2094,11 @@
       "blksize": 4194304,
       "ino": 8602523272,
       "blocks": 0,
-      "atimeMs": 1531145010747.3174,
+      "atimeMs": 1531171949511.1157,
       "mtimeMs": 1530721180766.6982,
       "ctimeMs": 1530721180766.6982,
       "birthtimeMs": 1530721180740.4966,
-      "atime": "2018-07-09T14:03:30.747Z",
+      "atime": "2018-07-09T21:32:29.511Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.740Z"
@@ -2108,7 +2108,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b7be5e01501c6c30f3a04576105ce860",
+        "contentDigest": "3a522de1fa34ca8709deef03d0ad0529",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---about\"",
         "owner": "gatsby-source-filesystem"
@@ -2120,7 +2120,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.767Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-04T16:19:40.767Z",
       "birthTime": "2018-07-04T16:19:40.741Z",
       "root": "/",
@@ -2138,11 +2138,11 @@
       "blksize": 4194304,
       "ino": 8602523273,
       "blocks": 0,
-      "atimeMs": 1531145010753.9192,
+      "atimeMs": 1531171949513.9297,
       "mtimeMs": 1530721180766.5012,
       "ctimeMs": 1530721180766.5012,
       "birthtimeMs": 1530721180740.5815,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-04T16:19:40.767Z",
       "ctime": "2018-07-04T16:19:40.767Z",
       "birthtime": "2018-07-04T16:19:40.741Z"
@@ -2152,7 +2152,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c34b2fb0c3afbc3312faed4d80d0cc2d",
+        "contentDigest": "07832bcb480379cfce328d96d34c43a9",
         "type": "Directory",
         "description": "Directory \"src/pages/pages/2015-05-01---contact\"",
         "owner": "gatsby-source-filesystem"
@@ -2164,7 +2164,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-04T16:19:40.773Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-04T16:19:40.773Z",
       "birthTime": "2018-07-04T16:19:40.767Z",
       "root": "/",
@@ -2182,11 +2182,11 @@
       "blksize": 4194304,
       "ino": 8602523276,
       "blocks": 0,
-      "atimeMs": 1531145010753.938,
+      "atimeMs": 1531171949513.9587,
       "mtimeMs": 1530721180773.4004,
       "ctimeMs": 1530721180773.4004,
       "birthtimeMs": 1530721180766.6912,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-04T16:19:40.773Z",
       "ctime": "2018-07-04T16:19:40.773Z",
       "birthtime": "2018-07-04T16:19:40.767Z"
@@ -2196,7 +2196,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b814bc51ad666e82773ba8dbef5a3d81",
+        "contentDigest": "2cd3b39030c2487a8673e7b2b7a922cf",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-04---start-blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2208,7 +2208,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-04T17:34:16.543Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-05T17:01:30.049Z",
       "birthTime": "2018-07-04T17:25:12.898Z",
       "root": "/",
@@ -2226,11 +2226,11 @@
       "blksize": 4194304,
       "ino": 8602685626,
       "blocks": 0,
-      "atimeMs": 1531145010753.649,
+      "atimeMs": 1531171949513.9717,
       "mtimeMs": 1530725656542.5493,
       "ctimeMs": 1530810090049.0598,
       "birthtimeMs": 1530725112897.7983,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-04T17:34:16.543Z",
       "ctime": "2018-07-05T17:01:30.049Z",
       "birthtime": "2018-07-04T17:25:12.898Z"
@@ -2240,7 +2240,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "744f549f878b7223cd8c6138bd647607",
+        "contentDigest": "660abf1fbaaebda4dd45df8bc8e4c014",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-05---Fragment 에서 Toast 사용하기\"",
         "owner": "gatsby-source-filesystem"
@@ -2252,7 +2252,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-05T15:19:19.498Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-05T17:01:20.680Z",
       "birthTime": "2018-07-05T13:01:19.083Z",
       "root": "/",
@@ -2270,11 +2270,11 @@
       "blksize": 4194304,
       "ino": 8602712378,
       "blocks": 0,
-      "atimeMs": 1531145010753.714,
+      "atimeMs": 1531171949514.1074,
       "mtimeMs": 1530803959497.7078,
       "ctimeMs": 1530810080680.4187,
       "birthtimeMs": 1530795679083.1526,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-05T15:19:19.498Z",
       "ctime": "2018-07-05T17:01:20.680Z",
       "birthtime": "2018-07-05T13:01:19.083Z"
@@ -2284,7 +2284,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "590051eb5d5156f9b822a6aaba16ad59",
+        "contentDigest": "6c39803fea3d17b4571152eed5057eee",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-06---마크다운에러\"",
         "owner": "gatsby-source-filesystem"
@@ -2296,7 +2296,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-07-05T17:15:14.666Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-05T17:15:14.666Z",
       "birthTime": "2018-07-05T15:19:22.228Z",
       "root": "/",
@@ -2314,11 +2314,11 @@
       "blksize": 4194304,
       "ino": 8602722390,
       "blocks": 0,
-      "atimeMs": 1531145010753.7776,
+      "atimeMs": 1531171949514.0059,
       "mtimeMs": 1530810914665.6672,
       "ctimeMs": 1530810914665.6672,
       "birthtimeMs": 1530803962228.1912,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-05T17:15:14.666Z",
       "ctime": "2018-07-05T17:15:14.666Z",
       "birthtime": "2018-07-05T15:19:22.228Z"
@@ -2328,7 +2328,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dc416418ee6051a3d739e2d6120695b0",
+        "contentDigest": "fc6f202a4d4ceb024c1d4975688ca0bd",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-07---EditText 밑줄 없애기\"",
         "owner": "gatsby-source-filesystem"
@@ -2340,7 +2340,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-07-08T18:18:39.041Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-08T18:18:39.041Z",
       "birthTime": "2018-07-07T20:02:36.726Z",
       "root": "/",
@@ -2358,11 +2358,11 @@
       "blksize": 4194304,
       "ino": 8602782054,
       "blocks": 0,
-      "atimeMs": 1531145010753.8435,
+      "atimeMs": 1531171949514.0195,
       "mtimeMs": 1531073919041.3955,
       "ctimeMs": 1531073919041.3955,
       "birthtimeMs": 1530993756726.2744,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-08T18:18:39.041Z",
       "ctime": "2018-07-08T18:18:39.041Z",
       "birthtime": "2018-07-07T20:02:36.726Z"
@@ -2372,7 +2372,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "88377ef9b36208d05e0d00bbea25bf14",
+        "contentDigest": "0d5151d38cd6a6cc61ef0da43ebd8d2f",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-06---현재날짜 구하기\"",
         "owner": "gatsby-source-filesystem"
@@ -2384,7 +2384,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-05T17:08:28.153Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-05T17:08:28.153Z",
       "birthTime": "2018-07-05T17:00:20.857Z",
       "root": "/",
@@ -2402,11 +2402,11 @@
       "blksize": 4194304,
       "ino": 8602724720,
       "blocks": 0,
-      "atimeMs": 1531145010753.8245,
+      "atimeMs": 1531171949513.992,
       "mtimeMs": 1530810508152.6145,
       "ctimeMs": 1530810508152.6145,
       "birthtimeMs": 1530810020857.0894,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-05T17:08:28.153Z",
       "ctime": "2018-07-05T17:08:28.153Z",
       "birthtime": "2018-07-05T17:00:20.857Z"
@@ -2416,7 +2416,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "72b32257c37b72b86282e64dcc1974dc",
+        "contentDigest": "84ea0a563657fd9034ee66c76a8eca1f",
         "type": "Directory",
         "description": "Directory \"src/pages/articles/2018-07-09---반응형 ScrollView 라이브러리\"",
         "owner": "gatsby-source-filesystem"
@@ -2428,7 +2428,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-07-09T10:23:11.061Z",
-      "accessTime": "2018-07-09T14:03:30.754Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
       "changeTime": "2018-07-09T10:23:11.061Z",
       "birthTime": "2018-07-08T18:18:41.283Z",
       "root": "/",
@@ -2446,11 +2446,11 @@
       "blksize": 4194304,
       "ino": 8602921477,
       "blocks": 0,
-      "atimeMs": 1531145010753.8848,
+      "atimeMs": 1531171949514.046,
       "mtimeMs": 1531131791061.0469,
       "ctimeMs": 1531131791061.0469,
       "birthtimeMs": 1531073921283.2305,
-      "atime": "2018-07-09T14:03:30.754Z",
+      "atime": "2018-07-09T21:32:29.514Z",
       "mtime": "2018-07-09T10:23:11.061Z",
       "ctime": "2018-07-09T10:23:11.061Z",
       "birthtime": "2018-07-08T18:18:41.283Z"
@@ -2664,7 +2664,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e4490447bf89d7751e7573696b00efd1",
+        "contentDigest": "1d256303cebf2650366ed41cd7d83b47",
         "mediaType": "application/octet-stream",
         "type": "File",
         "description": "File \"src/pages/articles/.DS_Store\"",
@@ -2679,9 +2679,9 @@
       "extension": "",
       "size": 8196,
       "prettySize": "8.2 kB",
-      "modifiedTime": "2018-07-08T18:22:37.455Z",
+      "modifiedTime": "2018-07-09T21:25:38.701Z",
       "accessTime": "2018-07-08T18:22:37.454Z",
-      "changeTime": "2018-07-08T18:22:37.455Z",
+      "changeTime": "2018-07-09T21:25:38.701Z",
       "birthTime": "2018-07-05T14:06:22.736Z",
       "root": "/",
       "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
@@ -2699,12 +2699,12 @@
       "ino": 8602716783,
       "blocks": 24,
       "atimeMs": 1531074157454.077,
-      "mtimeMs": 1531074157454.7751,
-      "ctimeMs": 1531074157454.7751,
+      "mtimeMs": 1531171538700.822,
+      "ctimeMs": 1531171538700.822,
       "birthtimeMs": 1530799582735.6008,
       "atime": "2018-07-08T18:22:37.454Z",
-      "mtime": "2018-07-08T18:22:37.455Z",
-      "ctime": "2018-07-08T18:22:37.455Z",
+      "mtime": "2018-07-09T21:25:38.701Z",
+      "ctime": "2018-07-09T21:25:38.701Z",
       "birthtime": "2018-07-05T14:06:22.736Z",
       "fields": {
         "slug": "/undefined/"
@@ -4235,6 +4235,217 @@
         "slug": "/반응형 ScrollView 라이브러리/"
       }
     },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4cddf125d4b5920e43e6cac2a741991e",
+        "type": "Directory",
+        "description": "Directory \"src/pages/articles/2018-07-10---getDrawable error\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error",
+      "relativePath": "articles/2018-07-10---getDrawable error",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-07-09T21:25:38.849Z",
+      "accessTime": "2018-07-09T21:32:29.514Z",
+      "changeTime": "2018-07-09T21:25:38.849Z",
+      "birthTime": "2018-07-08T18:18:41.283Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles",
+      "base": "2018-07-10---getDrawable error",
+      "ext": "",
+      "name": "2018-07-10---getDrawable error",
+      "relativeDirectory": "articles",
+      "dev": 16777222,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603033188,
+      "blocks": 0,
+      "atimeMs": 1531171949514.0322,
+      "mtimeMs": 1531171538848.9932,
+      "ctimeMs": 1531171538848.9932,
+      "birthtimeMs": 1531073921283.2305,
+      "atime": "2018-07-09T21:32:29.514Z",
+      "mtime": "2018-07-09T21:25:38.849Z",
+      "ctime": "2018-07-09T21:25:38.849Z",
+      "birthtime": "2018-07-08T18:18:41.283Z"
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/.DS_Store absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d48f777c43c0fc1acff4fd57f4f4cc9a",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-10---getDrawable error/.DS_Store\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/.DS_Store",
+      "relativePath": "articles/2018-07-10---getDrawable error/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-09T21:25:43.859Z",
+      "accessTime": "2018-07-09T21:25:39.330Z",
+      "changeTime": "2018-07-09T21:25:43.859Z",
+      "birthTime": "2018-07-09T10:23:11.061Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "articles/2018-07-10---getDrawable error",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603033189,
+      "blocks": 16,
+      "atimeMs": 1531171539329.6697,
+      "mtimeMs": 1531171543858.706,
+      "ctimeMs": 1531171543858.706,
+      "birthtimeMs": 1531131791061.0137,
+      "atime": "2018-07-09T21:25:39.330Z",
+      "mtime": "2018-07-09T21:25:43.859Z",
+      "ctime": "2018-07-09T21:25:43.859Z",
+      "birthtime": "2018-07-09T10:23:11.061Z",
+      "fields": {
+        "slug": "/getDrawable error/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "abd923a1366fc4b37447ecda0cb1aa7a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-10---getDrawable error/index.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md",
+      "relativePath": "articles/2018-07-10---getDrawable error/index.md",
+      "extension": "md",
+      "size": 1850,
+      "prettySize": "1.85 kB",
+      "modifiedTime": "2018-07-09T21:46:30.518Z",
+      "accessTime": "2018-07-09T21:46:30.518Z",
+      "changeTime": "2018-07-09T21:46:30.518Z",
+      "birthTime": "2018-07-08T18:18:41.285Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "articles/2018-07-10---getDrawable error",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603033190,
+      "blocks": 8,
+      "atimeMs": 1531172790517.6677,
+      "mtimeMs": 1531172790517.7983,
+      "ctimeMs": 1531172790517.7983,
+      "birthtimeMs": 1531073921285.3518,
+      "atime": "2018-07-09T21:46:30.518Z",
+      "mtime": "2018-07-09T21:46:30.518Z",
+      "ctime": "2018-07-09T21:46:30.518Z",
+      "birthtime": "2018-07-08T18:18:41.285Z",
+      "fields": {
+        "slug": "/getDrawable error/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file",
+      "children": [
+        "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a14267a342e53c048b459de7691006d0",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/pages/articles/2018-07-10---getDrawable error/error.png\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png",
+      "relativePath": "articles/2018-07-10---getDrawable error/error.png",
+      "extension": "png",
+      "size": 223339,
+      "prettySize": "223 kB",
+      "modifiedTime": "2018-07-09T21:24:30.102Z",
+      "accessTime": "2018-07-09T21:25:39.909Z",
+      "changeTime": "2018-07-09T21:25:38.849Z",
+      "birthTime": "2018-07-09T21:24:30.079Z",
+      "root": "/",
+      "dir": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error",
+      "base": "error.png",
+      "ext": ".png",
+      "name": "error",
+      "relativeDirectory": "articles/2018-07-10---getDrawable error",
+      "dev": 16777222,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603033121,
+      "blocks": 440,
+      "atimeMs": 1531171539909.116,
+      "mtimeMs": 1531171470102.1985,
+      "ctimeMs": 1531171538848.9932,
+      "birthtimeMs": 1531171470078.6416,
+      "atime": "2018-07-09T21:25:39.909Z",
+      "mtime": "2018-07-09T21:24:30.102Z",
+      "ctime": "2018-07-09T21:25:38.849Z",
+      "birthtime": "2018-07-09T21:24:30.079Z",
+      "fields": {
+        "slug": "/getDrawable error/"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file >> ImageSharp": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/error.png absPath of file",
+      "internal": {
+        "contentDigest": "a14267a342e53c048b459de7691006d0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /about": {
       "layout": "index",
       "jsonName": "about.json",
@@ -4253,7 +4464,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "becc189e9e511a67555da2c42d9266ae",
+        "contentDigest": "5672a229393695aac8781d74dc22eda4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4276,7 +4487,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b2e7f0cc5e4bec786e2df638724610b9",
+        "contentDigest": "93ce22910cb9045a33f0df4988cd66fc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4299,7 +4510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6328882d3d5ebdd5ee81d9f123f9a26b",
+        "contentDigest": "37d4fa125170434fae4e23454cfea494",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4322,7 +4533,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ec21bad7026090a46071fd03e1abfd31",
+        "contentDigest": "1a588cd964cbfd02ca77ef3ac0427d0c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4345,7 +4556,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de1e620d0ca106a2495679e6381c5223",
+        "contentDigest": "9afecea528332ef2c5628f21ac8429d2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4368,7 +4579,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3e3ee24ecef866e3859be4feb4b50611",
+        "contentDigest": "d6238bf11f772727eb3c61c644d785e0",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4391,7 +4602,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "16cad2f7c3932007cd474d365bbba6c4",
+        "contentDigest": "d7655df916d66201a97c335f3229ac68",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4414,7 +4625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88d7c33d2b698f2c8ccaacbe8f43256b",
+        "contentDigest": "6153ad5c8095797c1af188a929197523",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4437,7 +4648,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "043ce9ba28536a53ded6804877dd2f10",
+        "contentDigest": "fb5b520f2400c5cec3dec287ac58035f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4460,7 +4671,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad640925d06f19e1f635fcaed85acb0c",
+        "contentDigest": "5459a534640a569d02ba720524ea5294",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4483,7 +4694,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e43e72f80ffebdce2dbb5af497023e70",
+        "contentDigest": "2ad74e7d1060540342e9d80697887ac9",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4506,7 +4717,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c974b2b6f3a50c007dc339e7406d2f51",
+        "contentDigest": "b3c73d2e5c6faebd43b239a9eb85bd66",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4529,7 +4740,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1a833d80b3260d9b4cc6115302e0e18b",
+        "contentDigest": "87d2da7e7bab704a83f7e668e4cb3b33",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4552,7 +4763,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2e5ad0befd9e15869b8b5b5f09f9a97c",
+        "contentDigest": "b8bb755123606d765ab189550b314972",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4575,7 +4786,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45f08f4387863dd6e47453a943d9edb6",
+        "contentDigest": "d914f08dc125b707edd3d01be0f1c971",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4598,7 +4809,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ddf2a37deed1a6aeb1f0e5a7e37e85bb",
+        "contentDigest": "a2e4526d3277661793e79b4706849647",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4621,7 +4832,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "96e49ee6050a1702d112d5abe6a65528",
+        "contentDigest": "d1eda697aaebaa73e961010a07d7386f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4644,7 +4855,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7b221bad1d3c5f9e19d1fae53976c84a",
+        "contentDigest": "f1775fdb2773f2dc629b849496959edb",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4667,7 +4878,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab88c6d6d7df6971643d224923235890",
+        "contentDigest": "6b43fd271d183a953588159df84a6446",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4690,7 +4901,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "44b13f75909b80a859d0a04387523a3c",
+        "contentDigest": "1f18262ec9119fff46c76eb1e76a6873",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4713,7 +4924,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3cfd934589bb1515468e31f3a1dcf211",
+        "contentDigest": "f016336058bfbdc508a61e0e85e679b5",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4736,7 +4947,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "80b8d8312b7029f1b9e677d03acd2ae8",
+        "contentDigest": "1beb87aba6a011fa364db012a2bcc7c8",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4759,7 +4970,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cb18d500ff0861fa0ce92e4a75b9487f",
+        "contentDigest": "4986903c1d78bf82b4fb18e45302bd6b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4782,7 +4993,76 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c9547e91c12d4d278176680500d931e",
+        "contentDigest": "60c364d344f919081635a139cda7c425",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/get-drawable/": {
+      "layout": "index",
+      "jsonName": "tags-get-drawable.json",
+      "internalComponentName": "ComponentTagsGetDrawable",
+      "path": "/tags/get-drawable/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "getDrawable"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/get-drawable/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6718432f2207627d1d2f09a8ecfbe13d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/drawable/": {
+      "layout": "index",
+      "jsonName": "tags-drawable.json",
+      "internalComponentName": "ComponentTagsDrawable",
+      "path": "/tags/drawable/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "drawable"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/drawable/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "83c597ccc9f1001c8cc869c50788cce3",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/api-level/": {
+      "layout": "index",
+      "jsonName": "tags-api-level.json",
+      "internalComponentName": "ComponentTagsApiLevel",
+      "path": "/tags/api-level/",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "componentChunkName": "component---src-templates-tag-template-jsx",
+      "context": {
+        "tag": "API Level"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/tag-template.jsx",
+      "id": "SitePage /tags/api-level/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c08654fd61673e126fd3dafbcff75477",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -4803,7 +5083,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f19f1f9e8830e5c5003e0c155230cccc",
+        "contentDigest": "cf438e3643f984cb5a92b1ea1f694345",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4824,7 +5104,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ee059aeda1302ed22f971f0d22018ec3",
+        "contentDigest": "4d06498dd60f274e1910eae8bd236bba",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4845,7 +5125,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c9cd33e21dcf897938ca9a462b4d9cba",
+        "contentDigest": "69f5d64e33e20451c2fa9763ac947ea7",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4866,7 +5146,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ea809f928be8f5feba5c99be6b0ee673",
+        "contentDigest": "08325fc5f3424162cabd77ad65cb055c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -4887,9 +5167,80 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "32ba526b928bd725fd38a4adff6c1eb7",
+        "contentDigest": "4bfe26fcb698da28757c7feb2c786eff",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/android/post-5": {
+      "layout": "index",
+      "jsonName": "posts-android-post-5.json",
+      "internalComponentName": "ComponentPostsAndroidPost5",
+      "path": "/posts/android/post-5",
+      "component": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "componentChunkName": "component---src-templates-post-template-jsx",
+      "context": {
+        "slug": "/posts/android/post-5"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/paeng/dev/web/nuggy875.github.io/src/templates/post-template.jsx",
+      "id": "SitePage /posts/android/post-5",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6bdc11313bb262f8cd0a9d349a232023",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: \"[안드로이드] getDrawable 오류 해결 방법\"\r\ndate: \"2018-07-10T06:33:10.169Z\"\r\nlayout: post\r\ndraft: false\r\npath: \"/posts/android/post-5\"\r\ncategory: \"Android\"\r\ntags:\r\n  - \"Android\"\r\n  - \"Error\"\r\n  - \"getDrawable\"\r\n  - \"drawable\"\r\n  - \"API Level\"\r\n\r\ndescription: \"getDrawable() 함수 사용 시 Call Requires API Level 21 어쩌구 해결방법\"\r\n---\r\n\r\n\r\n![error_image](./error.png)\r\n\r\n\r\n*Call requires API level 21 (current min is 14): android.content.Context#getDrawable less... (⌘F1)\r\nThis check scans through all the Android API calls in the application and warns about any calls that are not available on all versions targeted by this application (according to its minimum SDK attribute in the manifest).  If you really want to use this API and don't need to support older devices just set the minSdkVersion in your build.gradle or AndroidManifest.xml files. ... 후략*\r\n\r\n\r\n### 다음과 같은 에러를 본 적이 있는가?\r\n\r\n분명 Context도 맞게 쓰고 모두 옳게 작성했지만 또 또 찡찡댄다..  \r\n에러를 해석해보면 API Level 21 이상의 Device에서만 이 함수가 동작한단다.  \r\n(21이면 롤리팝 버전이다...;)  \r\n\r\n고것도 안되는 똥폰 갖다 버리라고 하고 싶지만 우리는 모두를 위한 개발자이므로(?)  \r\n이를 해결해보자.\r\n\r\n### 다행히도 쉽게 해결하는 방법이 있다.\r\n\r\n\r\n\r\n\r\n```JAVA\r\nDrawable mDrawable = mContext.getDrawable(R.drawable.ic_add_black_24dp);\r\n```\r\n\r\n(mContext는 `Context`를 변수로 받아온 것이다.)  \r\n위와 같이 썼을 때 문제가 되는 것이었는데, 이를 아래와 같이 고쳐보자\r\n\r\n```JAVA\r\nDrawable mDrawable = ContextCompat.getDrawable(mContext, R.drawable.ic_add_black_24dp);\r\n```\r\n\r\n`ContextCompat`이라는 친구를 사용하게되면 빨간줄이 없어지고 편안해진다.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a78cc4e0e6c75661ab8eacf68277ab74",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "[안드로이드] getDrawable 오류 해결 방법",
+        "date": "2018-07-10T06:33:10.169Z",
+        "layout": "post",
+        "draft": false,
+        "path": "/posts/android/post-5",
+        "category": "Android",
+        "tags": [
+          "Android",
+          "Error",
+          "getDrawable",
+          "drawable",
+          "API Level"
+        ],
+        "description": "getDrawable() 함수 사용 시 Call Requires API Level 21 어쩌구 해결방법",
+        "_PARENT": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file",
+        "parent": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\n\r\n![error_image](./error.png)\r\n\r\n\r\n*Call requires API level 21 (current min is 14): android.content.Context#getDrawable less... (⌘F1)\r\nThis check scans through all the Android API calls in the application and warns about any calls that are not available on all versions targeted by this application (according to its minimum SDK attribute in the manifest).  If you really want to use this API and don't need to support older devices just set the minSdkVersion in your build.gradle or AndroidManifest.xml files. ... 후략*\r\n\r\n\r\n### 다음과 같은 에러를 본 적이 있는가?\r\n\r\n분명 Context도 맞게 쓰고 모두 옳게 작성했지만 또 또 찡찡댄다..  \r\n에러를 해석해보면 API Level 21 이상의 Device에서만 이 함수가 동작한단다.  \r\n(21이면 롤리팝 버전이다...;)  \r\n\r\n고것도 안되는 똥폰 갖다 버리라고 하고 싶지만 우리는 모두를 위한 개발자이므로(?)  \r\n이를 해결해보자.\r\n\r\n### 다행히도 쉽게 해결하는 방법이 있다.\r\n\r\n\r\n\r\n\r\n```JAVA\r\nDrawable mDrawable = mContext.getDrawable(R.drawable.ic_add_black_24dp);\r\n```\r\n\r\n(mContext는 `Context`를 변수로 받아온 것이다.)  \r\n위와 같이 썼을 때 문제가 되는 것이었는데, 이를 아래와 같이 고쳐보자\r\n\r\n```JAVA\r\nDrawable mDrawable = ContextCompat.getDrawable(mContext, R.drawable.ic_add_black_24dp);\r\n```\r\n\r\n`ContextCompat`이라는 친구를 사용하게되면 빨간줄이 없어지고 편안해진다.\r\n",
+      "fileAbsolutePath": "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md",
+      "fields": {
+        "slug": "/posts/android/post-5",
+        "tagSlugs": [
+          "/tags/android/",
+          "/tags/error/",
+          "/tags/get-drawable/",
+          "/tags/drawable/",
+          "/tags/api-level/"
+        ],
+        "categorySlug": "/categories/android/"
       }
     }
   },
@@ -4928,7 +5279,11 @@
         "/categories/",
         "/",
         "/tags/",
-        "/404.html"
+        "/404.html",
+        "/tags/api-level/",
+        "/tags/drawable/",
+        "/tags/get-drawable/",
+        "/posts/android/post-5"
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-04---start-blog/index.md absPath of file >>> MarkdownRemark": [
         "/posts/start-blog/"
@@ -4953,6 +5308,9 @@
       ],
       "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-06---현재날짜 구하기/index.md absPath of file >>> MarkdownRemark": [
         "/posts/android/post-2"
+      ],
+      "/Users/paeng/dev/web/nuggy875.github.io/src/pages/articles/2018-07-10---getDrawable error/index.md absPath of file >>> MarkdownRemark": [
+        "/posts/android/post-5"
       ]
     },
     "connections": {
@@ -4975,7 +5333,10 @@
         "/tags/simple-date-format/",
         "/categories/",
         "/",
-        "/tags/"
+        "/tags/",
+        "/tags/api-level/",
+        "/tags/drawable/",
+        "/tags/get-drawable/"
       ],
       "SitePage": [
         "/dev-404-page/"

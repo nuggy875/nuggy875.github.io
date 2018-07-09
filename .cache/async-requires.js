@@ -39,12 +39,16 @@ exports.json = {
   "tags-responsive.json": require("gatsby-module-loader?name=path---tags-responsive!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-responsive.json"),
   "tags-library.json": require("gatsby-module-loader?name=path---tags-library!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-library.json"),
   "tags-design.json": require("gatsby-module-loader?name=path---tags-design!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-design.json"),
+  "tags-get-drawable.json": require("gatsby-module-loader?name=path---tags-get-drawable!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-get-drawable.json"),
+  "tags-drawable.json": require("gatsby-module-loader?name=path---tags-drawable!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-drawable.json"),
+  "tags-api-level.json": require("gatsby-module-loader?name=path---tags-api-level!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-api-level.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404.json"),
   "categories.json": require("gatsby-module-loader?name=path---categories!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/index.json"),
   "tags.json": require("gatsby-module-loader?name=path---tags!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404-html.json"),
+  "posts-android-post-5.json": require("gatsby-module-loader?name=path---posts-android-post-5!/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-android-post-5.json")
 }
 
 exports.layouts = {

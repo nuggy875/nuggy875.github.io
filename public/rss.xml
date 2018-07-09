@@ -1,9 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Gilbert Paeng]]></title><description><![CDATA[ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Jul 2018 20:09:59 GMT</lastBuildDate><item><title><![CDATA[[마크다운] YAMLException]]></title><description><![CDATA[YAMLException: can not read a block mapping entry]]></description><link>https://lumen.netlify.com/posts/markdown/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/markdown/post-1</guid><pubDate>Fri, 06 Jul 2018 02:10:21 GMT</pubDate><content:encoded>&lt;p&gt;현재 Gatsby를 이용하여 블로그를 작성하고 있고, Netlify로 배포를 진행하고 있다.&lt;br&gt;
-블로그를 시작한지 얼마 안 돼서 설레는 마음으로 포스팅을 하는 도중에 이상한 에러가 발목을 잡았다.&lt;/p&gt;
-&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Gilbert Paeng]]></title><description><![CDATA[ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Jul 2018 21:32:09 GMT</lastBuildDate><item><title><![CDATA[[안드로이드] ScrollView Library 소개]]></title><description><![CDATA[스크롤에 따라 생겼다 사라졌다 하는 ConcealerNestedScrollView 를 소개한다.]]></description><link>https://lumen.netlify.com/posts/android/post-4</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-4</guid><pubDate>Mon, 09 Jul 2018 03:30:32 GMT</pubDate><content:encoded>&lt;p&gt;이 Android Library는 스크롤 뷰를 스크롤 할때 위와 아랫 부분에 view를 보이고 숨기는 기능이 있는 Library이다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/24822099/34994798-e5d54432-fae9-11e7-8246-a12e66b20f18.gif&quot; alt=&quot;gif_image&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Usage&lt;/h2&gt;
+&lt;h3&gt;Gradle&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-gradle&quot;&gt;&lt;code class=&quot;language-gradle&quot;&gt;implementation &amp;#39;com.simmorsal.library:concealer_nested_scroll_view:2.0.0&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;먼저 build.gradle (Module: app)에 위 라이브러리를 추가해주자.&lt;/p&gt;
+&lt;h3&gt;XML&lt;/h3&gt;
+&lt;p&gt;XML은 아래 그림과 같이 구성 되어야 한다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/24822099/34965249-ea66cfca-fa67-11e7-9982-20bf76e61551.png&quot; alt=&quot;concealernsv-layout-setup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ConcealerNestedScrollView&lt;/code&gt;를 맨 위에 써주고 header와 footer View들을 아래 작성해 주자.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANT:&lt;/strong&gt; header view에 &lt;code class=&quot;language-text&quot;&gt;margin_top&lt;/code&gt;, 또는 footer view에 &lt;code class=&quot;language-text&quot;&gt;margin_bottom&lt;/code&gt;값을 주지 말자.
+Java 코드에서 작성해야 한다.&lt;br&gt;
+&lt;del&gt;그래야 한다니까 그렇게 하자&lt;/del&gt;  &lt;/p&gt;
+&lt;h3&gt;JAVA&lt;/h3&gt;
+&lt;p&gt;Java 코드는 매우 간단하다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ConcealerNestedScrollView&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;CardView&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;LinearLayout&lt;/code&gt; reference를 추가하고 xml id와 연결시켜주자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    ConcealerNestedScrollView cnsv = findViewById(R.id.cnsv);
+    CardView crdHeaderView;
+    LinearLayout linFooterView;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    concealerNSV = findViewById(R.id.concealerNSV);
+    crdHeaderView = findViewById(R.id.crdHeaderView);
+    linFooterView = findViewById(R.id.linFooterView);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;그리고 위에서 설명했듯이 JAVA코드에 &lt;code class=&quot;language-text&quot;&gt;onCreate&lt;/code&gt;내부에 &lt;code class=&quot;language-text&quot;&gt;headerView&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;footerView&lt;/code&gt;의 margin속성을 추가해주기 위해 다음과 같이 입력하자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    headerView.post(new Runnable() {
+        @Override
+        public void run() {
+            // parameters are (View headerView, int marginTop)
+            cnsv.setHeaderView(headerView, 15);
+        }
+    });
+    footerView.post(new Runnable() {
+        @Override
+        public void run() {
+            // parameters are (View footerView, int marginBottom)
+            cnsv.setFooterView(footerView, 0);
+        }
+    });&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;예시 코드는 아래 출처에서 확인할 수 있다.&lt;/p&gt;
+&lt;p&gt;출처 : &lt;a href=&quot;https://github.com/SIMMORSAL/ConcealerNestedScrollView-ConcealerRecyclerView&quot;&gt;https://github.com/SIMMORSAL/ConcealerNestedScrollView-ConcealerRecyclerView&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] getDrawable 오류 해결 방법]]></title><description><![CDATA[getDrawable() 함수 사용 시 Call Requires API Level 21 어쩌구 해결방법]]></description><link>https://lumen.netlify.com/posts/android/post-4</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-4</guid><pubDate>Mon, 09 Jul 2018 03:30:32 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-bb1ce.png&quot;
+    href=&quot;/static/error-a14267a342e53c048b459de7691006d0-aece5.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,124 +59,75 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 46.9050894085282%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAACEElEQVQozz2Ry08TURTGB1rodJ6dZ9+Tlgm0lpeGYNW9K3cmbkyMrxgNlSIaYaNgKWKw1BbduJEdf+fPMwM6yS9nzsy93/m+e5XR7is+DXYZ/5gwHo2ZSJ2cjRmOf/FlMOTw8wHHw2NOvp6kfBNOT79zfv6T0eiMo6MjhvJ/MBhw8ecCRR5SZmaumJ1N+2w2w3xunnlVJa/rV1XT0AwDS3Ati4JUXc1h6RpZ2fPyxXOUllOg317iTSNiJ27Sr1XYbUa8k/699B/iBnvLbfbbixxsbnC41uH1aodHCw2edNo8XV/l2doKj5dizvb3ULqifhkvcLm+znSlw+ROl2l3k/O7t5ls3GS6eYvf97p8XLnBg3aLh61FlitlQt+jVgyphiGR9H7BZmd7G6Uo0e5rgp2jaOQwbBVb4jiuS6FQwLZtTImmCjMSb1bLo5lm+t0SbBFK1qp5la2tLTm2uTncukXUDqhFLnHs0Wg0WIhjeY+JogjP8wgCn1LiqFyinFAqURFn1WqFer2GJ6L9fh8lm8nIIdsSoYiuGeTzGnm5AFXQ5RIMQ08dJ44Sx67rCG6K57n4vk9RBpmmQa/XQ5kTh+WyKq50mWhSq5lSK6m7arWKZZnCtaDgyCUmQv9Eg2vBZHAaOSMOg8Cj2azLYjt14DjO/+m+HH4SOdmcvIdyCWEYEAaBCBUpSfQkdjLwrTj8C2msDT+Bt9qtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 23.670668953687823%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA0klEQVQY01WPW26EMBRDWVQ1w7QMCSTkRQjMo/tfinudEqn9sI51Adt0NiTMLsJZi1Ep3JXGbBdY72GsyCUsPmKcDIZxwjBoDHeN/vaJS3/DRXilF31ce3RrORC3HVEYcgELqCWulYaSwGlxUhww+1Bpz7vxSZ55aOvwpSZ02+OF/flGEW7HE3l/IElBKnsly9otSiEH0Lch9PZPaXe8vkEVCWUwfZZgrg3rBt+UcqUTcj3ZFPLvO8os6NjampuP54J0qi4R8sYAfsjfG/T8T7z9AL83t79rVxDqAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;YAMLException&quot;
+        alt=&quot;error_image&quot;
         title=&quot;&quot;
-        src=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-c83f1.png&quot;
-        srcset=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-569e3.png 240w,
-/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-93400.png 480w,
-/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-c83f1.png 960w,
-/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-23e13.png 1440w,
-/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-bb1ce.png 1454w&quot;
+        src=&quot;/static/error-a14267a342e53c048b459de7691006d0-c83f1.png&quot;
+        srcset=&quot;/static/error-a14267a342e53c048b459de7691006d0-569e3.png 240w,
+/static/error-a14267a342e53c048b459de7691006d0-93400.png 480w,
+/static/error-a14267a342e53c048b459de7691006d0-c83f1.png 960w,
+/static/error-a14267a342e53c048b459de7691006d0-23e13.png 1440w,
+/static/error-a14267a342e53c048b459de7691006d0-10d8f.png 1920w,
+/static/error-a14267a342e53c048b459de7691006d0-aece5.png 2332w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    
-&amp;#x3C;에러 화면&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;YAMLException: can not read a block mapping entry; a multiline key m  ay not be an implicit key at line 3, column 5:&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 834px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 77.45803357314148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACOElEQVQ4y3VU23aiQBD0Z6LhInJnBgYGNJqLZrP7/x9TW92IicnuQ5+GPlpTVV3DKtjWCBKDh7DAY1RiE5ZYPxZam6DUmT5f54/h/JuldMbfBHGlfVXsDHzhMJY9ktSi8g5mP6A7edS+x64y6F8nlH2nXd6LtkPetigdZ28TtnmjBwnoyuUtPsyIoRyQtQ77P08YzhP8eQ/3MmJ832P6OOgBMmufPJqph7/sMfCAgsDhtrqxXHVZi/dmRC8MMwN79OieR1SDQ25aZStMctsi47uwyxrOpwFF19GWb5Lr1OC3mVgjmtzBjjydzOJdffNy9nP2dOnrzTwXoAVMGbZkeK499pS8o/wjTz05h7owWIefJ4tHWlF5+/NXoKXUQ2Eo7AIabp+9mi8LEbnybA+ckfXABbS0xNDDijZswnuwOw8vBD1W3K71qMar6QSYAQckZCzbjLMGEe34uoivLFeGUfkg2ImyK+YxiRuVKvFIK8tuFUAz+Q/ZPyRnSYO3ijLsgG1jkRBIQITRbSFXkCC6l/cdTAE3EddOZrvaauYkb+5FPHTKLE5rRFJ8Dv4j827LQVwi3s7p7wnkxTf26ddBA+6YyaUL8HdGPwDXZLiOaySU251HLXeZNNiSuYdr3rRvivtshp/3/BZsic2FW3Z5h+fG49gMeDKembR6xYSZXDfZdnca59gwTtJzqhIlcv0WUP04dASTbtMWzc6iZo/4FZJNlwx6fr1ycv1SKknpt8wkQjITnxfJfwF6n+TEPlr3xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Markdown&quot;
-        title=&quot;&quot;
-        src=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png&quot;
-        srcset=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-43e0c.png 240w,
-/static/image-71e0950ce6fc3790c499c6ad155ed729-60abb.png 480w,
-/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png 834w&quot;
-        sizes=&quot;(max-width: 834px) 100vw, 834px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-&amp;#x3C;이 부분이 잘못 되었다는데…&gt;&lt;/p&gt;
-&lt;p&gt;화살표가 date: 에 가 있길래 무엇이 잘못 되었나 헛짓거리 하다가 구글링으로 해결했다.&lt;/p&gt;
-&lt;p&gt;제목에 &lt;strong&gt;대괄호&lt;/strong&gt; 가 있으면 안되고, 이를 쓰려면 제목에 &quot;&quot;를 붙혀주면 해결이 된다.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 758px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 7.387862796833773%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAACXBIWXMAABYlAAAWJQFJUiTwAAAATklEQVQI1x3KRwqAMAAAQZ8kVojGNNIwqCAe/P9D1nKY21R+tHzKFGhGg/AOs0XskQhXRq2BXhrSXZDRY/aEKpF6WHDvaYX+vz8z3ax5AIy2I6xSeGFpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Markdown&quot;
-        title=&quot;&quot;
-        src=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png&quot;
-        srcset=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-f83aa.png 240w,
-/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-b8c8f.png 480w,
-/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png 758w&quot;
-        sizes=&quot;(max-width: 758px) 100vw, 758px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;출처 : &lt;a href=&quot;https://simhyejin.github.io/2016/06/24/markdown-post-title/&quot;&gt;https://simhyejin.github.io/2016/06/24/markdown-post-title/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] 현재 날짜, 시간 구하기]]></title><description><![CDATA[SimpleDateFormat 이용]]></description><link>https://lumen.netlify.com/posts/android/post-2</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-2</guid><pubDate>Fri, 06 Jul 2018 01:52:32 GMT</pubDate><content:encoded>&lt;p&gt;현재 시간을 필요로 하는 경우가 있다.&lt;br&gt;
-안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;현재 시간을 가져온다.&lt;/p&gt;
+&lt;p&gt;다음과 같은 에러를 본 적이 있는가?&lt;/p&gt;
+&lt;p&gt;분명 Context도 맞게 쓰고 모두 옳게 작성했지만 또 또 찡찡댄다..
+에러를 해석해보면 API Level 21 이상의 Device에서만 이 함수가 동작한단다.&lt;/p&gt;
+&lt;p&gt;그런 똥폰 갖다 버리라고 하고 싶지만 우리는 모두를 위한 개발자이므로(?) 이를 해결해보자&lt;/p&gt;
+&lt;h4&gt;다행히도 쉽게 해결하는 방법이 있다.&lt;/h4&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;long now = System.currentMills();&lt;/code&gt;&lt;/pre&gt;
+      &lt;pre class=&quot;language-gradle&quot;&gt;&lt;code class=&quot;language-gradle&quot;&gt;implementation &amp;#39;com.simmorsal.library:concealer_nested_scroll_view:2.0.0&amp;#39;&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Date형식으로 고친다.&lt;/p&gt;
+&lt;p&gt;먼저 build.gradle (Module: app)에 위 라이브러리를 추가해주자.&lt;/p&gt;
+&lt;h3&gt;XML&lt;/h3&gt;
+&lt;p&gt;XML은 아래 그림과 같이 구성 되어야 한다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/24822099/34965249-ea66cfca-fa67-11e7-9982-20bf76e61551.png&quot; alt=&quot;concealernsv-layout-setup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ConcealerNestedScrollView&lt;/code&gt;를 맨 위에 써주고 header와 footer View들을 아래 작성해 주자.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANT:&lt;/strong&gt; header view에 &lt;code class=&quot;language-text&quot;&gt;margin_top&lt;/code&gt;, 또는 footer view에 &lt;code class=&quot;language-text&quot;&gt;margin_bottom&lt;/code&gt;값을 주지 말자.
+Java 코드에서 작성해야 한다.&lt;br&gt;
+&lt;del&gt;그래야 한다니까 그렇게 하자&lt;/del&gt;  &lt;/p&gt;
+&lt;h3&gt;JAVA&lt;/h3&gt;
+&lt;p&gt;Java 코드는 매우 간단하다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ConcealerNestedScrollView&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;CardView&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;LinearLayout&lt;/code&gt; reference를 추가하고 xml id와 연결시켜주자.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;Date mDate = new Date(now);&lt;/code&gt;&lt;/pre&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    ConcealerNestedScrollView cnsv = findViewById(R.id.cnsv);
+    CardView crdHeaderView;
+    LinearLayout linFooterView;&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;SimpleDateFormat simpleDate = new SimpleDateFormat(&amp;quot;yyyy-MM-dd hh:mm:ss&amp;quot;);
-String getTime = simpleDate.format(mDate);&lt;/code&gt;&lt;/pre&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    concealerNSV = findViewById(R.id.concealerNSV);
+    crdHeaderView = findViewById(R.id.crdHeaderView);
+    linFooterView = findViewById(R.id.linFooterView);&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;위와 같이 작성할 경우, getTime 변수에 &lt;strong&gt;2018-07-06 01:42:00&lt;/strong&gt; 이런식으로 날짜를 가져올 수 있다.&lt;/p&gt;
-&lt;p&gt;MM-dd 만 작성할 경우 “07-06” 이런식으로 Customize 할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] EditText 밑줄 없애기]]></title><description><![CDATA[EditText 밑줄 없애는 방법]]></description><link>https://lumen.netlify.com/posts/android/post-3</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-3</guid><pubDate>Fri, 06 Jul 2018 01:52:32 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot;&gt;
+&lt;p&gt;그리고 위에서 설명했듯이 JAVA코드에 &lt;code class=&quot;language-text&quot;&gt;onCreate&lt;/code&gt;내부에 &lt;code class=&quot;language-text&quot;&gt;headerView&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;footerView&lt;/code&gt;의 margin속성을 추가해주기 위해 다음과 같이 입력하자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    headerView.post(new Runnable() {
+        @Override
+        public void run() {
+            // parameters are (View headerView, int marginTop)
+            cnsv.setHeaderView(headerView, 15);
+        }
+    });
+    footerView.post(new Runnable() {
+        @Override
+        public void run() {
+            // parameters are (View footerView, int marginBottom)
+            cnsv.setFooterView(footerView, 0);
+        }
+    });&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;예시 코드는 아래 출처에서 확인할 수 있다.&lt;/p&gt;
+&lt;p&gt;출처 : &lt;a href=&quot;https://github.com/SIMMORSAL/ConcealerNestedScrollView-ConcealerRecyclerView&quot;&gt;https://github.com/SIMMORSAL/ConcealerNestedScrollView-ConcealerRecyclerView&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] EditText 밑줄 없애기]]></title><description><![CDATA[EditText 밑줄 없애는 방법]]></description><link>https://lumen.netlify.com/posts/android/post-3</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-3</guid><pubDate>Sat, 07 Jul 2018 11:49:32 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;android:background=&quot;@null&quot;&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
 &lt;p&gt;
@@ -266,7 +261,141 @@ String getTime = simpleDate.format(mDate);&lt;/code&gt;&lt;/pre&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] Activity와 Context의 차이]]></title><description><![CDATA[Fragment, 등에서 getActivity(), getContext()의 사용]]></description><link>https://lumen.netlify.com/posts/android/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-1</guid><pubDate>Thu, 05 Jul 2018 22:30:00 GMT</pubDate><content:encoded>&lt;p&gt;평범한(?) Activity에서 Toast는 다음과 같이 사용된다.&lt;/p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[[마크다운] YAMLException]]></title><description><![CDATA[YAMLException: can not read a block mapping entry]]></description><link>https://lumen.netlify.com/posts/markdown/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/markdown/post-1</guid><pubDate>Fri, 06 Jul 2018 02:10:21 GMT</pubDate><content:encoded>&lt;p&gt;현재 Gatsby를 이용하여 블로그를 작성하고 있고, Netlify로 배포를 진행하고 있다.&lt;br&gt;
+블로그를 시작한지 얼마 안 돼서 설레는 마음으로 포스팅을 하는 도중에 이상한 에러가 발목을 잡았다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-bb1ce.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.9050894085282%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAACEElEQVQozz2Ry08TURTGB1rodJ6dZ9+Tlgm0lpeGYNW9K3cmbkyMrxgNlSIaYaNgKWKw1BbduJEdf+fPMwM6yS9nzsy93/m+e5XR7is+DXYZ/5gwHo2ZSJ2cjRmOf/FlMOTw8wHHw2NOvp6kfBNOT79zfv6T0eiMo6MjhvJ/MBhw8ecCRR5SZmaumJ1N+2w2w3xunnlVJa/rV1XT0AwDS3Ati4JUXc1h6RpZ2fPyxXOUllOg317iTSNiJ27Sr1XYbUa8k/699B/iBnvLbfbbixxsbnC41uH1aodHCw2edNo8XV/l2doKj5dizvb3ULqifhkvcLm+znSlw+ROl2l3k/O7t5ls3GS6eYvf97p8XLnBg3aLh61FlitlQt+jVgyphiGR9H7BZmd7G6Uo0e5rgp2jaOQwbBVb4jiuS6FQwLZtTImmCjMSb1bLo5lm+t0SbBFK1qp5la2tLTm2uTncukXUDqhFLnHs0Wg0WIhjeY+JogjP8wgCn1LiqFyinFAqURFn1WqFer2GJ6L9fh8lm8nIIdsSoYiuGeTzGnm5AFXQ5RIMQ08dJ44Sx67rCG6K57n4vk9RBpmmQa/XQ5kTh+WyKq50mWhSq5lSK6m7arWKZZnCtaDgyCUmQv9Eg2vBZHAaOSMOg8Cj2azLYjt14DjO/+m+HH4SOdmcvIdyCWEYEAaBCBUpSfQkdjLwrTj8C2msDT+Bt9qtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;YAMLException&quot;
+        title=&quot;&quot;
+        src=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-c83f1.png&quot;
+        srcset=&quot;/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-569e3.png 240w,
+/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-93400.png 480w,
+/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-c83f1.png 960w,
+/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-23e13.png 1440w,
+/static/error-a0f062bc5ba7bc84e23bc226f9991a2e-bb1ce.png 1454w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&amp;#x3C;에러 화면&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;YAMLException: can not read a block mapping entry; a multiline key m  ay not be an implicit key at line 3, column 5:&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 834px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.45803357314148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACOElEQVQ4y3VU23aiQBD0Z6LhInJnBgYGNJqLZrP7/x9TW92IicnuQ5+GPlpTVV3DKtjWCBKDh7DAY1RiE5ZYPxZam6DUmT5f54/h/JuldMbfBHGlfVXsDHzhMJY9ktSi8g5mP6A7edS+x64y6F8nlH2nXd6LtkPetigdZ28TtnmjBwnoyuUtPsyIoRyQtQ77P08YzhP8eQ/3MmJ832P6OOgBMmufPJqph7/sMfCAgsDhtrqxXHVZi/dmRC8MMwN79OieR1SDQ25aZStMctsi47uwyxrOpwFF19GWb5Lr1OC3mVgjmtzBjjydzOJdffNy9nP2dOnrzTwXoAVMGbZkeK499pS8o/wjTz05h7owWIefJ4tHWlF5+/NXoKXUQ2Eo7AIabp+9mi8LEbnybA+ckfXABbS0xNDDijZswnuwOw8vBD1W3K71qMar6QSYAQckZCzbjLMGEe34uoivLFeGUfkg2ImyK+YxiRuVKvFIK8tuFUAz+Q/ZPyRnSYO3ijLsgG1jkRBIQITRbSFXkCC6l/cdTAE3EddOZrvaauYkb+5FPHTKLE5rRFJ8Dv4j827LQVwi3s7p7wnkxTf26ddBA+6YyaUL8HdGPwDXZLiOaySU251HLXeZNNiSuYdr3rRvivtshp/3/BZsic2FW3Z5h+fG49gMeDKembR6xYSZXDfZdnca59gwTtJzqhIlcv0WUP04dASTbtMWzc6iZo/4FZJNlwx6fr1ycv1SKknpt8wkQjITnxfJfwF6n+TEPlr3xgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Markdown&quot;
+        title=&quot;&quot;
+        src=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png&quot;
+        srcset=&quot;/static/image-71e0950ce6fc3790c499c6ad155ed729-43e0c.png 240w,
+/static/image-71e0950ce6fc3790c499c6ad155ed729-60abb.png 480w,
+/static/image-71e0950ce6fc3790c499c6ad155ed729-461bc.png 834w&quot;
+        sizes=&quot;(max-width: 834px) 100vw, 834px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&amp;#x3C;이 부분이 잘못 되었다는데…&gt;&lt;/p&gt;
+&lt;p&gt;화살표가 date: 에 가 있길래 무엇이 잘못 되었나 헛짓거리 하다가 구글링으로 해결했다.&lt;/p&gt;
+&lt;p&gt;제목에 &lt;strong&gt;대괄호&lt;/strong&gt; 가 있으면 안되고, 이를 쓰려면 제목에 &quot;&quot;를 붙혀주면 해결이 된다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 758px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 7.387862796833773%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAACXBIWXMAABYlAAAWJQFJUiTwAAAATklEQVQI1x3KRwqAMAAAQZ8kVojGNNIwqCAe/P9D1nKY21R+tHzKFGhGg/AOs0XskQhXRq2BXhrSXZDRY/aEKpF6WHDvaYX+vz8z3ax5AIy2I6xSeGFpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Markdown&quot;
+        title=&quot;&quot;
+        src=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png&quot;
+        srcset=&quot;/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-f83aa.png 240w,
+/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-b8c8f.png 480w,
+/static/image2-d8adcc79710b1b3dc4e8f5eb3a2f2af7-bb0d1.png 758w&quot;
+        sizes=&quot;(max-width: 758px) 100vw, 758px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;출처 : &lt;a href=&quot;https://simhyejin.github.io/2016/06/24/markdown-post-title/&quot;&gt;https://simhyejin.github.io/2016/06/24/markdown-post-title/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] 현재 날짜, 시간 구하기]]></title><description><![CDATA[SimpleDateFormat 이용]]></description><link>https://lumen.netlify.com/posts/android/post-2</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-2</guid><pubDate>Fri, 06 Jul 2018 01:52:32 GMT</pubDate><content:encoded>&lt;p&gt;현재 시간을 필요로 하는 경우가 있다.&lt;br&gt;
+안드로이드에서는 이를 기본 라이브러리로 제공한다. (사실 자바 라이브러리)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;현재 시간을 가져온다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;long now = System.currentMills();&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Date형식으로 고친다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;Date mDate = new Date(now);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;날짜, 시간을 가져오고 싶은 형식으로 가져올 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;SimpleDateFormat simpleDate = new SimpleDateFormat(&amp;quot;yyyy-MM-dd hh:mm:ss&amp;quot;);
+String getTime = simpleDate.format(mDate);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;위와 같이 작성할 경우, getTime 변수에 &lt;strong&gt;2018-07-06 01:42:00&lt;/strong&gt; 이런식으로 날짜를 가져올 수 있다.&lt;/p&gt;
+&lt;p&gt;MM-dd 만 작성할 경우 “07-06” 이런식으로 Customize 할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] Activity와 Context의 차이]]></title><description><![CDATA[Fragment, 등에서 getActivity(), getContext()의 사용]]></description><link>https://lumen.netlify.com/posts/android/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-1</guid><pubDate>Thu, 05 Jul 2018 22:30:00 GMT</pubDate><content:encoded>&lt;p&gt;평범한(?) Activity에서 Toast는 다음과 같이 사용된다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;Toast.makeText(현재Activity.this, &amp;quot;Toast에 띄울 내용&amp;quot;, Toast.LENGTH_SHORT).show();&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
