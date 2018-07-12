@@ -7,6 +7,7 @@ path: "/posts/android/post-2"
 category: "Android"
 tags:
   - "Android"
+  - "Java"
   - "SimpleDateFormat"
   - "안드로이드"
 description: "SimpleDateFormat 이용"
