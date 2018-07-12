@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by Gilbert Paeng',
+    title: 'Blog by J.Spin',
     subtitle: 'ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS',
     copyright: '© All rights reserved.',
     disqusShortname: '',
@@ -20,7 +20,7 @@ module.exports = {
       }
     ],
     author: {
-      name: 'Gilbert Paeng',
+      name: '제이스핀 (J.Spin)',
       email: 'jinugpaeng@gmail.com',
       telegram: 'nuggy875',
       instagram: 'paeng___',
