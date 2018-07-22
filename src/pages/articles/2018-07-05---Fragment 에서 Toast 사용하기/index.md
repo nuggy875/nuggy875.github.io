@@ -72,7 +72,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
 - **RecyclerViewAdapter에서 Context 받아오기**
 
-  ```Java
+```Java
 public class FragmentList extends Fragment {
     public static FragmentList newInstance() {
         return new FragmentList();
@@ -93,6 +93,7 @@ public class FragmentList extends Fragment {
 }
 
 ```
+
 getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
 윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.
 
