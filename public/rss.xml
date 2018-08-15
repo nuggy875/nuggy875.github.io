@@ -1,4 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by J.Spin]]></title><description><![CDATA[ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 22 Jul 2018 21:35:16 GMT</lastBuildDate><item><title><![CDATA[[스타트업] Waterfall Model vs Agile Model]]></title><description><![CDATA[프로젝트를 진행방식, 폭포수(Waterfall) 방법론 vs 애자일(Agile) 방법론]]></description><link>https://lumen.netlify.com/posts/startup/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/startup/post-1</guid><pubDate>Tue, 17 Jul 2018 03:24:32 GMT</pubDate><content:encoded>&lt;p&gt;최근 스타트업을 준비하면서, 다른 스타트업의 사업계획서를 많이 조사하게 되었는데,&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by J.Spin]]></title><description><![CDATA[ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 15 Aug 2018 14:42:01 GMT</lastBuildDate><item><title><![CDATA[[장고] Django REST API 시작하기]]></title><description><![CDATA[Django REST API 시작하여 간단한 웹 서비스 시작하기]]></description><link>https://lumen.netlify.com/posts/django/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/django/post-1</guid><pubDate>Sun, 22 Jul 2018 05:24:32 GMT</pubDate><content:encoded>&lt;p&gt;Django에는 REST API를 만들 수 있는 &lt;em&gt;Django REST framework&lt;/em&gt; 가 존재한다.&lt;br&gt;
+&lt;a href=&quot;http://www.django-rest-framework.org/tutorial/quickstart/&quot;&gt;Django REST framework Quickstart&lt;/a&gt;에서는 Django tutorial과 다른 디렉토리 구조를 사용하고 django에 기본적으로 내장 되어있는 User, Group 에 대한 예제를 다룬다.&lt;br&gt;
+이 포스트에서는 Django tutorial에서 사용하는 디렉토리 구조를 사용하고 새로운 앱과 모델을 생성하여 REST API를 생성하는 방법에 대해 작성하였다.  &lt;/p&gt;
+&lt;h2&gt;프로젝트 설정&lt;/h2&gt;
+&lt;p&gt;프로젝트를 실행할 Root 디렉토리를 생성하자. 이름은 맘대로~  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ mkdir django-rest-tutorial  
+$ cd django-rest-tutorial&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;django&lt;/em&gt; 와 &lt;em&gt;djangorestframework&lt;/em&gt; 를 pip로 설치한다.  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ pip install django  
+$ pip install djangorestframework&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;프로젝트와 앱을 생성한다.
+프로젝트 이름은 &lt;em&gt;tutorial&lt;/em&gt; , 앱이름은 &lt;em&gt;myapp&lt;/em&gt; 이라고 하겠다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ django-admin.py startproject tutorial
+$ cd tutorial
+$ python manage.py startapp myapp&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Settings&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Django REST Framework&lt;/em&gt; 를 사용하기 위해서는&lt;br&gt;
+&lt;em&gt;tutorial/settings.py&lt;/em&gt; 에 아래와 같이 추가해주자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;INSTALLED_APPS &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;#...생략...&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;rest_framework&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;myapp&apos;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Models&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;first_name&lt;/em&gt; 과 &lt;em&gt;last_name&lt;/em&gt; 필드를 가진 &lt;em&gt;Person&lt;/em&gt; 이라는 model을 정의해보았다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;myapp/models.py&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; django&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;db &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Models
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;models&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Model&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+      first_name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; models&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;CharField&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;max_length&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+      last_name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; models&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;CharField&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;max_length&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Serializers&lt;/h2&gt;
+&lt;p&gt;Serializer를 사용한다.
+&lt;em&gt;myapp/serializers.py&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; myapp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;models &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Person
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; rest_framework &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; serializers
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PersonSerializer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;serializers&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;HyperlinkedModelSerializer&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Meta&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        model &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Person
+        fields &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;first_name&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;last_name&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;Views&lt;/h2&gt;
+&lt;p&gt;View들을 그룹화하여 간결하게 사용할 수 있다.
+&lt;em&gt;myapp/views.py&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; rest_framework &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; viewsets
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; myapp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;serializers &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; PersonSerializer
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; myapp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;models &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Person
+
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;PersonViewSet&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;viewsets&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ModelViewSet&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    queryset &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Person&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;objects&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;all&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    serializer_class &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; PersonSerializer&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;URLs&lt;/h2&gt;
+&lt;p&gt;views에서 작성한 viewset을 Router에 연결하면 url을 자동으로 편하게 연결해준다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;tutorial/urls.py&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; django&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;conf&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;urls &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; url&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; include
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; rest_framework &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; routers
+&lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; myapp &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; views
+
+
+router &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; routers&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;DefaultRouter&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;register&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;r&lt;span class=&quot;token string&quot;&gt;&apos;persons&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; views&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;PersonViewSet&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+urlpatterns &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+    url&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;r&lt;span class=&quot;token string&quot;&gt;&apos;^&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; include&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;urls&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    url&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;r&lt;span class=&quot;token string&quot;&gt;&apos;^api-auth/&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; include&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;rest_framework.urls&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; namespace&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;rest_framework&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h2&gt;드디어 실행…&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;이 세 줄을 실행 후 &lt;em&gt;&lt;a href=&quot;http://localhost:8080&quot;&gt;http://localhost:8080&lt;/a&gt;&lt;/em&gt; 에 접속하면 확인할 수 있다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-6bb82.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABbElEQVQ4y82QW0/CQBCF+6dBuUQIlxpNMPwWHwRaoKARIdDW24MPIgSJgUBbGmkp9HKcbgz6pJjw4Gy+3ZPJ7JnZ5QYvfQyf+5hNJhgNBlC7XdzKMtSeDEVWmFZ6PSiUv1MUPKgq7r/Ra3XQbrXRuZRwfVUHl45EwCeTOEmlcEock84nEsjG40gnjsCTTh/EkI5GWU0hm0Uhk6EzgzOimMuhyPPIxw6Ri8fANZpNCNUqxFoNNUmCSFpgiBBFEQIR5kIqpCuCwCgT5xdlnJcqKAlVSI0G6gQHCs/z4DgO/ho3fRPSk47HN3ub41zXxXyuQdN0mAsTum7AsmxqsP6R1WqNpbVi2KTDoUIvLggCjF7HGI6nmBpLLG0qdjawbedXQtMVnZuNiyBc5MUFNKZpmDBmBt51E8v5ApZmwrYc1nkX4/V6w567NfR9H77rMTzqxqAneJ6/E+H9rSHt2EcEnz7sD/fB14R7jv9v+AEhkstT8Vs7uAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;hi&quot;
+        title=&quot;&quot;
+        src=&quot;/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-c83f1.png&quot;
+        srcset=&quot;/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-569e3.png 240w,
+/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-93400.png 480w,
+/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-c83f1.png 960w,
+/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-23e13.png 1440w,
+/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-10d8f.png 1920w,
+/static/run-35d2baf74ebcf5cf8b7b8349eaf36bc9-6bb82.png 2880w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;출처 : &lt;a href=&quot;https://cjh5414.github.io/django-rest-framework/&quot;&gt;https://cjh5414.github.io/django-rest-framework/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] 안드로이드 테두리 만들기]]></title><description><![CDATA[Layout이나 View들에 테두리를 만들고 싶다면?]]></description><link>https://lumen.netlify.com/posts/android/post-7</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-7</guid><pubDate>Sun, 22 Jul 2018 05:24:32 GMT</pubDate><content:encoded>&lt;p&gt;View에 테두리를 적용하는건 생각보다 어렵지 않다.&lt;/p&gt;
+&lt;p&gt;drawable 폴더 내에 xml파일을 따로 하나 만들어 주자&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token prolog&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;shape&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;xmlns:&lt;/span&gt;android&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://schemas.android.com/apk/res/android&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;solid&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;color&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#00000000&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;corners&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;radius&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;10dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;stroke&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;width&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;2dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;color&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;#1c626262&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+
+
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;padding&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;left&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;10dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;top&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;10dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;right&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;10dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;bottom&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;10dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;shape&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;위 코드는 옅은 회색의 약간 둥근 테두리를 가진다.&lt;br&gt;
+drawable 폴더에 들어있는 위 xml파일 자체를 background로 적용시키면 된다.&lt;br&gt;
+위 파일 이름을 ridge&lt;em&gt;gray&lt;/em&gt;round.xml 이라고 해보자.&lt;/p&gt;
+&lt;p&gt;어떤 LinearLayout 에 대해서 위 테두리를 적용시키고 싶다면  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;LinearLayout&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;layout_width&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;200dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;layout_height&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;120dp&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;background&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;@drawable/ridge_gray_round&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token attr-name&quot;&gt;&lt;span class=&quot;token namespace&quot;&gt;android:&lt;/span&gt;orientation&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;vertical&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;LinearLayout&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;위와 같이 해주면 됨.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[스타트업] Waterfall Model vs Agile Model]]></title><description><![CDATA[프로젝트를 진행방식, 폭포수(Waterfall) 방법론 vs 애자일(Agile) 방법론]]></description><link>https://lumen.netlify.com/posts/startup/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/startup/post-1</guid><pubDate>Tue, 17 Jul 2018 03:24:32 GMT</pubDate><content:encoded>&lt;p&gt;최근 스타트업을 준비하면서, 다른 스타트업의 사업계획서를 많이 조사하게 되었는데,&lt;br&gt;
 요즘 핫(?)한 린 스타트업에 관심이 가서 조사해보다 익숙한 단어를 보게 되었다.&lt;/p&gt;
 &lt;h2&gt;· 폭포수(Waterfall)모델과 애자일(Agile)모델&lt;/h2&gt;
 &lt;p&gt;대학 수업을 열심히 들은 편은 아니지만 이름이 특이해서 어렴풋이 기억이 나는 폭포수모델…
@@ -123,17 +283,7 @@
 전체적인 플랜을 짜고 차근 차근 &lt;del&gt;차범근&lt;/del&gt; 폭포수가 중력에 몸을 맡기듯 단계별로 정형화된 접근방식과는 상반되게&lt;br&gt;
 &lt;strong&gt;일정한 주기를 가지고 끊임없이 프로토 타입을 만들어 내며 필요할 때마다 요구사항을 더하고 수정하여 커다란 소프트웨어를 개발해 나가는 방식이 &lt;code class=&quot;language-text&quot;&gt;애자일 모델 (Agile Model)&lt;/code&gt;이다.&lt;/strong&gt;&lt;br&gt;
 그림에서도 볼 수 있듯이 &lt;code class=&quot;language-text&quot;&gt;폭포수모델&lt;/code&gt;의 전체적 과정이 계속적으로 반복되는 것을 확인할 수 있다.&lt;br&gt;
-맘에 들 떄 까지(?) 계속 수정하는 모델이라고 생각하면 될 것 같다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[장고] Django REST API 시작하기]]></title><description><![CDATA[Django REST API 시작하여 간단한 웹 서비스 시작하기]]></description><link>https://lumen.netlify.com/posts/django/post-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/django/post-1</guid><pubDate>Tue, 17 Jul 2018 03:24:32 GMT</pubDate><content:encoded>&lt;p&gt;Django에는 REST API를 만들 수 있는 &lt;em&gt;Django REST framework&lt;/em&gt; 가 존재한다. &lt;a href=&quot;http://www.django-rest-framework.org/tutorial/quickstart/&quot;&gt;Django REST framework Quickstart&lt;/a&gt;에서는 Django tutorial과 다른 디렉토리 구조를 사용하고 django에 기본적으로 내장 되어있는 User, Group 에 대한 예제를 다룬다.&lt;br&gt;
-이 포스트에서는 Django tutorial에서 사용하는 디렉토리 구조를 사용하고 새로운 앱과 모델을 생성하여 REST API를 생성하는 방법에 대해 작성하였다.  &lt;/p&gt;
-&lt;h2&gt;프로젝트 설정&lt;/h2&gt;
-&lt;p&gt;프로젝트를 실행할 Root 디렉토리를 생성하자. 이름은 맘대로
-&lt;code class=&quot;language-text&quot;&gt;$ mkdir django-rest-tutorial
-$ cd django-rest-tutorial&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;django&lt;/em&gt; 와 &lt;em&gt;djangorestframework&lt;/em&gt; 를 pip로 설치한다.
-&lt;code class=&quot;language-text&quot;&gt;$ pip install django
-$ pip install djangorestframework&lt;/code&gt;
-프로젝트와 앱을 생성한다.
-프로젝트 이름은 &lt;em&gt;tutorial&lt;/em&gt; , 앱이름은 &lt;em&gt;myapp&lt;/em&gt; 이라고 하겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] 특수문자 포함된 String을 Split,Replace하기]]></title><description><![CDATA[split함수와 replace함수에 대해. 그리고 특수문자에 대한 적용.]]></description><link>https://lumen.netlify.com/posts/android/post-6</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-6</guid><pubDate>Fri, 13 Jul 2018 00:30:32 GMT</pubDate><content:encoded>&lt;p&gt;Java언어로 많이 쓰이는 String에 대한 함수 &lt;code class=&quot;language-text&quot;&gt;split()&lt;/code&gt; &lt;code class=&quot;language-text&quot;&gt;replace&lt;/code&gt;에 대해서 알아보자!&lt;/p&gt;
+맘에 들 떄 까지(?) 계속 수정하는 모델이라고 생각하면 될 것 같다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[안드로이드] 특수문자 포함된 String을 Split,Replace하기]]></title><description><![CDATA[split함수와 replace함수에 대해. 그리고 특수문자에 대한 적용.]]></description><link>https://lumen.netlify.com/posts/android/post-6</link><guid isPermaLink="false">https://lumen.netlify.com/posts/android/post-6</guid><pubDate>Fri, 13 Jul 2018 00:30:32 GMT</pubDate><content:encoded>&lt;p&gt;Java언어로 많이 쓰이는 String에 대한 함수 &lt;code class=&quot;language-text&quot;&gt;split()&lt;/code&gt; &lt;code class=&quot;language-text&quot;&gt;replace&lt;/code&gt;에 대해서 알아보자!&lt;/p&gt;
 &lt;p&gt;따로 설명할 필요 없이 사용예시를 보면 이해가 될 것이다.&lt;/p&gt;
 &lt;h2&gt;split()함수를 이해해보자!&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
@@ -584,41 +734,33 @@ public void onBindViewHolder(@NonNull ViewHolder holder, final int position) {
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;RecyclerViewAdapter에서 Context 받아오기&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;public class FragmentList extends Fragment {
-public static FragmentList newInstance() {
-    return new FragmentList();
-}
-@Nullable
-@Override
-public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-    View mView = inflater.inflate(R.layout.fragment_list, container, false);
-    showListView.setOnItemClickListener(new ListView.OnItemClickListener(){
-
-        @Override
-        public void onItemClick(AdapterView&amp;lt;?&amp;gt; parent, View view, int position, long id) {
-            Intent intent = new Intent(getActivity(), NextActivity.class);
-            startActivity(intent);
-        }
-    });
-}
-}&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RecyclerViewAdapter에서 Context 받아오기&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다...
-윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.
+      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;public class FragmentList extends Fragment {
+    public static FragmentList newInstance() {
+        return new FragmentList();
+    }
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
+        View mView = inflater.inflate(R.layout.fragment_list, container, false);
+        showListView.setOnItemClickListener(new ListView.OnItemClickListener(){
 
-
-
-~~사실 개발할 때는 귀찮아서 개념 생각 안하고 그냥 되는거 해보고 쓴다...~~
-
-출처  
-https://www.androidpub.com/1856256
-http://jungwoo5394.blogspot.com/2015/04/fragment-toast.html&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;</content:encoded></item><item><title><![CDATA[블로그를 시작한다.]]></title><description><![CDATA[블로그를 시작해보려 한다.]]></description><link>https://lumen.netlify.com/posts/start-blog/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/start-blog/</guid><pubDate>Thu, 05 Jul 2018 03:00:00 GMT</pubDate><content:encoded>&lt;p&gt;많은 개발자들이 그러하듯, 개발하는 내용 중 정리해놓고 싶은 내용들을 블로그에 정리해놓으려 한다.&lt;br&gt;
+            @Override
+            public void onItemClick(AdapterView&amp;lt;?&amp;gt; parent, View view, int position, long id) {
+                Intent intent = new Intent(getActivity(), NextActivity.class);
+                startActivity(intent);
+            }
+        });
+    }
+}&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;getActivity() 부분을 보여주기 위해 따온 코드이므로 오류가 있을수 있다…
+윗 부분은 무시하고 Fragment에서 intent를 쓸 때 getActivity()함수를 쓴 것에 집중하자.&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;사실 개발할 때는 귀찮아서 개념 생각 안하고 그냥 되는거 해보고 쓴다…&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;출처&lt;br&gt;
+&lt;a href=&quot;https://www.androidpub.com/1856256&quot;&gt;https://www.androidpub.com/1856256&lt;/a&gt;
+&lt;a href=&quot;http://jungwoo5394.blogspot.com/2015/04/fragment-toast.html&quot;&gt;http://jungwoo5394.blogspot.com/2015/04/fragment-toast.html&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[블로그를 시작한다.]]></title><description><![CDATA[블로그를 시작해보려 한다.]]></description><link>https://lumen.netlify.com/posts/start-blog/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/start-blog/</guid><pubDate>Thu, 05 Jul 2018 03:00:00 GMT</pubDate><content:encoded>&lt;p&gt;많은 개발자들이 그러하듯, 개발하는 내용 중 정리해놓고 싶은 내용들을 블로그에 정리해놓으려 한다.&lt;br&gt;
 React 기반의 &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;를 이용, &lt;a href=&quot;https://www.netlify.com/&quot;&gt;netlify&lt;/a&gt;를 이용하여 배포하였다.&lt;br&gt;
 내용은 주로 Computer Vision, Machine Learning, Android(Java), NodeJS, ReactJS, 등등… 이 될 것이다.&lt;/p&gt;</content:encoded></item></channel></rss>

@@ -70,6 +70,8 @@ exports.json = {
   "tags-python.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-python.json"),
   "tags-장고.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-장고.json"),
   "categories-django.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories-django.json"),
+  "posts-android-post-7.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/posts-android-post-7.json"),
+  "tags-xml.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/tags-xml.json"),
   "dev-404-page.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/dev-404-page.json"),
   "404.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/404.json"),
   "categories.json": require("/Users/paeng/dev/web/nuggy875.github.io/.cache/json/categories.json"),
