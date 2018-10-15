@@ -17,9 +17,3 @@ Lumen is a minimal, lightweight and mobile-first starter for creating blogs uses
 + Offline support.
 + Google Analytics support.
 + Disqus Comments support.
-
-## Blog
-Github page 에서 빌드하는 것에 문제가 생겨 [netlify](https://www.netlify.com/)를 이용하여 블로그를 배포하였다.
-
-
-Link : https://blissful-visvesvaraya-daef9d.netlify.com/

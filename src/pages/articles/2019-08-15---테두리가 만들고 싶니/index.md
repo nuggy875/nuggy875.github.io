@@ -1,6 +1,6 @@
 ---
 title: "[안드로이드] 안드로이드 테두리 만들기"
-date: "2018-07-22T05:24:32.169Z"
+date: "2018-08-15T23:24:32.169Z"
 layout: post
 draft: false
 path: "/posts/android/post-7"
