@@ -1,2 +1,0 @@
-webpackJsonp([0xe70826b53c04],{425:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Blog by J.Spin",subtitle:"ComputerVision / MachineLearning / Android(Java) / ReactJS / NodeJS",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"},{label:"About this blog",path:"/contact/"}],author:{name:"제이스핀 (J.Spin)",email:"jinugpaeng@gmail.com",telegram:"nuggy875",instagram:"paeng___",github:"nuggy875"}}}},pathContext:{}}}});
-//# sourceMappingURL=path---404-0800e2661571227b10f7.js.map
